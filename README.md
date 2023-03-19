@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StandardL
 - 👀 I’m interested in C++,Python,and AI.
-- 🌱 I’m currently learning C++, Python and Java.
+- 🌱 I’m currently learning C++, Python and C#.
 - 💞️ I’m a collage student majoring in Artificial Intelligence and I'm looking to collaborate on learning C++,Py,and AI.
 - 📫 How to reach me ? Reach me at 821356557@qq.com
 
