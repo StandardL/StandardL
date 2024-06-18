@@ -16,4 +16,4 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_WAKA_TOKEN }}
           SHOW_PROJECTS: "False"
           SHOW_SHORT_INFO : "False"
-          UPDATED_DATE_FORMA : "%Y/%m/%d %H:%M:%S"
+          UPDATED_DATE_FORMAT : "%Y/%m/%d %H:%M:%S"
