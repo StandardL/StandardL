@@ -18,6 +18,10 @@
 - 💞️ I’m a collage student majoring in Artificial Intelligence and I'm looking to collaborate on learning C++,Py,and AI.
 - 📫 How to reach me ? Reach me at 821356557@qq.com
 
+<!-- Wakatime 数据统计 -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="65%" />
 
 <!---
