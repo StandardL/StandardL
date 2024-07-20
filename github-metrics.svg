@@ -308,24 +308,10 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACcDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAcF/8QALhAAAgEDAwMDAwIHAAAAAAAAAQIDBBEhAAUSBhMxIkFRBxRhFoEjMkJxcqHw/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgEDBP/EABwRAAICAgMAAAAAAAAAAAAAAAABAhEDEgQhQf/aAAwDAQACEQMRAD8A1/qeu6kpesdlG0hpaWSBucUfqUixybkDzb3uP30z7PuVRuMFX9xTmjroG7ciG/qFrhrfH/X1z6ncXoqu1LKhTAaMOSq3t4B8G+l3qBqtd5qKiGueglngWNo50DwtkhfyP8gfnGo2/BxipdN0XF3mKl6rpaSaoVK5iOKojOWVuSqhbwqlvkjIwNNtVuU8dXRrJEkSSMRIHa5FrYx75v8AGsTNRuf6spY90hSWtgayvCTwkReTg38kZYgnItp4jrJKgxzWkMYHIK+bA2uDnzowns2b8jivCou7s0OoZnYqrxmIDIGWvf8A0NGlXY9xlSrePtq3fJJZm/lF2Itb20a0Ry3RUpllqZe5UMlQ6RiXmoPkYF1Gff41V6kqC9BJJNFEyxq1wBYsG8mxwbWvq5tQ7ppssq9j+IyPa7H5/GPHzqDcI2h2iWCdm7qgEtM57fFs8Sb4NsW+LaNiMx+p2/VWzLJvdJGiSp26JI5kVwWaP1Nj3sSP306dNVi7r07tddwZDVQ9wrfC4yB+41l/1H29dz3HqhWHdWhpDVL6iOLBovVYgYsSP7eNaf0BHWQ9B9NPtyUzpJSpkpyZW8m/n597akY0bZ8m9LxIYADSJBWiAPwJUKjcbixGbDznRqUncHkpnFYisQweNVX0sLi5FrjRpHPZj7fVHeYYqKSbp+GCWcqnZllde2pHIsbj4zfP5019F7p1FvW9bjFuuzQfawRgpI4deLcmX+oWJtxOMHOdGjRs0Z1OoOk63d9gr6Z1H3dZAYJJ2h9XG4sCwXkQLeDfU3R+1y7PscNHRM00VHeLknnjyLWyBbJ+fGjRpUTZvpnTelqawKFifkgN+4w9WfI/H5zo0aNQiR//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAEDBQYHBAL/xAAwEAABAwMDAQcCBgMAAAAAAAABAgMEAAURBhIhMRMUIkFRYZEHMiNicYGhsqKx0f/EABcBAAMBAAAAAAAAAAAAAAAAAAMEBQL/xAAhEQACAgIBBQEBAAAAAAAAAAABAgADBBESBRQhIjGRwf/aAAwDAQACEQMRAD8ATSD0ZMmR3l1LaX0raWVDjapSk4AAyeOcdDiqrqCwSnrhJNrZdaibzsS52e4J8s89as2lraXLRKmnOGnUj5Wf+1RdVTJqNUT2WZTiGjs8AJx9o8qk1qTe3Ay3VXV2ossG/OpHSdP3ttZKXGgj3UkH/dMIauUd1CHMqKlBIwpJGT+9JIi3OT4GJTylbSo4ITj5qFg96bu8VDkh8kPoCgs/mFUADryREHSvkAFIBmoWi2yYb7KroygJ3BOxQSsKyQPL2zRXRrS492mxGAeSgu/ChRSaI1qhzC5dS0XNWnwS46Q2t/T+7Ajx97aH+dYjre8pt2srolTPak7NvixjwJrQYt6cj3FVnTw28624fjdTly0jYLlchPnQ1uyVEF1XbKAVjgYA6cD3oCWim0s/wyni4lmVh8KT5DfyUe0O3UsMyERyntR0HPHln0pHdKvduxLEtQkl5Cy0vGDyM8+taSxarfHQ4lhlaQfsHaE7R7+v8VG3MadTPYbmlZdaGezS4rIV5E46D2NE7zkfQQ56O6KDYR+yvfUY51NCAPBhr/tRSawW3N1Nb3GVhaO5ugnHQgk4PpRTNDcawDI3VFJynInh+SpN9TcWAy8kIaKfxkjkNgHIJz1rtd1g+Bh2O0AOmHUnH6eKiigcFfXIfJmvLuoBFbaBjDmt1AFKW0Jz1BcGP7VU7lcWn7g5JIQS6rcrCwcH5NFFM1VIjeomL87IsXTNvUftk9JloW4tKUJQtOCRnJSQMc+pooordijcXS1mGydz/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">K歌之王</div>
-                                    <div class="artist">Eason Chan</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQgG/8QAMRAAAQMCBQICCAcAAAAAAAAAAQIDBAARBQYHEiExQVGzEyI2N2FxcnMVIzKBgpGh/8QAFwEBAQEBAAAAAAAAAAAAAAAABAIDBf/EACIRAAICAgIBBQEAAAAAAAAAAAECAAMEIRExQRMUIzKRYf/aAAwDAQACEQMRAD8Ad+tXu9n/AHGvMFZsTfxNaT1p50+nfca8xNZuSKRTEVdQclsRS2JDyW9/6bmpzS0rQFtrC0K6EHiuTzFleZOQJZmENurPo2wBYACx561cZQwyXh2XmUy21hJUpSVEHba/QHp2q6soWWFB4mhRxwWGj1NPaQ+wUD6nPMVRRpD7BQPrd8xVFHs+xhW7Mj61e76cACSXGen3E0o9MMsnGcXMufFW5hUIFb1xYLUBwjnr4keFOvUoMKyyRLkoismQzd1YuE+uLf2eP3pEYfmibAwt3DnJSlwlrUpSbm5/l1taj3ZPtxsanQwcN8pSKzsRjZ2ymjNOCR3sPShmSi4hrbSA3sveykjtsPbuLd6p2oDGAOQYP4ipthR9EELTcrG4JBWk8clRNjVRlPOGJR23G8OjSpEKKgpbQgFe0nkgXPTjtyK4/MebH8SxUnE2X0TEJDagU7SLKJtbta9XiGu35F1z+zLLpvx29Gzx+TUeU8LGD4K1CAA2KWqw6cqJ4+HNFV+mc+ViWSsNkz1lx8pUkqPWwUQL/GwFFW3Zgjo7lHr4paNNJymyrcl9ggp6j81NIrCIkrNU+PFQ1Caku9XHUrQCe5O0gf5RRUuoZeGHM6GAzKGZSQf5Gtl7TLF8MjOtP5lajRl+s41h7O1S7dvSLJKfmADSw1geZmZzefiIslKUJKvEgDmiiqoqUNyBMmvsckseTHpoYoq01w3d2U6B8g4q1FFFUwAJAhW2STP/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">十七歲</div>
-                                    <div class="artist">Andy Lau</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBwQD/8QANBAAAgECBAMDCQkAAAAAAAAAAQIDAAQFBhESByExEyJRFzJBVmFxkbHRFBUzRGKBgqKy/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgMABAUB/8QAHxEAAgIDAAMBAQAAAAAAAAAAAAECEQMEIRITIgUx/9oADAMBAAIRAxEAPwBCnFHNAhCvjWJtLpzYTKBr7tlUGXMzZ2zDEVs8ZxC3I/MSzrt/Zdmp+OlZjhFqLu/RGGsY5tWy5Ze1sYwjMqMygD0e4Cr8cSaujKybLhJRsZ/dHEKWEva51ncqu5t6KvL2cudQ2Ysy8R8Amdb3HL/swdO0Xbt+VaTFmi2gn7HcWlVeg8alMx4jJdROtyRIJSQwPSh9TT6iPZSXGQvlNzp6x339fpRUtfrHHiFxFF5iPoPnRXPGI9NvtjLLU8cNzKJNO+BoaqraQ9sqk6prUFauqTqX1CHkSPR7ad3V1c4XarNKyvASAkmuoOvSmw2I4vmZn7OnPLLyxlNh9za3dzM9jOZHiYodCevTkT1HurwxmdrPDHluWKBdetQmB4ibPEALU/iEqoJ5AsavRhqSRCfHZFkRO92RPcXT0nxpMt5ODTXR0vzHjyqn8mdRpMZJLmaNkS4bcm4abh40U0x2/GI4i8qaiIdyMfpFFTFyPS1Om+FB5Mc6ert78U+tE/DHO01t9nkwC+MQbcF3LoD4jvUUUtzb/o1RrqOW34S50gmSRMBv9UYMPM6j+VOMQyLn+/5T4De7OuxdgH+qKKFUndBu5KmziHDHOnq7efFfrRRRRexi/Wj/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">每一個明天</div>
-                                    <div class="artist">Eason Chan</div>
+                                    <div class="name">遙遠的她</div>
+                                    <div class="artist">Jacky Cheung</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -336,9 +322,23 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBQQD/8QALRAAAgEDAgUBBwUAAAAAAAAAAQIDAAQRBSEGEhMxkUEUIiNhcYGhJCVRweH/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQID/8QAGREBAQEBAQEAAAAAAAAAAAAAAQACAxEx/9oADAMBAAIRAxEAPwCZ8nypb1DV5n1NbGw5FJkWPqMM7kgeKbilJpaHReMo7q4jDwCQTYADYB75H1qaUPSuAdAzZqmj3mi3gtL6WG4YxrJHPCdpFORnHociuJlpk4m1S01h7WexaJ4OmSrRqRsTsu4HbFYTLU5K5HVvtnOdpn5cbLvRXsy0Vu5WreyC2tJ52G0SM/gZqW801wXuZ5MyO3M1VbVoRNpl3Ht78Lj8GpPakNbYI3FSE98N3C3OkxrgBofhsB+D4rbk0u9W2a5a0mECrzGQoQuNhnP3HmlLg2QdeePYBow3g/7VLOvNJpbW36RIWhWEpIx5wVC5YEDbmI7Z9PKSnc28sBUTRPGXUOocEZU9jv6UVv8AF2ujWPZYgiAWsax9QY98hQCdh2yNvlRSXPPZ8sTlyeQKSfpio1aOGYoCcHtRRSFvcIN+9pGSfiIy/fGf6p5e0P8AFFFK3g9qd9qKKKS//9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYFBwEDBAL/xAAtEAACAQMDAgQEBwAAAAAAAAABAgMABBEFEjEhYQYHUXETFBVBIiNigZGhsf/EABoBAAIDAQEAAAAAAAAAAAAAAAECAAMEBQb/xAAcEQADAQEAAwEAAAAAAAAAAAAAAQIRAwQSMSH/2gAMAwEAAhEDEQA/AKps7y2ncRyWFlATzJGGyP23UzeH9RvtGaU2eoSRw4zmE5B98iq6RypyD1roF1KqkCRgD6GujFy5w8715Wr3S2IPFOs6razK+qgouFYZx/gqEeZorndKlrebj135YCkS3upV3D4rjP6jW3UmurW4aKaVjjg7s5FBXMrUCuXTo/VvcGDWNTi+sKLa0skVYyhAhG09yDnr3opOklYtuLHPvRVT7zvw0rw7a+4eQakdK0u81OQLaW0siZwzquQtRg7mrM8pLpI7lIYDlzueYMDt5AUenH91kdtL8OnPKbtKhF1C3jg1V7eJZQilVxIpVuBnoeormu7hppMsOBgDtTp5rKy+LfnYLZY7Z1X81eHf7k+h+2O1I9wQ0pIbOe1FdG5wW+Mz0bNDHmisMvWik0tWGVPapKx1FbYBwCJVPTZ+H+cc0UVExalM06lqd1qMu65lZ8cDPQewrjyQKKKAcPJNFFFQdI//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">四季</div>
+                                    <div class="name">Special One (feat. Eason Chan)</div>
+                                    <div class="artist">AGA</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACUDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBggDBf/EAC4QAAEDAwMDAwMDBQAAAAAAAAECAwQABREGEiEHMUETIlEWYXGRobEUMkJSgf/EABgBAQEBAQEAAAAAAAAAAAAAAAMEAQAF/8QAHxEAAgMAAgIDAAAAAAAAAAAAAQIAAxESIQQxEzJB/9oADAMBAAIRAxEAPwCs9MNJxHGpBuUBm5PbwCd42oQf8wSRkc/BqjXSAIuunI7TAaYW6C204AfZ9vjtTYSz9Lx5pix0sym1KS5DCzjIGVbTnIGc+e1Ly6Q0u3KVPMRxMlr0nBucV7cnyT8fvQ1MzEmeheiooUSw6D6YwtVSp8mfdDFZQ4vaw3gKIHknwPwKX/ULTjNhvqo8B1b0UpK0OKByQDzTQ6T36PBlXW1XBLDlxDxcjryPdn+5IycdqidRYbuqNTLi29DLZiwkhSeAEqUeTx+P1rlZ/kyY61inlFlb7K+/FS7HfbWlX+2RjjtRVkjWaQw0I7CFqS0SCoefNFMd2GoUgGPS56KuGooj1zYdSmRKdW76Czg7FE7cnwcftSa1vp+bb7jNi7ggq2uPltBVgkeCT9u/mtcaajLbswZcS4XEnAVgZA44GKzh1Oivr1lfUyVyWXEMpU20taRtSVEJBxz25896ypQDkjXyGsOn1EwqEoNPu7llxHZR5JNejpy4S/qOFKkyHFuHDROcZSBgA/NR0PLQw96oC1pUrP8Aw/auamnIzySncSkpcGe44pMAOx85DJpLppoZOqLPJnypbjbIkFtpAT8AZPf5/iirF0Ffei6ReRd3EsOLfLraFrGNhAwR+lFT2OORk22r1Ge9iDCe9H2lCSrvyKyr1Rvjw1ZdUTVtuLkRk+4qx7Ujtx557UUUtX6YVf3yJ1pxCXnP6jehKnBnjt5xUhxTsuWhPqgqcKW0kDg5OB/NFFJ7lh63JsHR+jH27DEZXNKfRaSgFKASfPJP5oooqN1HIwU8mziO5//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">單車</div>
+                                    <div class="artist">Eason Chan</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAYFCAQHAQID/8QALhAAAQMCBQIEBQUAAAAAAAAAAQIDBAARBQYSITETQRQiYXEHMlGB0RVSkaGx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAIDAQT/xAAbEQEBAAIDAQAAAAAAAAAAAAAAAQIRAxITUf/aAAwDAQACEQMRAD8A1TljFssRcFjoxTD2XpqdQcKm3CpfmNiFAgDYjt2qYezRlaMtKYOWo0lsKSdannUDVffY3PHrWrUE35r3Q7ZKt+4Nd8kqO22Wc3YOzg7aH8tsP6HFAqVJWL8E0pTczYO4xMDWV4bbrxPTc8Q4el5bbC9ib2Vv3uODS+5KV4JKL7FRP9AVGrVem6yM2Z8XzDgkuBIYh5WjQ31pCUSESnFFsg3KgDsb8WO33opVoqZnKTbt/NdjZQ8tx6Xq5S8hZMgQ+krBoakJ/cgqVzxfmhHw5yQ4Oq5gMUNqHnGhQ29Bf/KScsg0q9juVfAZZiYrHnNSkFDan9IKQhTlyhKbi6iAN/p7b0pE+oq7Q+H2Au4V+jpSF4D1EO+DcSVbp+Wy/m7DvxcGpJrIeVZLR62XMMvYt3EdN9Pval9vreqidFXfn/DDJcqG5HOCxGUFCUktjQoaeDcb/mij1g0UG5WKuKbWt90IPCQd7+9STUzGXVgdRSWk7FSSSfxRRVKlMWay7NUpJdekLCuNKiB9/WhyRjMcK0OydP0LlvL96KKlclOkYE2XiqtK+rIR3sVki3uKKKKeZJ3F/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Bitter Gourd</div>
                                     <div class="artist">Eason Chan</div>
                                 </div>
                             </div>
@@ -453,7 +453,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jul 2024, 20:11:45 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Jul 2024, 21:08:15 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
