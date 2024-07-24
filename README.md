@@ -20,45 +20,7 @@
 
 <!-- Wakatime 数据统计 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2035%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                79 commits          ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
-🌆 Daytime                68 commits          █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
-🌃 Evening                172 commits         █████████████░░░░░░░░░░░░   51.65 % 
-🌙 Night                  14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   54 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-Tuesday                  63 commits          █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
-Wednesday                58 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
-Thursday                 63 commits          █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
-Friday                   25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-Saturday                 42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Sunday                   28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
 
 **I Mostly Code in C++** 
 
@@ -77,7 +39,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/StandardL/StandardL/main/assets/bar_graph.png)
 
 
- Last Updated on 2024/07/23 18:41:07 UTC
+ Last Updated on 2024/07/24 18:43:38 UTC
 <!--END_SECTION:waka-->
 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="65%" />
