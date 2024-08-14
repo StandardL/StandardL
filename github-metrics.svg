@@ -308,24 +308,24 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAkACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAMEBQYHAf/EACsQAAIBAwIFAwMFAAAAAAAAAAECAwAEEQUhBhITQVExYXEHIiQUFTKRwf/EABgBAAMBAQAAAAAAAAAAAAAAAAABAgME/8QAHhEBAQACAQUBAAAAAAAAAAAAAQACERIDBBMhMUH/2gAMAwEAAhEDEQA/AOtvkSkCNjv4pFyjMSpjKj3qruuLNOsnga+ldS/3LyIW2xjtSdQ450QRg9WclvTERNc7pKjHKdqKpGkjuVRVB3Y4Fct07UrqTiC9tJ5xPZRxh0YxhMHbGPI9d6b9WOIk1fTIIdKWZrRXMlw7IVwfRR8ZNJ+q9i2njhy+jQxfjKucYyQFOP6NGPb7FtOWvT+ztQgSTrFcbt2+BRWSteIVN2y5dVdu428UVPiSqkWXGl3EkJkuSZIwQPxAwGflt6uNH4uvtS1BLXnM3ODhP0yx52z/AC5jWLTR5mb7eUjtuc06LTbuF+ZJijYIypOcV0ZdMTUDbTi2Z7di+pWi8oiLxxtIGV3zgZA7Dwayep3N+1tafu/WuGLmZGecupUgYAU7CkjTr24mWMytMOVmPUkwFAGe5qpVJZHRA7OQcBRk4rTA4gFD9WfqUsIui8EIRMAlQdgcb4oqJcRSRyFZFKk749qKMg3PH5becYcAbAUKx5Me3+0UVEUZpZI3kVJHVXQqwDEcw8HHbavYYIixHTUBRtgUUVbIl6yzXMUPXdmEQKovZRRRRTgv/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgEFAQAAAAAAAAAAAAAAAAcIAQMEBQYC/8QAKxAAAQMDAwIFBAMAAAAAAAAAAQIDBAAFEQYhMQcSEyJBUWEIFTJxFCOB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQACA//EAB0RAQACAgIDAAAAAAAAAAAAAAABEQIDEiExQWH/2gAMAwEAAhEDEQA/AJUUqetXUt3RpjWu2pAucprxvGUEkNIzjypOylEg87AD1prmkP8AVOzZolntd5nQkSbm2pTDKFk9i0Hc92CDgEgj5pgS1PQ/q1qC960bsN9kJuUaShZRIDSUKZUlJUMlIAIIGNxnOKkYDkAgioHydbRnLS05arVChXBI7U/0g9o4UU7Y49+c75rvukPXCfalptN2gvXGHnDfghKVs/AyQCPgnPzTPwQlnRVqHITKisyGwoIdQFpChggEZ3FFZNLtJ76jNNIvVgZnqJ8SAhZb85T29xTuAOdwkb7YOacNcT1Yt0idppbtujtSJ0YKcS2oedaMeZKD74xt8UZXXTeFX2Rl/wCjUd6Ha2dMW1iSJKUpflOSVBSVepUM4A/QrN6BdInfvEi+X5DjEeI+5HZiKVu6pJAKz7AHI9c/rnzY9U3Cfa27ZZIbzsmS8lkeG8tpxlZP5Ap3GOScEAc7VI+x2/7bbGY6lqcd/JxxRyVrO5JPrWNfL267oxjw2AGBtxRRRXRwUBFYVximQ2Q24G1nklHcD/mRRRUnD6d/laW1Gu3PwnJDM97uTLaR2toGOCCSc5pjZ3ooplCiiihP/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">好久不見</div>
+                                    <div class="name">Youth Anthem</div>
+                                    <div class="artist">Alfred Hui</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAIDAQEAAAAAAAAAAAAAAAUHAgMEBgj/xAArEAACAQMEAAUCBwAAAAAAAAABAgMABREEBhIhEzFBUWEioQcUQnGRsdH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQAAf/EABsRAAMAAgMAAAAAAAAAAAAAAAABAgMREiEx/9oADAMBAAIRAxEAPwD6ggGIEB8+IrZWEBzDGfUqP6qO3LeIdv2LW3bUxyyw6WPxGSMDkwzjrJx61Ppt6OtpLZKUqn4vx6sMhYLabwWVS5VY0ZuI82wG6A96svbF6h3DYNFdtLHJFBqk5qkmOQGSO8HHpXXDn0Gck14StKUoQzjtWoE+jjPqoAOajt7W57xtW5W+F1WSeMR5PkvY7NQOkujRxeFp3YMcdgE/xU5bo7g3SSLFGeyeAyf3+aorHxfImjKrXEp24bSt+1bjbGid3h1EPhayUr2wLAZUY6HZ6NW7thNHYLDBbI9Q866Uuinh9RHIkdD4OM/FTP5GF/q1A8Z85y/+e1dKIsahY1Cj2FKdbbbfo/XUpLWjUmo5kFIpSp/URgfc5+1K30oAjytgtBVVZs4AHdeoRAihVGBSlMy22+xWGFM9GVKUpY0UpSsY/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">沉默是金</div>
+                                    <div class="artist">Sam Hui &amp; Leslie Cheung</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcEBgEFCAP/xAAtEAABAwMDAwIGAgMAAAAAAAABAgMEAAURBhIhBzFBEyIUQlFhcYEIFSMykf/EABgBAQADAQAAAAAAAAAAAAAAAAMAAQIE/8QAHREAAgIDAQEBAAAAAAAAAAAAAAECEQMxQSEEI//aAAwDAQACEQMRAD8AfDrExUoKblbI/HsAGe33H1+9YlzGLPAel3WeluK17lvyClCUDtyQAO9Tf3VfvU6zXVcrTkySrfJQWHEt5Hf5QrGAa4abF0aWL1GtqtQ3CPNfZjWhlpCmJzgUlK1c7sqI247YIP5q8IcS42lbawpCwFJI7EHtSyidOn5N2mQbvKeXp6OEqhpQG0KWVcq9wG4Yxg5JzUTqn1Bu+k9WWyLDZR/XFsLd9Vokv84ISrwAMcjzWfejRxqcqxuxsE/c0V4xZDUuKzIjuJcZeQlxC0nhSSMg0VLCaJA4HelO/ChTOowejun4ePITIU9lW1C/mBwexVxk8c00LhIREt0mS8f8bLK3FHGeEpJPHntSW6Z6pjTJd3VbW1S3DF3L9UFvaCoDyPdyRxTY+sOfEPP61zv/ACLlsTr/AGxqPJZeTHjK3BtYVsUpfY47HA809L7bfjdNzbcha2y7GUyhQVgg7cDn8/8Aa5G1IwxakWz4R31i9CbfkJLgJaeKlBScDt/rnB55o6b8R3fK4Q/ST0Pr+PlykzNFvxZRKhBklppRPyEBWP0SaK23RWJFj9OLW7FRhUoKefOckubiDz+sUVmqAzTUpuUdFh1jb7hdtNzbdaX2I0mUj0S88CQhCuFEAecZpYdNOmd+0/d/i5kiK3GdDkd9tB9+wFJQtJwRklPY9hRRW1JpBNWOKdAi3CGqJPYRJjqxuQ6Mg48/n70tdU9HbZfJXqNyFwWGQ23HjxwAhKN+5zdkEkqBODnjjxxRRVJ16Xb1wt2h9MN6Ss5tcaW9IiBxTjSXRy3k8jPkefsc/XgooqmyH//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">阿貓阿狗</div>
                                     <div class="artist">Eason Chan</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAmACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUCBAYDAf/EAC0QAAIBAwIFAgQHAAAAAAAAAAECBAADEQUhEiIxQWETUQYUcYEjMjOx0fDx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQMEAgX/xAAgEQADAQACAgIDAAAAAAAAAAABAgMABBESMSFBBSJh/9oADAMBAAIRAxEAPwBq55jgY+lR4T5qWNz0pJ8W6vd0eJG+WVDfkFsMwzwKuN8dzk965EpGreK6y11ghdvWdElemfevUduxYfc/zWRh69qUNoh1iMHjyf07ltRx9cdBsfpgGtFA1SJqDXUiu3q2vzI6lWHnBFNrxXn8nJhzZ2+Aej/dcZ+HJKgnz/tFUNW1OLp9oGY7KCM8qk0VhIsw7AzH5E0PTMBmRDBdw2aqa5o1nXNMt2udJMfidGU779RgncftXckcuwqVtuFuJdmHehGpk3kMbRFkKNlaXrsVItv0bky9ET8FGAznABwD4GPffalegRpc7XJOuTLLRrbBraW2zl26Hrvgee+1bkyo1+MxvIFloOV1GOL++3Q0uYk54iSfNW25QK9L96GXB/cM31sl8eR71+Pb9G3cchCMIue49qK1bnCHrRS5cszUKBhyfxq3oXLdaIVuJebFWI8VpBwrgfUUUVDuoN1fTnt4LXB9hUhByhPGNvFFFHa3CRHNu2eYHxiiiitp6yn97//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">愛與痛的邊緣</div>
-                                    <div class="artist">Faye Wong</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACIDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBQYCCP/EAC8QAAEDAgUDAwIGAwAAAAAAAAECAwQAEQUGEiExE0FRByJhFHEVFyMygbFjksH/xAAXAQADAQAAAAAAAAAAAAAAAAAEBQYC/8QAJREAAgEDAwQCAwAAAAAAAAAAAQIAAwQRBTFREhMhUpGxFGKh/9oADAMBAAIRAxEAPwDLZjbKPSJhZBv9K3yb7Ep7UuX8KxF3L8KOvDZjKm1PyOo42oJWkpSdjbwi9NWU63N9MWWF+5DcNpThRzoTZZ/mzah8H71qM1qh/lTjrzhdXGaiWjr8kkBCh/tY/G1TdK8aiQmN2MaC2DUy5OwExfrE2lGQMkF4gttspOnf3npI9txxffelQ05GRGaZcAAWkuKWNXO4SCPjyP5pu+uB0eneT1ApBCUC1v8ACKVMrDZWqOS0wEKRbUDsdr3I870dpLZtxnk/cAvqgSp54kZMcFIP1DIuO66KnoytLUhKuojcXopn1DmAd9PaOj04nmPhDsOcwmTh70Zn9QkEXUgJU0rztb7A28VVZUfmZNkT8AndN5g9VR6idQ0XSEcm2kgnY96xeAY0rL7pgynj9HPZbdQTw2uwv9rgf1TQxySxiUZubdK0hTaG1oIuVKso3J+QBYm1+amLmiaVRsjKt9yy09ErUlYHJG8tMawCNnXL5w7EG1JdabKojm6S07p22G1u1uLUlsGgypOBtuPNFXTcLRFuAnmvSUA6WA8FFQVpbRq2JUrkntxSgjYTmTA5M2JJwrXHU66tKkkFJJNwCb8bVjSboqroT4z4z/Yo163VypA+JDRGRoTdty9vNFSBgWc1jW1DT01bp9yeO1FNu+vsPmT3436mYzMjLUjLbTqmwHmYzRCr88D+q4yVj8zDGA3MEr8PeUNKm29YKhtax/5RRRJRWpFWjeyrvQcMh3MeLGIIEBh8uuNwXALS73CAf2q72TfYnt4rZwk+xDExSnH0ki7igolNtjcci1FFRVdQuccmUd25IAlwHEpAASmw2oooofqMEwJ//9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">等你等到我心痛</div>
-                                    <div class="artist">Jacky Cheung</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -336,10 +336,10 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcDCP/EADEQAAEDAwIDBQYHAAAAAAAAAAECAwQABRESIQYTMSJBUXGRBxQVM4GxIzJCYcHh8f/EABgBAQEBAQEAAAAAAAAAAAAAAAQDAgUA/8QAIxEAAgIBAwMFAAAAAAAAAAAAAQIAEQMEIUEFEjEiMlFhgf/aAAwDAQACEQMRAD8Ay+EhgW9t5xQQVpAK89pJ8R4mmU8Cz5EVa4F594eRulCjt+wyDt6VRtxX5lukLYaWnSG21HSgatRwkADtdR4bU5WhU+BfYsWLBddmONqWWNQQSjSSTk7d2w7ztR91HnmXIDGI0ufOmJ50hmW5JGpt9YQrSlQONsbDbbFd7NBkTUOLBcbYCQCkrIUT0+9Mdr4gjx5VyixULkl2S48gI20pWc75781fcC21Uq9yVT4smOz21JUBkBeQU5OKY7Ykx+pq2nOLZWyUq7XEp2NbbClmQ+TKuLSQDHfdC0NLyQcp6LVnHY6D9WTtRVj7QrXAt12tUmKynlrcW28hKBgq1AHYeI7qKMt1sZUiW3DMpTCAw0E8p8Aq23yk5Tj6mmu4FhN2ZfUplLwaCeYThQG+w9axsTnZAhswxI54JQQhXzCRgAAeVQhbblMmoQ3HW9JWtTfLIOvUDgjfvpGLTEDub7jU1gxPYFx2sU6JZ/bCtyJhEYfhuaE6RnThWB5n1rV5/FNvVzEtqCnykjJ8tun81534edELiNgSEaHkOEKB2043IPpWhG6Q0XO5BoI5akJSCD4f7XN6h01dTlDkn8mE1RBY15jFeeHzPlKmxZMNuI6pCihuMFKBzkqyTjOds4opPvHHUmx22E1DbYfS6pWsLUdtJGNgaKfjx0oHxAnvY2InWWXd7FOZukWDqWlJU3zG9enPQ4xsasbFcZUV9u5Nxz70hx19IcbUrCsJ6/UZ86KKYPdUplAC3KBxuT8d5q2XlKcc1KJQTkq6/eoq2ZbIKm2nUqA0/L3IOx7qKKi3M8OJHVEf5bZEd3IyPyHx/uiiiszQn//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAmACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUCBAYDAf/EAC0QAAIBAwIFAgQHAAAAAAAAAAECBAADEQUhEiIxQWETUQYUcYEjMjOx0fDx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQMEAgX/xAAgEQADAQACAgIDAAAAAAAAAAABAgMABBESMSFBBSJh/9oADAMBAAIRAxEAPwBq55jgY+lR4T5qWNz0pJ8W6vd0eJG+WVDfkFsMwzwKuN8dzk965EpGreK6y11ghdvWdElemfevUduxYfc/zWRh69qUNoh1iMHjyf07ltRx9cdBsfpgGtFA1SJqDXUiu3q2vzI6lWHnBFNrxXn8nJhzZ2+Aej/dcZ+HJKgnz/tFUNW1OLp9oGY7KCM8qk0VhIsw7AzH5E0PTMBmRDBdw2aqa5o1nXNMt2udJMfidGU779RgncftXckcuwqVtuFuJdmHehGpk3kMbRFkKNlaXrsVItv0bky9ET8FGAznABwD4GPffalegRpc7XJOuTLLRrbBraW2zl26Hrvgee+1bkyo1+MxvIFloOV1GOL++3Q0uYk54iSfNW25QK9L96GXB/cM31sl8eR71+Pb9G3cchCMIue49qK1bnCHrRS5cszUKBhyfxq3oXLdaIVuJebFWI8VpBwrgfUUUVDuoN1fTnt4LXB9hUhByhPGNvFFFHa3CRHNu2eYHxiiiitp6yn97//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">與我常在</div>
-                                    <div class="artist">Eason Chan</div>
+                                    <div class="name">愛與痛的邊緣</div>
+                                    <div class="artist">Faye Wong</div>
                                 </div>
                             </div>
                         </div>
@@ -460,7 +460,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Aug 2024, 21:13:01 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Aug 2024, 22:08:24 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
