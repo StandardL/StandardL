@@ -308,30 +308,9 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUCAwQGCP/EACoQAAICAQMDAwMFAQAAAAAAAAECAwQRAAUhEhMxMkFRBiJSQmGBkbHh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAVEQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEQMRAD8A8/yFYiDID0e5+NOqe2ULtaWWnYtyheroArsQ348gYH/dcpvM3TNGkUnWg+7znB1s+m4Jb+6VqteRo+pCxwjPwBn0ryTqjo7m10KlFbVie1HCcAOYTyfjxjxyNJB2yR25A6nPS35D5xpXvNuwzvTmDJ2ZGDKSfV48HV2wdPRJwS+Rz5wNBHfYXdu92gi8Lk+pv41V9P7lY2veK1ylII7EXpZhkf176fTRpIyO4DFOVB8Z+dKINva9vq0K0TPYtMFjCfpOfj34B0RhvTNPalmLEvIzMSfc55z7ac7RA8MIBjVA33NzrJvGz2KU8iSqsc8U7QyRcjtsPGc+M6a0ZEaJE5VlUZUnnQQRi7dKkZPydJrFsQWnZEZLcbq0NhZCrIRgjjx+/sdGjSKYzbjY3Zn3S86tYaUd8ogUP9oAJAGM5/3VwrmSvHyUmAyre4OjRokf/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcIAv/EACwQAAEDAwQBAgUFAQAAAAAAAAECAwQABREGEiExB0FhFBUiMpEIE0JRgaH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgH/xAAbEQEBAQEAAwEAAAAAAAAAAAABAAIRAyExIv/aAAwDAQACEQMRAD8ARsaVgqs0ZtyQ60h0pUHkbc5SQevfGKjWh1adH2GHHXCeWEz2IoeZJIIKyd5JwRx/XFZ0db3AWaJb2jlDJKlKc5JOTwParn4q1fNjsyltWiFJZgpU6oOoBTtVkKzn05zxQcQ9zuhfzI9dWq02qOy5bXI7yzICVqbjllaAUKylQyUnkZBBPGKk+KHEsa5skltQSoSm+M4zlY/NePMHkhGr1xbbDttqjQoikvpdhtFtS1FsBSVZ4IBJAIHNWHxpoYMfL9TXe7xosCK43MVlJJ2pUFYPvx6Z5q159jBfl1Vrh0/ImnHGS6PiWyEIVg9+tFY3rz9QemZEX4e2RZ7rjbqXAvaEA49O/eii8mVekvi0ZONyk8gsvLbVjKTir34qedccvEVqSlAdgvocRtBK0FpeMZ44WEGs6LhWD3mpdjuL1quCJLAO4cKx2U/yH+jinc9IcvGZwEIkaWLS94cRJU5nYjbgI6z92f8AlML1fXJGiLXCbKkBhxQdbySkn0V+KTQ7fImXqRHtCSvcTtG4A7T6c/itosHiuA9YIVvu0s/MZ8pASGz0c/aPYDOTjup0hyrJp7y5+WsqPdFOdaacmaT1RcbHcQPiIbpbKgOFp7SoexGDRSkXJLyOcGpMcnnjIPdFFY2lrmhr7p+LGfUrTDEy7Q3AtcqRIU2kpUojP0nocDqlHkXyJcJF/jJs7DFmcgIKP3ILiiorVgq+sqV11waKKPIdr2oWdXK4TLpMcl3KU/LlOfc8+4VrV6cknNFFFLHf/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">無人之境</div>
-                                    <div class="artist">Eason Chan</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQgDB//EADAQAAEDAgQEBAQHAAAAAAAAAAECAwQAEQUSITEGE0FhFCJRcQcjgdEkQlJicpGh/8QAGAEBAQEBAQAAAAAAAAAAAAAAAgEDBAX/xAAfEQACAgICAwEAAAAAAAAAAAAAAQIDERIhMQQU0TL/2gAMAwEAAhEDEQA/AFxpTVkjwzJAOvl3Hoe1WEdxlKU/hmgr9Vhc9qX2JGRIUHA5fpbapQxLLoUA2/beu5OtPZLkHsXuOjk8Y+fBthS2gQC0m3sKtWTFWm/JZI/gPtSXFklac2ovtodamR47uJMuluRIZDSSoBuwKlWNgb6gaUbPJjFZYa6ZTlqhpdTDTYiNHzevLH2opManrYiJbnyB4hJIVrc79tKKcb4NGUouLwKCZrTwQGGiga9b1LMp3Lkyp9biqaI4lLpAtl6e9TuYbHUWPfpXn6pPg6peRZJYb4GHg1tc7iGDHfCXI/MCnEX/ACJ1Vf6VpR7hHAJcNlTMJmIcoVeOOXmGhsbb1l3hqdIi4zHVDJS6o8sGwJ82nX3rRkLFXE4epp5QbkoaCSL7kDp67VdN+C1vVbLsR/i/wngmGQlYhhyFRZGdOdpCsyFZutjqn6G1FUPxN4ibkeKhLbJkuOIVe+yR096KSwujOz9Hj4SA5cJP9V3SpQt5VW70UVCYLvhdBOKsPFPlZ+Ze9tRt/tPkXj+Q9i761tgsoAQbG1wOvc0UUlJpcCEPH8RGKYzIlhOXmrKstFFFZ5A+z//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">愛在深秋</div>
-                                    <div class="artist">Alan Tam</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACcDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBAUHAv/EACwQAAIBAwMDAwIHAQAAAAAAAAECAwAEEQUSIRMxQQZRcTKBFSIjJGGh8eH/xAAZAQADAQEBAAAAAAAAAAAAAAACAwQABQb/xAAfEQACAgICAwEAAAAAAAAAAAABAgADESEEEhMiMUH/2gAMAwEAAhEDEQA/AOLP09jd+pu+2P8Aa92lwsBBUjeTg5HGKheEsC25R+oE7+/n4pmsdH07TbJNQ1hpJh1CqQx/TIQeOfbz8ULsB9lFNZY6jN6LWK8LKF3MgGT3X/aYL7SoJCepAjAD2rO9GzWwnult7CO1V23KY5dwfHGceKZ5rtmVVCNt+e1c2xvYmeh44HQD7EP8Ck6soChoy2QjD6R96KcRcbxlXOf4btRW8zTHiVn8nFotD1K6uXijtJeooLEMMcYJ8/FbenaVd3ulW0E+Ua3lZ+jKDllIHjwaf9C1y2u4wH2LOF27qk1hT0RKn5mHORRWcls9SMRFHBQDsDkTC9LQzrqUX7UIkWU3keMHgUyXmoXVnMVmtHMB7Ohz/VUtH1a0uFxIcSJwAP7NSazcukLGIiVk52mkliW2JYqhV9TM+9K3b9fTJ4opjw2V7/NFLyXK3MjPGscUp5IUcN/2iqRWRI25AJziQ3ORCJLEGKfgkAd6LL1Zdwgw3UJYYwcCiiqErV9GSW2tVtTMK+vJW1E3NujINwbaM4OKunW9UjtiJl3o6kK5Xt9/eiim9F1qSi1xkgyrp+pTQK0b8qxByRz5ooooyoihY0//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">千千闋歌 (Live in Hong Kong / 1989-1990)</div>
-                                    <div class="artist">Leslie Cheung</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACUDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAQDBQECBgf/xAAtEAACAQMBBgUDBQAAAAAAAAABAgMABBEhBQYSIjFBEyNRYaEUgZEyM2Jxsf/EABcBAQEBAQAAAAAAAAAAAAAAAAMABAL/xAAfEQACAgIDAAMAAAAAAAAAAAABAgADERIhMUETgaH/2gAMAwEAAhEDEQA/APNoJIBEONSD9+n5pW5vIopnKN0AZsqeUHTJPYZ0yaw+ebTXBGfSk907cyWgafilnlfxFJYKFYaq2unbv1ziuGOozO0Xb6jpuhGgaSOaOPB55I2VcZ65IwKzHKsgIQYZSQwxgr7EHUV2E0t3Lu/9WIVNndZhJMgOM6NjJx66k471zW2dnxW19YXdkrRQS25Twic4KkDGepOKOq0v2Ir0qBlTnAkUZbhwpJA9tKK3WNpCWwRRTzPKfakrR2Lxq/NKREre7af5W0ZS0azC28ksmSYVjcqytwnhIwDk6ehpbeLyYbedV8uGdWcD0xjPzTUbrc2sTxkqyDleM/pbGFZcn79fmjsPhj1V7rhe53d7Nc7V3MVUWO3ntiLgKGyCupIYYyG66Y1qm2mUk3Tt5outo6vj+B0Pwc1WWUzNs+e1fxpHlIDO+WXhzkEKw0brrnTNN7QvhDsq4teHhedfBjjz1JGB+B8UKD4yVHOY9VTMu78efkTMjcIAJAGmhNFSNCNM4OnrRWqYYvJGrhopUVgRgqfT3qhl2PdWrl9k3AWNj+1IdB/RooqIBlsV5EmRN4CEXxLZA3fjJp+z2e0En1F3cPc3BGA5GAo78I7CiioIB1Ea134Yx90BI80KO3NiiiiqHP/Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">歌.頌</div>
+                                    <div class="name">Unconditional</div>
                                     <div class="artist">Eason Chan</div>
                                 </div>
                             </div>
@@ -340,6 +319,27 @@
                                 <div class="infos">
                                     <div class="name">可一可再</div>
                                     <div class="artist">Eason Chan &amp; eason and the duo band</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcFBgIDBP/EAC0QAAICAQQCAQMDAwUAAAAAAAECAwQRAAUSIQYxEyJBUQcVgRQjMhYlYaHR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQADAv/EABkRAQEBAQEBAAAAAAAAAAAAAAABEQJRIf/aAAwDAQACEQMRAD8Aitt/VHyC1Ok80phrsg5R4jYK3QJDAZxn/wA05dq3b/ZvlnllmnjhhsSH6T9LrlscemAOcYHod6S3lu17P43Nc2yOGtXjghT4eunkOMDkTy/LHr0QetaZrG7bex3EVrNNrkC8uE5smwxIRCWJJUcioXGBj1nWcutrzh83dyMG3PYiCySIrM0fLj2MYGT0P51s/c67zp/eRBOnKNOYwpJ4r9RGDk/YEnPWkaYrV65QtzpN/UvaWveb5OHyquBkKTkjtfqwdS280rn7ya1mu8dH4JpYZKcxaYyxLzGVP2JGeiT131qtxTnY7fNfNtx23exDtd+WxUkjEiSRrEFPLPrIJ69d/fRpXbG1Detvv7gqX60lFUWL5V+RpncsEdguBkMrFgB69ZOdGi2n4u2/+JJYjs3q4sxX0na1DYJWRAQOkMZHYxkdnOojYvJ7V7yBqexSCZoYIoLDXkKV4ghP+CA8izMSfYwB+RnTr3TxyxZ2m3BHuCQzyqcT/FkJ+TjPvH/Ol94d+mFPxyxbst5DVuNaBPCSuQgKg98S55YB9HI1Sei3xEWPMtl2TyqEXE/ddwoR/DDNXyIIuR5NxySSfS5JJ6+2mbuqi3s9PzCCnQWGKuJ0rzxsrxknLkE9E59Aj+e9V6XwehPaE9veaTzZLR8aiqowPxn8a6d88Vj3Ta6u3/6nMUceHYcSQ65JPXLr+c6pyr14jqVcC887WKv9wl0UJxKg9jsfjJ+wxo1MVf0/QyQ2Km7FUXocIsZ+x++jRljvefTBdQ6lWGVYYOfxqrTI0UzImxu6RuVjcuxypyCR/A/70aNaMWUVdHpSWG2aRZo34JFzb6lPs96x+FWcMdlbkAF/yf17P20aNAWeCJIIViiULGvoDRo0aS//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Never Know You Are the Best (Ending Theme of TV Drama "A Fist Within Four Walls")</div>
+                                    <div class="artist">Ruco Chan &amp; Nancy Wu</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACUDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAUHBggDBP/EADQQAAEDAwIDBAYLAAAAAAAAAAECAwQABREGIQcSMRNBUXEUFSIkQmEIFhhigYKRkqHB0v/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oADAMBAAIRAxEAPwCU8VNG2zSciIzbp1wkyZSQtKHSk+fQDvxiqFb+Deh4LFrgar1jOj6klNpLsWKUqQ0tQyEH2Dg925GT0pbxCeYkx4Et9vtFwpDLufuBQ5h89qu3qhtp2ReTc5dyQzzyo9qiJS2h13GQVHqs9wyQB4UpHPNw4YWJ3Ub0CzXa6+hR5IiOyZvIjnd+JLaccysd5xgVRU/R20qqKh1N/viieuFtEZ/bSK66+Zuz2oWdSWS3wJoClxfeG3nEuEYKcp3znfwqvcNkRYugbdDZUcstICiVZJUdyd/mTRU7+zvpbuvl9P5mv80VWnlJSvGdqKUc3XtpxSFtqSvs1ZSrCik4xvgjcV973Ee1W4GxKXN9AUy2gyEqKXOQgcyCoDOfhyPMV5X+4sKbKFEheMdKR2zTX1ms12fYSELhKQ424oHlUcHmRnyx5HFEKNVuWGUpB001cZK0nZbjTbLLQ8EISAT4ZO9Vvh3fpLkJhlwFBAHOny6VJLKh700NiElYQccvahOTW7RPcR2KYK1MSXFJGGlgAeyoAZIx1/negtUh8EIz4UVnbNckzLTFWl7tVpQG3VK3JWAArfv376KkVHYd302mWtd8s+qpikqOWmogQ2d/HmyR+la9zipYW7R6vgaW1BGYSkpQlEIADPyCqKK1ER9yW6Jb7jNtvAbcVke6HOKcW29x44V21o1CrnxzcrJ3/sUUUGkt/EFq2xuxjWO/KSVFZLsbJzgDr+FFFFB//9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">春夏秋冬</div>
+                                    <div class="artist">Leslie Cheung</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYFBwEDBAL/xAAtEAACAQMDAgQEBwAAAAAAAAABAgMABBEFEjEhYQYHUXETFBVBIiNigZGhsf/EABoBAAIDAQEAAAAAAAAAAAAAAAECAAMEBQb/xAAcEQADAQEAAwEAAAAAAAAAAAAAAQIRAwQSMSH/2gAMAwEAAhEDEQA/AKps7y2ncRyWFlATzJGGyP23UzeH9RvtGaU2eoSRw4zmE5B98iq6RypyD1roF1KqkCRgD6GujFy5w8715Wr3S2IPFOs6razK+qgouFYZx/gqEeZorndKlrebj135YCkS3upV3D4rjP6jW3UmurW4aKaVjjg7s5FBXMrUCuXTo/VvcGDWNTi+sKLa0skVYyhAhG09yDnr3opOklYtuLHPvRVT7zvw0rw7a+4eQakdK0u81OQLaW0siZwzquQtRg7mrM8pLpI7lIYDlzueYMDt5AUenH91kdtL8OnPKbtKhF1C3jg1V7eJZQilVxIpVuBnoeormu7hppMsOBgDtTp5rKy+LfnYLZY7Z1X81eHf7k+h+2O1I9wQ0pIbOe1FdG5wW+Mz0bNDHmisMvWik0tWGVPapKx1FbYBwCJVPTZ+H+cc0UVExalM06lqd1qMu65lZ8cDPQewrjyQKKKAcPJNFFFQdI//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Special One (feat. Eason Chan)</div>
+                                    <div class="artist">AGA</div>
                                 </div>
                             </div>
                         </div>
@@ -355,6 +355,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">StandardL/StandardL</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2fcac25</div>
+                                        <div class="message">Updated with Dev Metrics</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -435,32 +455,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">StandardL/StandardL</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4f5c4ad</div>
-                                        <div class="message">Updated with Dev Metrics</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Sept 2024, 06:07:43 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Sept 2024, 07:09:00 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
