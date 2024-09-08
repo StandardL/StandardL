@@ -308,24 +308,17 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcDCP/EACsQAAIBBAECBQMFAQAAAAAAAAECAwAEBREhEjEGE0FRYQcikRQWI3Ghgf/EABkBAAMBAQEAAAAAAAAAAAAAAAMEBQECBv/EAB8RAAICAgIDAQAAAAAAAAAAAAECAAMRITFBBBITIv/aAAwDAQACEQMRAD8A16ZGl124/FJ31FE/7auvKLGQlQOmMsACdc+w5p8EZWH+XXU3tUyLBLe2LQ3Kh4pF6Sp9q8jRSWsGJYNoTZnjbPeF72a9gnuUaWCRAHCcAcDRq0x/h61sse8k2PSRo1PMgbbbHbetd/8Aa3vxX9PYsXA09rkrq3t+lvMZ2D+X67UsD0ilO6gxt+6WqZe0aaNQVjR43Mvfakd98b40aoP5Dp+G6jlNS2r9FmK+MbYwx2WHs7OWOVmEsieiltED2JorVsH9Pc5Hkjd5S4tXtpnEuyp8xR6Kf+fiiqNfkitcDcRsAZpvmOSJmMrAui8n4pihkQxxPGNBgDo/NV9lY/psUY327ldnfqaheGIZLTG28ElzJP8Ad1BpNlgD6bPPep9A+a75gGUOpbPEYMhZxX1pJBcIrxuNFWGwRSThfAuPx+UmvXsLNHjOo3SJQSPc6FP6NsVGnUlCO9N3VowDdwVN71goDoygubIXL6iOtfd1Af5RVkXS1RY5GRXbfSu+T6nVFBUDG50WPU6ZrHLlMRc2Lu8azIULIeV/qqa0xzYmztba2JlECdHU/dvk/NFFZYonNdrevpnXMs7O+fymE4Kuvf2NTzP0xknW9boorUc4mMoi3krx5r21eOKRo9t1trhRriiiilGc5hiowJ//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAkACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAMEBQYHAf/EACsQAAIBAwIFAwMFAAAAAAAAAAECAwAEEQUhBhITQVExYXEHIiQUFTKRwf/EABgBAAMBAQAAAAAAAAAAAAAAAAABAgME/8QAHhEBAQACAQUBAAAAAAAAAAAAAQACERIDBBMhMUH/2gAMAwEAAhEDEQA/AOtvkSkCNjv4pFyjMSpjKj3qruuLNOsnga+ldS/3LyIW2xjtSdQ450QRg9WclvTERNc7pKjHKdqKpGkjuVRVB3Y4Fct07UrqTiC9tJ5xPZRxh0YxhMHbGPI9d6b9WOIk1fTIIdKWZrRXMlw7IVwfRR8ZNJ+q9i2njhy+jQxfjKucYyQFOP6NGPb7FtOWvT+ztQgSTrFcbt2+BRWSteIVN2y5dVdu428UVPiSqkWXGl3EkJkuSZIwQPxAwGflt6uNH4uvtS1BLXnM3ODhP0yx52z/AC5jWLTR5mb7eUjtuc06LTbuF+ZJijYIypOcV0ZdMTUDbTi2Z7di+pWi8oiLxxtIGV3zgZA7Dwayep3N+1tafu/WuGLmZGecupUgYAU7CkjTr24mWMytMOVmPUkwFAGe5qpVJZHRA7OQcBRk4rTA4gFD9WfqUsIui8EIRMAlQdgcb4oqJcRSRyFZFKk749qKMg3PH5becYcAbAUKx5Me3+0UVEUZpZI3kVJHVXQqwDEcw8HHbavYYIixHTUBRtgUUVbIl6yzXMUPXdmEQKovZRRRRTgv/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">究竟天有幾高</div>
-                                    <div class="artist">George Lam</div>
+                                    <div class="name">好久不見</div>
+                                    <div class="artist">Eason Chan</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgEFAQAAAAAAAAAAAAAAAAcIAQMEBQYC/8QAKxAAAQMDAwIFBAMAAAAAAAAAAQIDBAAFEQYhMQcSEyJBUWEIFTJxFCOB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQACA//EAB0RAQACAgIDAAAAAAAAAAAAAAABEQIDEiExQWH/2gAMAwEAAhEDEQA/AJUUqetXUt3RpjWu2pAucprxvGUEkNIzjypOylEg87AD1prmkP8AVOzZolntd5nQkSbm2pTDKFk9i0Hc92CDgEgj5pgS1PQ/q1qC960bsN9kJuUaShZRIDSUKZUlJUMlIAIIGNxnOKkYDkAgioHydbRnLS05arVChXBI7U/0g9o4UU7Y49+c75rvukPXCfalptN2gvXGHnDfghKVs/AyQCPgnPzTPwQlnRVqHITKisyGwoIdQFpChggEZ3FFZNLtJ76jNNIvVgZnqJ8SAhZb85T29xTuAOdwkb7YOacNcT1Yt0idppbtujtSJ0YKcS2oedaMeZKD74xt8UZXXTeFX2Rl/wCjUd6Ha2dMW1iSJKUpflOSVBSVepUM4A/QrN6BdInfvEi+X5DjEeI+5HZiKVu6pJAKz7AHI9c/rnzY9U3Cfa27ZZIbzsmS8lkeG8tpxlZP5Ap3GOScEAc7VI+x2/7bbGY6lqcd/JxxRyVrO5JPrWNfL267oxjw2AGBtxRRRXRwUBFYVximQ2Q24G1nklHcD/mRRRUnD6d/laW1Gu3PwnJDM97uTLaR2toGOCCSc5pjZ3ooplCiiihP/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAgDBwQFBgL/xAAyEAABAwMDAwIDBgcAAAAAAAABAgMEAAURBiExBxITQVEUcZEWGCIjQrMlMjNSYaHR/8QAGgEAAgIDAAAAAAAAAAAAAAAAAgQDBQABBv/EACQRAAICAQQCAQUAAAAAAAAAAAECAAMRBBIhMQVRFDNBYXGh/9oADAMBAAIRAxEAPwBp1AHkZqs9QdTTaLqbZ9n31z8d/jMhoJSgfqUoE9oxvv8A6rsNcXF606Sus+LjzssKUjJwAeAc4OPpS4RddnSa5bCbBGnv3BKzJkyn1qdcBJSQTjg4ztyDmobN7EKhxmW3jaKnDPau7HQzj+5EtvUWuY7uk3HrtZZCIUsBlJjS2FlxROCEFKiTgj2qt37/AKZjRW3DZ7iqSrvK2fj0kNoG2e7t5ycYxsRzXEWvqLGtkb4BenIsqMw6XEfFu+Qo7sZSMo2BI9KxZOpIVxnH+AJjRygN/kScJ23wMo5z7UrdpL7MHgn8y1o0XiXsK6isnng89eu41vTOHBY0wzKtjUtliafP45TgWtPpyNuADRXvpdcRdNA2aWlhLCVMlCW0nIASopG+B/bminUQooX1OXtRK3ZUGACcCR9W1IT001Gp1QS2IThUT6DFJUb1DaWjwoceTk9yv5fpnmnd6lQ41w0FfYk98x4r0VaHXQQChPqd9qXGNpnptb5yFx5kWS6EhIbemBxPceDj3P0+VSB9sd0eoepSq+5yemY0K4uqkT2e2Gt0tpJOFJUQDueORtW51QzASyxGt7jygyNwpWUZ33/ya0mtn4MO5SoFraMd9H9RltailW3qSTv8jjHsRUOmZ67hEWw73Fxv8QKzklPHNGqkndH9Nm6zLRsOiKe3pdYk+yHP3FUVN0dT2dN7Mn2Qv9xVFAe5S6j6rfszZ68s6tQaPutpSpKTLYLWVEgYPO4BI29cH5VQY6ASGoriYD0NuQSe1bjriwlOeCPHvt60UUSsR1N1WMnUxPu7ajcWlSrvaEpyM48mcev6eazh0gkWV+e67l6b2+Zsw2lqZShS+0ISMDJHJHoN6KKxrGMk+ZbkEGXd0wjuRdDWxh9t5pxsLSpDrZbUPzFcpO4/5RRRQxexiWJP3n//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Youth Anthem</div>
-                                    <div class="artist">Alfred Hui</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcGCAQFCQP/xAAuEAABAwMBBQcEAwAAAAAAAAABAgMRAAQSBQYHEyGBCBQWIjFBURVhkcEjMpL/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/xAAYEQEBAQEBAAAAAAAAAAAAAAAAARECMf/aAAwDAQACEQMRAD8As84i7N82ptxkWgSc0FslZPtCpgDoa0+8DaRGyWyd9rC20uqYADbSjAWpRAAnrUjpS9pp1TO7ZDgTKU37JUPtCvXrFMVupLZ7e6bZWejN7U3Vvpmq6k0Hk2yiTglR8uRiE/HP3FTX1FVR03bDSd5+21la6+wzpNu8+iYVlxEoEIayIkFRMTIH2mKtYhKUISlIASBAA9hVZiY6EXQvnFLcbNqU+RAT5geXMn80VlUUIUtO0Xbof3S6wVqCS0plxM/PESP2aZdJrtU6gbTds3aoym7vEIMDlikFXPqBTPUqdoNyLPV7W45/wvIc/wAqB/VdErd1D7DbrRltxIWk/IIkVzatncXxNX43Q623r+7rRbts+dthNu6PhbYxP5ieta6Nb03tx4lFlinuvdONlw1TnnEZf19Pb1orxDyfGJZNs2FdxzFxJzjiRjERHv6zRWWW6qH729JvNd3e6xpul2ibu9uEJQ02VJHPISZUYECTRRRCq7bbg9tnWLt5ywaZcaCS00X2yXiVQQCFQIHPnT+7P2zuv7K7OX2l7Q2Xdh3jjMEOJXkFJAUPKTEFI/NFFat02mD9NV4j+p5oxFr3fDE5TnlMzEdOtFFFZGP/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">餓狼傳說</div>
-                                    <div class="artist">Jacky Cheung</div>
+                                    <div class="name">愛與誠</div>
+                                    <div class="artist">Leo Ku</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -333,6 +326,13 @@
                                 <div class="infos">
                                     <div class="name">十七歲</div>
                                     <div class="artist">Andy Lau</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACcDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBAUHAv/EACwQAAIBAwMDAwIHAQAAAAAAAAECAwAEEQUSIRMxQQZRcTKBFSIjJGGh8eH/xAAZAQADAQEBAAAAAAAAAAAAAAACAwQABQb/xAAfEQACAgICAwEAAAAAAAAAAAABAgADESEEEhMiMUH/2gAMAwEAAhEDEQA/AOLP09jd+pu+2P8Aa92lwsBBUjeTg5HGKheEsC25R+oE7+/n4pmsdH07TbJNQ1hpJh1CqQx/TIQeOfbz8ULsB9lFNZY6jN6LWK8LKF3MgGT3X/aYL7SoJCepAjAD2rO9GzWwnult7CO1V23KY5dwfHGceKZ5rtmVVCNt+e1c2xvYmeh44HQD7EP8Ck6soChoy2QjD6R96KcRcbxlXOf4btRW8zTHiVn8nFotD1K6uXijtJeooLEMMcYJ8/FbenaVd3ulW0E+Ua3lZ+jKDllIHjwaf9C1y2u4wH2LOF27qk1hT0RKn5mHORRWcls9SMRFHBQDsDkTC9LQzrqUX7UIkWU3keMHgUyXmoXVnMVmtHMB7Ohz/VUtH1a0uFxIcSJwAP7NSazcukLGIiVk52mkliW2JYqhV9TM+9K3b9fTJ4opjw2V7/NFLyXK3MjPGscUp5IUcN/2iqRWRI25AJziQ3ORCJLEGKfgkAd6LL1Zdwgw3UJYYwcCiiqErV9GSW2tVtTMK+vJW1E3NujINwbaM4OKunW9UjtiJl3o6kK5Xt9/eiim9F1qSi1xkgyrp+pTQK0b8qxByRz5ooooyoihY0//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">千千闋歌 (Live in Hong Kong / 1989-1990)</div>
+                                    <div class="artist">Leslie Cheung</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -453,7 +453,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Sept 2024, 12:09:40 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Sept 2024, 13:09:09 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
