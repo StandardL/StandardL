@@ -20,9 +20,9 @@
 
 <!-- Wakatime 数据统计 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2019%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm a Night 🦉** 
 
@@ -51,13 +51,18 @@ Sunday                   28 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 22 mins        █████████████████████████   100.00 % 
+Other                    1 hr 24 mins        ██████████████░░░░░░░░░░░   56.59 % 
+XML                      33 mins             ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
+XAML                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Binary                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+C#                       5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
 
 🔥 Editors: 
-Word                     1 hr 22 mins        █████████████████████████   100.00 % 
+Word                     1 hr 22 mins        ██████████████░░░░░░░░░░░   55.40 % 
+Visual Studio            1 hr 6 mins         ███████████░░░░░░░░░░░░░░   44.60 % 
 
 💻 Operating System: 
-Windows                  1 hr 22 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -77,7 +82,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/StandardL/StandardL/main/assets/bar_graph.png)
 
 
- Last Updated on 2024/10/09 18:46:10 UTC
+ Last Updated on 2024/10/10 18:46:44 UTC
 <!--END_SECTION:waka-->
 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="65%" />
