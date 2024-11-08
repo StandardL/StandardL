@@ -308,31 +308,24 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAUGBwMBBP/EAC8QAAEDAwMDAgMJAQAAAAAAAAECAwQABREGEiExQWEiUQcTgRQWFyNxcnORscH/xAAZAQACAwEAAAAAAAAAAAAAAAABBQIDBAD/xAAcEQACAgMBAQAAAAAAAAAAAAAAAQIDERIhMUH/2gAMAwEAAhEDEQA/AHzmmnW7YzN+X9tiPDKZMVWcfuSelNtKaSSEqmzGVJcCtrK1owoAjqB0I9x3r5/hddfu1f3NPzlLVCkZVDc7BQ6oOf7Fa1IKVLT6i4nck8n28/3WRrgxctHhInW7RElMPR0KYkIW4UELONmByCPfPOD2rINXWePbbhthlwsL3bQ4ORg4OPFbgGoapzmNqElSFukpxuP+E9RSbVbFsnIQ0www42hWT6cDAPqTkcjHJ8EY6ZqWuDNdHZedMEW2aKdXZTcuY69HbS2wcBtKRj0AAJzjvgcnuaKIvfCri6RlRH2xdWZsb8wKbkNyC62k9sHnH1FajaYslUQsT3XS+2na24gp2vDqD04Pg/SozRGtblckLjwmxIRyVOFOSD3JPTH0q6gzYcll1Eh1ttzHVCsHPuCOAc9hUeZ6O7N/pD3C4xrTqeK29KdTc5W5tCneGwo7sICQcZwD6q6ytL3JyctUiS02y6lS1LbJAXkYIHPXilk3VtsFyWhDYfeLid0hac8DGCO3ngZqjmLuC7OAhbEpt1W9tDSgVj9BXZa9DKMvpnUizFlSkADakkCiuGv7hMttglzLe4ymZH9XynMLKxnBGAcg80UVGT6hdZRiRDaQ+Kdtts+PMcS0wtmP8ssNJ2odXjGVHPTvXn4kLu16Ei4XSMzCSVKDaHANqScEDzz/ANooqzRemxWyyLtb63tki9KnW4REMNISy3HaBKVAAcj3OR1PNLdQfGCXcI7bMdC2igDY5nBR48jrRRRjFfSFt01xElJ1hJkvl2Q/JWv+TH+UUUVakih2SP/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcDCP/EACsQAAIBBAECBQMFAQAAAAAAAAECAwAEBREhEjEGE0FRYQcikRQWI3Ghgf/EABkBAAMBAQEAAAAAAAAAAAAAAAMEBQECBv/EAB8RAAICAgIDAQAAAAAAAAAAAAECAAMRITFBBBITIv/aAAwDAQACEQMRAD8A16ZGl124/FJ31FE/7auvKLGQlQOmMsACdc+w5p8EZWH+XXU3tUyLBLe2LQ3Kh4pF6Sp9q8jRSWsGJYNoTZnjbPeF72a9gnuUaWCRAHCcAcDRq0x/h61sse8k2PSRo1PMgbbbHbetd/8Aa3vxX9PYsXA09rkrq3t+lvMZ2D+X67UsD0ilO6gxt+6WqZe0aaNQVjR43Mvfakd98b40aoP5Dp+G6jlNS2r9FmK+MbYwx2WHs7OWOVmEsieiltED2JorVsH9Pc5Hkjd5S4tXtpnEuyp8xR6Kf+fiiqNfkitcDcRsAZpvmOSJmMrAui8n4pihkQxxPGNBgDo/NV9lY/psUY327ldnfqaheGIZLTG28ElzJP8Ad1BpNlgD6bPPep9A+a75gGUOpbPEYMhZxX1pJBcIrxuNFWGwRSThfAuPx+UmvXsLNHjOo3SJQSPc6FP6NsVGnUlCO9N3VowDdwVN71goDoygubIXL6iOtfd1Af5RVkXS1RY5GRXbfSu+T6nVFBUDG50WPU6ZrHLlMRc2Lu8azIULIeV/qqa0xzYmztba2JlECdHU/dvk/NFFZYonNdrevpnXMs7O+fymE4Kuvf2NTzP0xknW9boorUc4mMoi3krx5r21eOKRo9t1trhRriiiilGc5hiowJ//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">人非草木</div>
-                                    <div class="artist">Kary Ng</div>
+                                    <div class="name">究竟天有幾高</div>
+                                    <div class="artist">George Lam</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcGCAQFCQP/xAAuEAABAwMBBQcEAwAAAAAAAAABAgMRAAQSBQYHEyGBCBQWIjFBURVhkcEjMpL/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/xAAYEQEBAQEBAAAAAAAAAAAAAAAAARECMf/aAAwDAQACEQMRAD8As84i7N82ptxkWgSc0FslZPtCpgDoa0+8DaRGyWyd9rC20uqYADbSjAWpRAAnrUjpS9pp1TO7ZDgTKU37JUPtCvXrFMVupLZ7e6bZWejN7U3Vvpmq6k0Hk2yiTglR8uRiE/HP3FTX1FVR03bDSd5+21la6+wzpNu8+iYVlxEoEIayIkFRMTIH2mKtYhKUISlIASBAA9hVZiY6EXQvnFLcbNqU+RAT5geXMn80VlUUIUtO0Xbof3S6wVqCS0plxM/PESP2aZdJrtU6gbTds3aoym7vEIMDlikFXPqBTPUqdoNyLPV7W45/wvIc/wAqB/VdErd1D7DbrRltxIWk/IIkVzatncXxNX43Q623r+7rRbts+dthNu6PhbYxP5ieta6Nb03tx4lFlinuvdONlw1TnnEZf19Pb1orxDyfGJZNs2FdxzFxJzjiRjERHv6zRWWW6qH729JvNd3e6xpul2ibu9uEJQ02VJHPISZUYECTRRRCq7bbg9tnWLt5ywaZcaCS00X2yXiVQQCFQIHPnT+7P2zuv7K7OX2l7Q2Xdh3jjMEOJXkFJAUPKTEFI/NFFat02mD9NV4j+p5oxFr3fDE5TnlMzEdOtFFFZGP/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUCAwQGCP/EACoQAAICAQMDAwMFAQAAAAAAAAECAwQRAAUhEhMxMkFRBiJSQmGBkbHh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAVEQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEQMRAD8A8/yFYiDID0e5+NOqe2ULtaWWnYtyheroArsQ348gYH/dcpvM3TNGkUnWg+7znB1s+m4Jb+6VqteRo+pCxwjPwBn0ryTqjo7m10KlFbVie1HCcAOYTyfjxjxyNJB2yR25A6nPS35D5xpXvNuwzvTmDJ2ZGDKSfV48HV2wdPRJwS+Rz5wNBHfYXdu92gi8Lk+pv41V9P7lY2veK1ylII7EXpZhkf176fTRpIyO4DFOVB8Z+dKINva9vq0K0TPYtMFjCfpOfj34B0RhvTNPalmLEvIzMSfc55z7ac7RA8MIBjVA33NzrJvGz2KU8iSqsc8U7QyRcjtsPGc+M6a0ZEaJE5VlUZUnnQQRi7dKkZPydJrFsQWnZEZLcbq0NhZCrIRgjjx+/sdGjSKYzbjY3Zn3S86tYaUd8ogUP9oAJAGM5/3VwrmSvHyUmAyre4OjRokf/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">餓狼傳說</div>
-                                    <div class="artist">Jacky Cheung</div>
+                                    <div class="name">無人之境</div>
+                                    <div class="artist">Eason Chan</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgMAAwEAAAAAAAAAAAAAAAcFBggBAgME/8QALRAAAQMDAwIGAQQDAAAAAAAAAQIDBAAFEQYSITFBBxMiUWFxkQgUMoFCwfH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAMAwEAAhEDEQA/AM8sKffdSw2R61D/ABGfz1pjC2x9K6Uk3uYoKnqT5MVPXLihwfoDmqdp+AVzEuuKCUg5FX5N9jL0fcripoSWoclMRtt0ZQokDcVYPAIJHzTjBONec9ICU7lurVgdyommTK8IL2LGxOiPIekqRvcjEFJT3wD3P3Vg8JdJIgwnL1OZacc4UneMhpP99/mnZp68RXJSY0otNSHUeY0NwKXk+6D0P11FUNYveamW2atiU26xIQcKbWCDRWhP1D2WBJtMabHYBunnpab2J9Swe3z70UQkC5OkhIaS8UIz1TwfzUqqG9FmwratS0Nv7XXU7jtWe2R0OP8AdQUhPBVx1wBX2v3eS63AQ/6nYXDa+5R12mqhqzwzaZFnTHdSFJKCOemKjdRptGj7PcLnCSlSISMtRkcIS4VHbj5yfxxUdpS6vsaLjXe3+WtO0KWHM7QO4JGcfeKU3iJq92+P/sLcl2Na3nEKfjnBCXhnO1Q6g5zxxnmtLFmYumpNSWRWoLyIqIyHNlubDR3Ld90gcnvz25opxaftrL0ZgQWkoYgRUMw0KHCNyQVLx744ooNZKgOMNv5kMpWU/wAQo8f9rrIgl+FJmML3Flwec3t5SlXRX1nj4496KKGce1j1Xe7FFfi22atuM8PU0RuT9gHoa5W4I9wti5hUuOVokLCRk7Sc/nrRRU02Pph+I/p+NPiSG3mXWgtLiCMfX9dKKKKQ/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcFBgECAwj/xAAtEAABAwIFAwMDBQEAAAAAAAABAgMEBREABhIhMQcTQSJhcRYyURQzQoGh0f/EABkBAAIDAQAAAAAAAAAAAAAAAAQFAAEDBv/EACURAAIBAwQBBAMAAAAAAAAAAAECAwAREgQhMUEiBRNhgTNRsf/aAAwDAQACEQMRAD8A9KVuqs0iKHn0qUVK0oQkbqOFRm3qD2au4ZEhVPjR4weFnbXVqsR7njnFuzLmanfW0HLk9LC46mVPPKc/gs/YL+Nrn+xhHZxiUTOFVp0mXKTApzkt5laQrSClG7Qv4JBJ+cATaOV3yl/Fbrm/RprpcEXK3l88VmT18kPwnoLry0vKkJWmSlOkFkcoI5BPt4w7Ml5vpaKVEhP1EyJ36USVOG5CwrcBJJ3+Odt7YRfUTp3lj6HXWMroccVGsVraUpadH8lHVufkbDHPofUI1GphqkZsyptPbdbVHB5WtR0KN+BY22/GCMofb22PFz++qr2y5KEfO1eg8r5gnTaoUTWVdp+6NSloQllaRfQlP3K1A6r/ACOBgxw6e11uu05uo1hcVuolwoQ2opSUjxpHNje2DEEcigK/IoOcDM4il7NoU+oTqsitoaYrD6zJK9WoRyD6fWOEFNk/HjEdm2iPZOzBS5sqHHmxC4jWCbIKwbBdgDY8eD/uJLqpONSenzIZUmMlTTaFhX7igrm3gfj842zjMSinB2StExQZjoUgqJKfSkEG3BBub/nzfAT6yWRA8bZBnxsONwP5TlYuFbbxuayifS5MByhx4rMUy3FJXHA0l0E3sfIFv84xpRYdPodLlQ64qmwJlRmqUBFQUJZitp0oSL7kmyj5uVYVmTKrJazpLqnYDrfcUE93VfQk8DkjYW+cWerVONXpjCnm5cirO6Qe+nSkX3PgC1uPA2wU2iZcVkBxY72rFWBOXFqncjUtlGbaY7KlKVTFL7jLq0W1qTwlQ8b+f+4MWWh5FmtUpD7CSntlRbi94Oa9wCbg2B9sGF+r9T1kcmKIWHR7+7Vp7Gnn8jJjV6fyHRJNNXClNuutqt6u4UkEG4ItwcQlR6V056lOxIMyRHdWpFnXCXLISb6Sm4v8nBgwxhRdOAsQsAb/AHShtRK3kWJNU2ndOXJmalxRSpFNgMa0yJKt0SgVbqRc+gqBJFr2/rDNqGSaSYHbgQ0NyG0JS0pS1EC3F7nc+5vgwYLnld9ieqppWuKxRZc6mtlqdDecbCiEqZZAF777C23uRgwYMc6dRKptlRJRX3Ir/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">怪你過份美麗</div>
-                                    <div class="artist">Leslie Cheung</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACQDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAYIBQcBAv/EADIQAAEDAwIDBQcEAwAAAAAAAAECAwQABREGIQcSMRMiQVGBCBQVMmFxkRZCUrF0odH/xAAZAQEAAwEBAAAAAAAAAAAAAAAEAQIFAAb/xAAiEQACAwEAAQMFAAAAAAAAAAABAgADEQQhEhMxBSJBgcH/2gAMAwEAAhEDEQA/AOQcS7dFgXp2FDLbqGiApbaeqsbj06UjLCUr+UVQ/G6xx4GrlliOhppbCFgAAbnOSfqTXF5lqblSyIzjefEA5xWn11+5loPzJXmZFAEw23CU8gSnHlyjrTHb1xB2PvKEpGAk9wc3TII/3WG/BfiyksqSe0Ue7jor7UwO2tTFkcfkqxMZUkgDccpVjffbc0DfbOnxGciOS2DclW8EbfFh6KLUVYeb96cPMpsA52orR4OtsfoG3rjKQoryp3B6ObA/1RXN3Vk7KWUelyJ7xyssefoSTPWEJfg8rgWUglSScFGfLfP3qXmGXucqZW3yK/ZyDb7EVZWtYMG4aRuLF2Q45C7EuLS2cK7u4x6io+cjLt055rulpR5klAAGPA0znbayD+Ir6eQxAY+Nn1Cs8SdcovxNa0NtqK8t9c46fmmS16Wtke7GLqyQI8ZxkS3kBfeSkYIQryOwOKWXbozAcQ6XR2jakqA9ds/il3Ul7+KCQ+/K7V55RUog9T/yjdlT3eAcXP3s1rbOfmDBfJMqXgDLYmaQuUiAgohuXWSplH8Ud3A/FFZ3srDPC4/5739JoowAUYP7PNMzMSxPzG/WeskWy1RX460lLquVTZTkuDG4wflH1677eYmu9vNzro88lltlKyVBtsEJR9Bk9PWiit7nrVKyRG8ajRNaRpa2s2kuz71HjSXmwtLPuxWoK8ApQ6CsSdYdLrC1NSYynR0yh9AXsMnIBwc79KKKlqg6/dK2j1sdlA+z7FjQ9EyW4CkuRlT3Vo5AoBIKUbDm3OD40UUVkNSumHatdn//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">心跳呼吸正常</div>
-                                    <div class="artist">Leslie Cheung</div>
+                                    <div class="name">1874</div>
+                                    <div class="artist">Eason Chan</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -340,6 +333,13 @@
                                 <div class="infos">
                                     <div class="name">Black Hole</div>
                                     <div class="artist">Eason Chan</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcFBgEDCAT/xAAqEAACAQQBAwQBBAMAAAAAAAABAgMABAURIQYSMQciQVFhEyNScYHR8f/EABkBAAIDAQAAAAAAAAAAAAAAAAMEAQUGB//EACERAAEEAgIDAQEAAAAAAAAAAAEAAgMEESEFMSJBURIU/9oADAMBAAIRAxEAPwCuHe/JrMMbySKqAkk64Fei1tJ7y5it7WMyyyMFVQaa/T3Qa2VvubbyfJqkAc7pdWtXIqo8ztLCHHXZ1uAj3a5/j90GJ0ZwUI7W7dn7ps32FSMFVC9y/G6pucx4J32lip2B+agtc3tBr8gJTpVhS3HJoraI3U6kUK30OaKIHaVlhrtqW9O7mxs+rbKfJe2IdyrIW0qMRoE8+PIp932Qx2Pxz317eW8FmgBaZ3AUb8c1zBjLe4yt0lpYRPPO2yEQ86Hn/FQXqXj87YR29lc272dv+qv6sskihFYglQeeOAT8bpisSPEjSy3PQQyZsCTBA6+pyp1J0tLnEyq3cdjaRtPCtyx7Fvix2dgjZCnwx+eBwajeo+prKZyuPQyD+ZGh/uucZeocv1Ji8ZgGmRbexE0kAkcKOR3MNk62e3j802ejsTmcv09aTjHTI3ug7ZAIyWQAkAHR8EH/AJRLEBwPykOCtQvlImOPm9LaZ3lkdmHaSaKj3uUt3aOQlHQlWVjyD9HdFAEJx0td/bC3WQr76I2i9M4mS/zCs2QuF75CwP7UY5C/38n8/wBVEeq3T2b6ttLSKC3tFvMlM9wChKOqhCQkja0QB2Lz9cUUUxG4vdgrGWomxN1vI9pR2vpX1FFHfXqm0YYuZlmjEpDMyAMez26PB8/ddUjIQxdIW+Px1q1tMiLNHMXMzJL5DltDuO/P2OPFFFGncW9JSlVjcfLaRPqbjbjM2z5uwt5Ib6MlL23UeWXyR9kefyNGiiioikdhHt1WOcHZIyPS/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">風再起時</div>
+                                    <div class="artist">Leslie Cheung</div>
                                 </div>
                             </div>
                         </div>
@@ -355,6 +355,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">StandardL/StandardL</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9bb6822</div>
+                                        <div class="message">Updated with Dev Metrics</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -435,32 +455,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">StandardL/StandardL</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#548a6d3</div>
-                                        <div class="message">Updated with Dev Metrics</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Nov 2024, 15:08:23 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Nov 2024, 16:11:29 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
