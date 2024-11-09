@@ -20,9 +20,9 @@
 
 <!-- Wakatime 数据统计 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-67%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-69%20hrs%2019%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm a Night 🦉** 
 
@@ -51,16 +51,16 @@ Sunday                   28 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    4 hrs 4 mins        ██████████████████░░░░░░░   73.51 % 
-Kotlin                   1 hr 28 mins        ███████░░░░░░░░░░░░░░░░░░   26.49 % 
+Other                    4 hrs 18 mins       ██████████████░░░░░░░░░░░   55.28 % 
+Kotlin                   3 hrs 29 mins       ███████████░░░░░░░░░░░░░░   44.72 % 
 
 🔥 Editors: 
-Word                     3 hrs 49 mins       █████████████████░░░░░░░░   69.17 % 
-IntelliJ IDEA            1 hr 28 mins        ███████░░░░░░░░░░░░░░░░░░   26.49 % 
-Excel                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+Word                     4 hrs 4 mins        █████████████░░░░░░░░░░░░   52.20 % 
+IntelliJ IDEA            3 hrs 29 mins       ███████████░░░░░░░░░░░░░░   44.72 % 
+Excel                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 
 💻 Operating System: 
-Windows                  5 hrs 32 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -80,7 +80,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/StandardL/StandardL/main/assets/bar_graph.png)
 
 
- Last Updated on 2024/11/08 18:45:16 UTC
+ Last Updated on 2024/11/09 18:42:47 UTC
 <!--END_SECTION:waka-->
 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="65%" />
