@@ -20,7 +20,7 @@
 
 <!-- Wakatime 数据统计 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-92%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -51,13 +51,16 @@ Sunday                   28 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    48 mins             █████████████████████████   100.00 % 
+Kotlin                   2 hrs 45 mins       ████████████████░░░░░░░░░   63.68 % 
+Other                    1 hr 34 mins        █████████░░░░░░░░░░░░░░░░   36.32 % 
 
 🔥 Editors: 
-PowerPoint               48 mins             █████████████████████████   100.00 % 
+Android Studio           2 hrs 45 mins       ████████████████░░░░░░░░░   63.68 % 
+PowerPoint               48 mins             █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
+Word                     46 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
 
 💻 Operating System: 
-Windows                  48 mins             █████████████████████████   100.00 % 
+Windows                  4 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -77,7 +80,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/StandardL/StandardL/main/assets/bar_graph.png)
 
 
- Last Updated on 2024/12/10 18:49:42 UTC
+ Last Updated on 2024/12/11 18:49:35 UTC
 <!--END_SECTION:waka-->
 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="65%" />
