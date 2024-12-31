@@ -20,7 +20,7 @@
 
 <!-- Wakatime 数据统计 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-97%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -51,13 +51,13 @@ Sunday                   28 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   1 hr 29 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Android Studio           1 hr 29 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 29 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -77,7 +77,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/StandardL/StandardL/main/assets/bar_graph.png)
 
 
- Last Updated on 2024/12/30 18:45:32 UTC
+ Last Updated on 2024/12/31 18:44:12 UTC
 <!--END_SECTION:waka-->
 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="65%" />
