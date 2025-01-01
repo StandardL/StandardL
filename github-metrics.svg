@@ -308,10 +308,17 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcDCP/EACsQAAIBBAECBQMFAQAAAAAAAAECAwAEBREhEjEGE0FRYQcikRQWI3Ghgf/EABkBAAMBAQEAAAAAAAAAAAAAAAMEBQECBv/EAB8RAAICAgIDAQAAAAAAAAAAAAECAAMRITFBBBITIv/aAAwDAQACEQMRAD8A16ZGl124/FJ31FE/7auvKLGQlQOmMsACdc+w5p8EZWH+XXU3tUyLBLe2LQ3Kh4pF6Sp9q8jRSWsGJYNoTZnjbPeF72a9gnuUaWCRAHCcAcDRq0x/h61sse8k2PSRo1PMgbbbHbetd/8Aa3vxX9PYsXA09rkrq3t+lvMZ2D+X67UsD0ilO6gxt+6WqZe0aaNQVjR43Mvfakd98b40aoP5Dp+G6jlNS2r9FmK+MbYwx2WHs7OWOVmEsieiltED2JorVsH9Pc5Hkjd5S4tXtpnEuyp8xR6Kf+fiiqNfkitcDcRsAZpvmOSJmMrAui8n4pihkQxxPGNBgDo/NV9lY/psUY327ldnfqaheGIZLTG28ElzJP8Ad1BpNlgD6bPPep9A+a75gGUOpbPEYMhZxX1pJBcIrxuNFWGwRSThfAuPx+UmvXsLNHjOo3SJQSPc6FP6NsVGnUlCO9N3VowDdwVN71goDoygubIXL6iOtfd1Af5RVkXS1RY5GRXbfSu+T6nVFBUDG50WPU6ZrHLlMRc2Lu8azIULIeV/qqa0xzYmztba2JlECdHU/dvk/NFFZYonNdrevpnXMs7O+fymE4Kuvf2NTzP0xknW9boorUc4mMoi3krx5r21eOKRo9t1trhRriiiilGc5hiowJ//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAUGBwMBBP/EAC8QAAEDAwMDAgMJAQAAAAAAAAECAwQABREGEiExQWEiUQcTgRQWFyNxcnORscH/xAAZAQACAwEAAAAAAAAAAAAAAAABBQIDBAD/xAAcEQACAgMBAQAAAAAAAAAAAAAAAQIDERIhMUH/2gAMAwEAAhEDEQA/AHzmmnW7YzN+X9tiPDKZMVWcfuSelNtKaSSEqmzGVJcCtrK1owoAjqB0I9x3r5/hddfu1f3NPzlLVCkZVDc7BQ6oOf7Fa1IKVLT6i4nck8n28/3WRrgxctHhInW7RElMPR0KYkIW4UELONmByCPfPOD2rINXWePbbhthlwsL3bQ4ORg4OPFbgGoapzmNqElSFukpxuP+E9RSbVbFsnIQ0www42hWT6cDAPqTkcjHJ8EY6ZqWuDNdHZedMEW2aKdXZTcuY69HbS2wcBtKRj0AAJzjvgcnuaKIvfCri6RlRH2xdWZsb8wKbkNyC62k9sHnH1FajaYslUQsT3XS+2na24gp2vDqD04Pg/SozRGtblckLjwmxIRyVOFOSD3JPTH0q6gzYcll1Eh1ttzHVCsHPuCOAc9hUeZ6O7N/pD3C4xrTqeK29KdTc5W5tCneGwo7sICQcZwD6q6ytL3JyctUiS02y6lS1LbJAXkYIHPXilk3VtsFyWhDYfeLid0hac8DGCO3ngZqjmLuC7OAhbEpt1W9tDSgVj9BXZa9DKMvpnUizFlSkADakkCiuGv7hMttglzLe4ymZH9XynMLKxnBGAcg80UVGT6hdZRiRDaQ+Kdtts+PMcS0wtmP8ssNJ2odXjGVHPTvXn4kLu16Ei4XSMzCSVKDaHANqScEDzz/ANooqzRemxWyyLtb63tki9KnW4REMNISy3HaBKVAAcj3OR1PNLdQfGCXcI7bMdC2igDY5nBR48jrRRRjFfSFt01xElJ1hJkvl2Q/JWv+TH+UUUVakih2SP/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">究竟天有幾高</div>
-                                    <div class="artist">George Lam</div>
+                                    <div class="name">人非草木</div>
+                                    <div class="artist">Kary Ng</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBQcECP/EACsQAAEDAwMCBQUBAQAAAAAAAAECAwQAERIFITEGYRMUIkGRFTJRcaEjJP/EABgBAQEBAQEAAAAAAAAAAAAAAAMCBAEF/8QAIBEAAgICAgIDAAAAAAAAAAAAAAECEQMhBBIxYSJRgf/aAAwDAQACEQMRAD8AbJ8VCor74P2KItbtS83oPnHX1oUj/Qp5B9IFjYUxSUFcCS4FqGKiMBwduTSVKnTIupP+ScUlTSQbjhJxF6x4m70ejymlG39kfUHTriQ6pRCMBckg2AG9KP1/RI77EN5xbiSvFyQlv0IHsebkXP4+afYvU0pyUwZCmvDUm7isL7je9Yv1NGSzqUoZZt+KqzvOW/N+KdVdMx3a7Iatc0/TsFuQJzExokJyZVcCilHR0EuXbHpSDkrjtvRRStPyNCpLwejJGJhvrurIFW19uPxSNqDp8/MUAQD6TY9hTRmyuC64pR8ZKlBIy9jb29+aSNQe/wC6R6lAZ771GFbL5j+P6WsSCj6Al2bJQzFfeUp1OwcUhscJJ/KlW/Y7Uo9WyGZ8SU+4EtthITHaAsEAbJAH6+eTVy+mRrEJLKXWUsQSVZG4slZHbfcE/NI0/UWyq4QHXE7JUftA7Uq3LQFqMEmculR3G3WVqBwcVjzb5orq6cZd1Ca4FKNmxmb/ABRU5JpS2JhxtxtGmvzmQtm7QOKVAnI77Hf+j4quVCbegPT5E+MwVqPhx1BRdcttcACwHcmiiuQ09F5V2WyLUmZGn6CWWi0ZEz1+hV0lFgAbjtc9qzVyxFr/AMooq8Du37B5UUuq9IvumXlR0PNNXW67jbb+UUUUWWKchcE2oJI//9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">盲婚啞嫁</div>
+                                    <div class="artist">Eason Chan</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -322,24 +329,17 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQgG/8QAMRAAAQMCBQICCAcAAAAAAAAAAQIDBAARBQYHEiExQVGzEyI2N2FxcnMVIzKBgpGh/8QAFwEBAQEBAAAAAAAAAAAAAAAABAIDBf/EACIRAAICAgIBBQEAAAAAAAAAAAECAAMEIRExQRMUIzKRYf/aAAwDAQACEQMRAD8Ad+tXu9n/AHGvMFZsTfxNaT1p50+nfca8xNZuSKRTEVdQclsRS2JDyW9/6bmpzS0rQFtrC0K6EHiuTzFleZOQJZmENurPo2wBYACx561cZQwyXh2XmUy21hJUpSVEHba/QHp2q6soWWFB4mhRxwWGj1NPaQ+wUD6nPMVRRpD7BQPrd8xVFHs+xhW7Mj61e76cACSXGen3E0o9MMsnGcXMufFW5hUIFb1xYLUBwjnr4keFOvUoMKyyRLkoismQzd1YuE+uLf2eP3pEYfmibAwt3DnJSlwlrUpSbm5/l1taj3ZPtxsanQwcN8pSKzsRjZ2ymjNOCR3sPShmSi4hrbSA3sveykjtsPbuLd6p2oDGAOQYP4ipthR9EELTcrG4JBWk8clRNjVRlPOGJR23G8OjSpEKKgpbQgFe0nkgXPTjtyK4/MebH8SxUnE2X0TEJDagU7SLKJtbta9XiGu35F1z+zLLpvx29Gzx+TUeU8LGD4K1CAA2KWqw6cqJ4+HNFV+mc+ViWSsNkz1lx8pUkqPWwUQL/GwFFW3Zgjo7lHr4paNNJymyrcl9ggp6j81NIrCIkrNU+PFQ1Caku9XHUrQCe5O0gf5RRUuoZeGHM6GAzKGZSQf5Gtl7TLF8MjOtP5lajRl+s41h7O1S7dvSLJKfmADSw1geZmZzefiIslKUJKvEgDmiiqoqUNyBMmvsckseTHpoYoq01w3d2U6B8g4q1FFFUwAJAhW2STP/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgEFAQAAAAAAAAAAAAAAAAcIAQMEBQYC/8QAKxAAAQMDAwIFBAMAAAAAAAAAAQIDBAAFEQYhMQcSEyJBUWEIFTJxFCOB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQACA//EAB0RAQACAgIDAAAAAAAAAAAAAAABEQIDEiExQWH/2gAMAwEAAhEDEQA/AJUUqetXUt3RpjWu2pAucprxvGUEkNIzjypOylEg87AD1prmkP8AVOzZolntd5nQkSbm2pTDKFk9i0Hc92CDgEgj5pgS1PQ/q1qC960bsN9kJuUaShZRIDSUKZUlJUMlIAIIGNxnOKkYDkAgioHydbRnLS05arVChXBI7U/0g9o4UU7Y49+c75rvukPXCfalptN2gvXGHnDfghKVs/AyQCPgnPzTPwQlnRVqHITKisyGwoIdQFpChggEZ3FFZNLtJ76jNNIvVgZnqJ8SAhZb85T29xTuAOdwkb7YOacNcT1Yt0idppbtujtSJ0YKcS2oedaMeZKD74xt8UZXXTeFX2Rl/wCjUd6Ha2dMW1iSJKUpflOSVBSVepUM4A/QrN6BdInfvEi+X5DjEeI+5HZiKVu6pJAKz7AHI9c/rnzY9U3Cfa27ZZIbzsmS8lkeG8tpxlZP5Ap3GOScEAc7VI+x2/7bbGY6lqcd/JxxRyVrO5JPrWNfL267oxjw2AGBtxRRRXRwUBFYVximQ2Q24G1nklHcD/mRRRUnD6d/laW1Gu3PwnJDM97uTLaR2toGOCCSc5pjZ3ooplCiiihP/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">十七歲</div>
-                                    <div class="artist">Andy Lau</div>
+                                    <div class="name">Youth Anthem</div>
+                                    <div class="artist">Alfred Hui</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAUHBgIDAf/EAC8QAAEDAgQFAgUFAQAAAAAAAAECAwQAEQUSITEGEyJBUQcUQnGBkbEVI2HB4fD/xAAaAQACAwEBAAAAAAAAAAAAAAADBQACBgEE/8QAIxEAAgIBAwMFAAAAAAAAAAAAAQIAAxEEEyExMmEFEiJRcf/aAAwDAQACEQMRAD8A8cX9SuIsFlw2hjk2Xzm0qUE5SQSBrt5PatLB9QMe5YaMicqY5lUhtaQVZL6q2/rapnKKJGOMzTCWuK2+eWsAanZII3A+VPHHHUve5xV1LbSh1I3WvwRbUC/kiszZZZhQSQf2OhXWSxGJb8I4jxCQ0UvTkOOoHVyxuNr/AMaj702ViEwpBVJfQTqBbt9qkfCeKMtNsyY8sJbdlDmIvZ0lWgCk+La71R5k4OIbQyolQFvF6KttgGHPMXOiqeJzLxnEm3ejElZR8Ol/xRSaZEyqzuqA+Y1oqC9/uecjmR/nupV7lhIQpb3SWheyQCSBb/hXCcQamF8MNNuP2ICweoG+u9/xrTvhfDZUSdBLER4ozOPc0jpXcZE2+t6okBDzyApTa1qacvtsbUva6tTyY7fU7Y2+7zJ/ws3IcmxXp0KV7e4SxzCCqSQbEXt2vvpe1q2uKY25hDzafbpTH5lnXNylHcg9ze3+U6VJaU0WgsradSsgKOmbespiE1fu2YpitvJU5dRUoAgAXuQdyNNtxvVzaD0i939zZMaJxBL+R1Lb7bbqc6VOZbW7aAk3orwwfE8PmN811lSm0qKLBJSbg20B7UUPdx1gyoPiYiVwPxmw05KiYJOVOb1bR02J7fFa2p8V8wyP6qNKyTOEH1JWrqcbKQUjTZOfX70UVpBoaWX5DME7FjmNZqfUFCH4sTgueoofHJk52wCg73ST47/W3as8/hvqa5JhSHeA3nJcRJSh4vC6rpsb2VY+aKK6mhoA7ZWPYUHjpWFhM/hLEv1Ek/uNobKE66aZx2ooooZ9Ooz0kzP/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcGCAIEBQP/xAAzEAABAwMCBAMGBQUAAAAAAAABAgMEAAURBiEHEjFRE0FxCBQiMoGzFiM0UnJzkZKywf/EABcBAQEBAQAAAAAAAAAAAAAAAAMEAQL/xAAhEQACAgICAQUAAAAAAAAAAAAAAQIDETEhIgQSEzJBYf/aAAwDAQACEQMRAD8AeHGyOJXC+/NK3/KQr/FxJ/5VNLy+5b4yDH5QSSCVDNXb4mteNoS7tHotrl/uQKpoYbV6km1ow5MdbcDASrcPJHMB9eUp+tBZKSmsaLqK65USb+S0QZtxXMSVqGdvhO9dS7WSbaY8V2XFfZ945lI8UYJSMb48qb/CvTbMEwZElFtdVLQoMlxvLgISSrIPTHQ1va6gTtY6eiNxJMCdNdeWBIZJS22lOAUA43JIA7eZrn3ecfQSp6/o4vZzPNwhsp7qf+8uisPZvCk8HrIlxJStKn0qSeoIeWCDRVJMSbiScaLuB/h/umqiWm3sWvilp59TrbanHfFdSM/Pvv23JxjyOdu9t+KBxoe4n+n9xNU41y5MY13FuDzRQwFNJZcHQhIB698k0U85Fg+pJPxDMb11d7NFZX72Jb4gBCEqAKs4JJ+UY3yPKp/oFFu0foq9K8cTG7Y8tTrhAOXA2kqCe2+1LzVUd+Bq1d5gOMouD9tDiOZWC0vCQpRGP2HvsetMvRVjYh6HiWp1CHHZaUyJ6XMfOoBSubzJ6YoJLCyPGTbwMjgWqW7w0t0i4tFmVJdkSFo5cY53lqG3oaK9eC7zkjQEVT2eZMmUjdzxNkvrA+Lz2HWiq46RJLbNni2rk0BdFdMeH9xNVviXy2Trm/ary1HfjlDbaG3CokOYykjI5U+oyc+pooofIWa2xqdozN4tLk4xZrDK34q22FS1p+JQSU8wIJ2CgMZHX0ro3DVlptkxuOklMVxGAUk7kEgJOD0wB50UUVL9UeTbOr4HhwQbYa4cwBD/AE5ekKbHZJeWQPpnFFFFVrQDP//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">幸福摩天輪</div>
-                                    <div class="artist">Eason Chan</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcEBgEFCAP/xAAtEAABAwMDAwIGAgMAAAAAAAABAgMEAAURBhIhBzFBEyIUQlFhcYEIFSMykf/EABgBAQADAQAAAAAAAAAAAAAAAAMAAQIE/8QAHREAAgIDAQEBAAAAAAAAAAAAAAECEQMxQSEEI//aAAwDAQACEQMRAD8AfDrExUoKblbI/HsAGe33H1+9YlzGLPAel3WeluK17lvyClCUDtyQAO9Tf3VfvU6zXVcrTkySrfJQWHEt5Hf5QrGAa4abF0aWL1GtqtQ3CPNfZjWhlpCmJzgUlK1c7sqI247YIP5q8IcS42lbawpCwFJI7EHtSyidOn5N2mQbvKeXp6OEqhpQG0KWVcq9wG4Yxg5JzUTqn1Bu+k9WWyLDZR/XFsLd9Vokv84ISrwAMcjzWfejRxqcqxuxsE/c0V4xZDUuKzIjuJcZeQlxC0nhSSMg0VLCaJA4HelO/ChTOowejun4ePITIU9lW1C/mBwexVxk8c00LhIREt0mS8f8bLK3FHGeEpJPHntSW6Z6pjTJd3VbW1S3DF3L9UFvaCoDyPdyRxTY+sOfEPP61zv/ACLlsTr/AGxqPJZeTHjK3BtYVsUpfY47HA809L7bfjdNzbcha2y7GUyhQVgg7cDn8/8Aa5G1IwxakWz4R31i9CbfkJLgJaeKlBScDt/rnB55o6b8R3fK4Q/ST0Pr+PlykzNFvxZRKhBklppRPyEBWP0SaK23RWJFj9OLW7FRhUoKefOckubiDz+sUVmqAzTUpuUdFh1jb7hdtNzbdaX2I0mUj0S88CQhCuFEAecZpYdNOmd+0/d/i5kiK3GdDkd9tB9+wFJQtJwRklPY9hRRW1JpBNWOKdAi3CGqJPYRJjqxuQ6Mg48/n70tdU9HbZfJXqNyFwWGQ23HjxwAhKN+5zdkEkqBODnjjxxRRVJ16Xb1wt2h9MN6Ss5tcaW9IiBxTjSXRy3k8jPkefsc/XgooqmyH//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">任我行</div>
-                                    <div class="artist">Eason Chan</div>
+                                    <div class="name">感激遇到你 (電視劇《野蠻奶奶大戰戈師奶》插曲)</div>
+                                    <div class="artist">Myolie Wu &amp; Bosco Wong</div>
                                 </div>
                             </div>
                         </div>
@@ -355,6 +355,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">StandardL/StandardL</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b445da9</div>
+                                        <div class="message">Updated with Dev Metrics</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -438,29 +458,12 @@ Update Customer base and detail screen</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#1 Update Customer base and detail screen</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div> in <span class="repo">StandardL/BenyuanSpring</span></div>
-                                    <div>19 files changed <span class="code">++297 --155</span></div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Jan 2025, 02:11:02 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Jan 2025, 02:45:14 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
