@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1136" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1120" class="">
     <defs>
         <style/>
     </defs>
@@ -308,38 +308,38 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBwIE/8QAMBAAAQMDAwEECQUAAAAAAAAAAQIDBAAFEQYSITEHExRBFSIjUWFxkaGxJGKB0eH/xAAWAQADAAAAAAAAAAAAAAAAAAAAAQL/xAAXEQEBAQEAAAAAAAAAAAAAAAAAARFB/9oADAMBAAIRAxEAPwCW0tMHoVkEnIyPvUxrdJVKQ4CeeOterS0pKYhSonIWaNWKQ/FJ4yOlUCxFrhKSlDch1+QpvdsZGdmBklR6eXQc1NOq9bqcfOrnTiG/RaVthKUlQTvBwUnzzU9rCII14c7toNsqwU46HjJ+9PCpU5kIT1oruQn2KDiigHtqgXDuEOssOFp0kpVjg+/8VWwNMOmLGlXZtYW766G18Db5HB61oPZlPcb0Zp/9NdggIc2uQ0p9oMlKuSR0J6YyQMimWu4NwuZtng4MkmM2ptxLhCSNp54Kjn+PpRMK6ip2nkIUzJjPJjNhPtB3e5GByDjIxj8VF6vtDyXGBJkBfiX092QjGE4PP+Vs822vR4rsSVsaeLZQpCz0JFZv2hlDc2zJW4hQQ6gHafcME1WCVB6ossiyllqQQtDidzbiRwof38KK0TtSTDuOmGHIoAMbGD+4cH60UrMNNab19dLRbItuaisKajpWhta2llSdyionIUB1Pup1J7W9Ry5yO8U1sBWMiOQTuGCcg5oopBsejnJd/jqlzXmEJeIUG1NBfOACU7lZH3+VRfbGbCm9WaOpSn3WpSRJ8MlJ2p549UcK+BOaKKviYWdrlihx9PtzNPOTHYi+HWZEZ1tbZ8lZUOR8jwfhRRRUqf/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAgFBgIDBwT/xAAxEAABAwMDAwIEBAcAAAAAAAABAgMEAAURBhIhBxMxFEEIIlFxFTI0gTVCYpGTs8L/xAAXAQEBAQEAAAAAAAAAAAAAAAADBAEC/8QAHREAAgMAAwEBAAAAAAAAAAAAAQIAAxEEITESIv/aAAwDAQACEQMRAD8AhdBybQzAlm6S3GFSGih0lA2FCiRgY5Uf6cYzjyajrf08uGspFwk6QU2uCxILZbfV23GuMpCkqAIOOfpU90usb89Jdhgl9H5BxklO5WBn7V23pxHMZdwloirxJKQ6tKeVLRkEkk84zjH3omRquQWBP6j0hbONpzqKxq/p7fdJSbezepUOK5cFluMkErLigQCPlBxyoeakrV0u1TPkJZivQXnikL2eowcYB9x5GRkeRnmms1VpC36uft8qQ8D6Pf2x20OAKJSQrCgcKSUA8Y+hyOK3af0kzY1MdiXJdQ0nbtcWSCogBS8ZxuURknH1wBk1UtmA77JGr09CKbddL3LS1xREvyGg8pIVsSsLBBOPP96Ku3xLyuxreC0Dz6QOH/IaKpRtUEyWxcbBDQ9wfsulJMiE8WZaZSkIcCAooylQBAPHk13zQYlJ0pazcyfxB1lL0kqG09xXKsj2OT4pVoV9Tb5lzhyGC8wg9zYF7Pm3JKTnHjOOPccVaLv1k1K/FYbtghwHEOBxxxKCveBzsweACfPvjxiiehnclZXTYor+T7GGvshGn0v3tmOt1n5fWob8lHjuAe6k55+o+wqwhQUgKHgjPildldcNTXVpuG5b7ZGaeUGnHEb1ZSSAcZOB+9M69IbaaLjziG2x/MtQAH7mgsUqO/Yi9+RTviiVnqbETk/wwf7FUVh8SLjcvqjFWw4h1v8ACxhTagocLX7iiqau1ktvTSnPSG0XmbIXGYmR32wgoL4R7JOcg5ByKxNytjeAqyoGOP1yj/1RRSeaYSscybrXqi3Wq4RZkezR1vR1hxAekqWncORkbsHmvXr7qVcNavwlXNLDbEXO1hl3CFKJ/MoEnJ9qKKKxA47j1XPUwZZVxPbdfTkJSgIUlI3A8kY8CiiisrUKuCccq9rbPpp//9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">天下無雙</div>
-                                    <div class="artist">Eason Chan</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAEDBQYHBAL/xAAwEAABAwMDAQcCBgMAAAAAAAABAgMEAAURBhIhMRMUIkFRYZEHMiNicYGhsqKx0f/EABcBAAMBAAAAAAAAAAAAAAAAAAMEBQL/xAAhEQACAgIBBQEBAAAAAAAAAAABAgADBBESBRQhIjGRwf/aAAwDAQACEQMRAD8ATSD0ZMmR3l1LaX0raWVDjapSk4AAyeOcdDiqrqCwSnrhJNrZdaibzsS52e4J8s89as2lraXLRKmnOGnUj5Wf+1RdVTJqNUT2WZTiGjs8AJx9o8qk1qTe3Ay3VXV2ossG/OpHSdP3ttZKXGgj3UkH/dMIauUd1CHMqKlBIwpJGT+9JIi3OT4GJTylbSo4ITj5qFg96bu8VDkh8kPoCgs/mFUADryREHSvkAFIBmoWi2yYb7KroygJ3BOxQSsKyQPL2zRXRrS492mxGAeSgu/ChRSaI1qhzC5dS0XNWnwS46Q2t/T+7Ajx97aH+dYjre8pt2srolTPak7NvixjwJrQYt6cj3FVnTw28624fjdTly0jYLlchPnQ1uyVEF1XbKAVjgYA6cD3oCWim0s/wyni4lmVh8KT5DfyUe0O3UsMyERyntR0HPHln0pHdKvduxLEtQkl5Cy0vGDyM8+taSxarfHQ4lhlaQfsHaE7R7+v8VG3MadTPYbmlZdaGezS4rIV5E46D2NE7zkfQQ56O6KDYR+yvfUY51NCAPBhr/tRSawW3N1Nb3GVhaO5ugnHQgk4PpRTNDcawDI3VFJynInh+SpN9TcWAy8kIaKfxkjkNgHIJz1rtd1g+Bh2O0AOmHUnH6eKiigcFfXIfJmvLuoBFbaBjDmt1AFKW0Jz1BcGP7VU7lcWn7g5JIQS6rcrCwcH5NFFM1VIjeomL87IsXTNvUftk9JloW4tKUJQtOCRnJSQMc+pooordijcXS1mGydz/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">遙遠的她</div>
+                                    <div class="name">分手總要在雨天</div>
                                     <div class="artist">Jacky Cheung</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcDAv/EACwQAAEDAwIEBQUBAQAAAAAAAAECAwQABRESIQYTMUEUIlFhgQckkcHRFSP/xAAXAQEBAQEAAAAAAAAAAAAAAAADAgQB/8QAHxEAAwACAgIDAAAAAAAAAAAAAAECESESMQNRBCIy/9oADAMBAAIRAxEAPwDD4duCgpSkhSR7VeRojUNWsM+celcOG4a3oh8G7zXAlS1tqOPKBny9zuCKnw3+ZLbQvStno4tKSMe+/T5qLbzo0QpwNH02tLE3i+GZqG+QpJcLit1au23Qb1r994ah2ZapxZS4kKy2gDZXff2pe4EYtqJMWRMSEpdR9uhoZ1JGcknsPfvmm2+yF3weGbWlltGNKCOqe/zR5ytk1qtdGMcYqXxTNU3yUoSgFWSPTrRV7xDbnbSH5LIB0JWhWc6R33367df7RUKrXQqUszj6W3O2Wq5tOSXHBIczu42kIAzjAXnVkg9MAfNMc60wmZ6o7suI27GdL0gx3Spst5J0uZ9s7/jrWbtWibLU+2hkl9hw81KcDGcfH4qa/Z5zMOQ+tLqIobPMUFjKgOxGcnetFcW+wo5JdDNevqQlMiTHscfkwQ2GY/YtpHX5NeWePr7/AIUWJFLLTjaj9wEYWrVt5ldCN6WG7G09alvq8Ym4c4ENJbTy+Tp3VnPXVtj03qyFmcbs8XlkrU8Eq18wJCEkA7jPqa7SmFsmM2yJcL1dZqH4qpElzxPl5XMy31GSPkD90VIXHRFiKQw9mQlJDas5SCTknB9qK4q9COPZyUmUm5SXosoNKfUFackZ2wf7Ux1uS3ZprKVn/q2oqTrJycZOxHWiihp9DJaYspuEZDOnwRJ66lOn9CtEl8PXOy2e0Lnafu4bb6BnokjIB98YoopfP+UZ/jv74FqQyo6tk4JySNjRRRUp6NDR/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACQDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAYIBQcBAv/EADIQAAEDAwIDBQcEAwAAAAAAAAECAwQABREGIQcSMRMiQVGBCBQVMmFxkRZCUrF0odH/xAAZAQEAAwEBAAAAAAAAAAAAAAAEAQIFAAb/xAAiEQACAwEAAQMFAAAAAAAAAAABAgADEQQhEhMxBSJBgcH/2gAMAwEAAhEDEQA/AOQcS7dFgXp2FDLbqGiApbaeqsbj06UjLCUr+UVQ/G6xx4GrlliOhppbCFgAAbnOSfqTXF5lqblSyIzjefEA5xWn11+5loPzJXmZFAEw23CU8gSnHlyjrTHb1xB2PvKEpGAk9wc3TII/3WG/BfiyksqSe0Ue7jor7UwO2tTFkcfkqxMZUkgDccpVjffbc0DfbOnxGciOS2DclW8EbfFh6KLUVYeb96cPMpsA52orR4OtsfoG3rjKQoryp3B6ObA/1RXN3Vk7KWUelyJ7xyssefoSTPWEJfg8rgWUglSScFGfLfP3qXmGXucqZW3yK/ZyDb7EVZWtYMG4aRuLF2Q45C7EuLS2cK7u4x6io+cjLt055rulpR5klAAGPA0znbayD+Ir6eQxAY+Nn1Cs8SdcovxNa0NtqK8t9c46fmmS16Wtke7GLqyQI8ZxkS3kBfeSkYIQryOwOKWXbozAcQ6XR2jakqA9ds/il3Ul7+KCQ+/K7V55RUog9T/yjdlT3eAcXP3s1rbOfmDBfJMqXgDLYmaQuUiAgohuXWSplH8Ud3A/FFZ3srDPC4/5739JoowAUYP7PNMzMSxPzG/WeskWy1RX460lLquVTZTkuDG4wflH1677eYmu9vNzro88lltlKyVBtsEJR9Bk9PWiit7nrVKyRG8ajRNaRpa2s2kuz71HjSXmwtLPuxWoK8ApQ6CsSdYdLrC1NSYynR0yh9AXsMnIBwc79KKKlqg6/dK2j1sdlA+z7FjQ9EyW4CkuRlT3Vo5AoBIKUbDm3OD40UUVkNSumHatdn//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">一點光</div>
-                                    <div class="artist">Alan Tam</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHQAAAQQCAwAAAAAAAAAAAAAAAAMFBgcBAgQICf/EAC4QAAIBAwMCBQMDBQAAAAAAAAECAwAEEQUGEiExBxNBUWEikcEUgdEVNaGx8P/EABcBAQEBAQAAAAAAAAAAAAAAAAACAwH/xAAZEQEBAQEBAQAAAAAAAAAAAAAAAQIxESH/2gAMAwEAAhEDEQA/AOq6pyGeQH3/AIrcRL0zKo/Y/wAU5aHai48zkoIBGScYH3+afvD/AGTrG9NVuLDRIbd2iUPI80nAKOvHB7kk/BoIYVIOB1+cVgo3sftU23hsTXtuSNJfaRd28MSr5zmMlI2JwMsBjBpij0+4t7tIry1kjZ15KsgKZHv1p7Dy0ykEdxRXM1KMRTlAAuPQdv8ANFA47V/uEBaThGsqlumf+6Zqy/C+4kg8TbhdN1H+iC+Vmt/pHF+DhhEyt6sAQOuQT61Uum3CwEllzlh19qWa/lKKObc0YFJPVcHIwe4PyKSD0P3Lp8O4tqCCSVRJcKrCUAMAwIIJHY4IqjPEO2fQLSA3Mdvf206vGJGh4hJc9MqTnB/GKhux/F7dVzHBZy38Q/TQ4iJgBDEKclj3LHvnt7io9u7dGqahIDrF08ttAyZgjc8QTnDftn196z3jOu9XjWs/YrfcCMLrzGwA5JwBjj26YPX1opTcdwk8yhCHwzfXjqR0H4orScTTNkjsTRk+9FFHCsVzNDnyppEyOvFiKWjv50Vwzs/MYPJ2/B/3RRQIzTeaB9Crj1BJz9zRRRQf/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Monica</div>
+                                    <div class="name">心跳呼吸正常</div>
                                     <div class="artist">Leslie Cheung</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAUGCAcE/8QALRAAAgEEAAMHAwUBAAAAAAAAAQIDAAQFEQYhMQcSExQiQVEIFWEWJHGBkXL/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/xAAaEQEBAQADAQAAAAAAAAAAAAAAAQIRITFB/9oADAMBAAIRAxEAPwDTNeLJZODHSWKXAf8Adzi3jIA0HKs3qJPIaQ17ajM7ivunkGWURvZ3AuU7yB1ZgjLog+3rNBIbF8bWl9m4rLy88dvcO8NvcMmlaaNnV42PQH0bU9GBqfw+Tt8taNc2ff8ABEskO3XWyjlGI/Gwf5FVe54cgt8bbYy9zMCIZnliWQLGxdpRKSuiDsMOWug5c6smAxgxOPa2EplLTSzs3dA9UjlyAB0G2P8AVSSNKUqRXNfqE4lvuF+zi4u8RcPb300yQRyIuyAdk63yB0K6UKqHaxgLTiLge+tr6ZIIrfV4JJDpVaPZHe/Hz+Kp6qxLYHiLifJtlb7MOs8pETSSOQSo1oBQNBeQ5chW4+zXzv6IxS5S6F3eJGUecHffAJ7p+emutY3e+xsMhtYnSYRakR4zsSFufIf9EjVa/wCyb1dn+KlKurTI0jB22dknfP8Ar/KWvBzeat9KUokex+Kyf9Q3bM+XF3wtwyyjHbMd1c9TPo9F+F2OvU/xSlLM7GuFYO8sY8ffw39p5mcRlrUs2gjb9W/fpz1W/ezS9wF5wZjhwmETFwRiJYQTuFupRt897Pv160pW6X1LyyZUZ+GOKC1+zeAWkmZj4vi7Ogo6a1r/AGlKUDf/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAUDBgcBBAj/xAAwEAACAQMDAgUDAQkAAAAAAAABAgMEBREABiESMQcIEyJBGFHRJhcjMmJxc5Kxsv/EABcBAQEBAQAAAAAAAAAAAAAAAAECAAP/xAAaEQACAwEBAAAAAAAAAAAAAAAAAQIRIRIx/9oADAMBAAIRAxEAPwCLdPmX3DZdy3S2Q2W1yx0dTJAru0gLBWIBIB76Vr5qNzMwC7ftJJ4ADSZ/3rHvEGKSo8R9wxQoXle5TKqjuSZDgaXi03O23hIGgkiuUMilYunLBuCvHye3HzqVRVO8N2+qHdfP6at3H93+moz5qdyqSG2/agRwQXk/Osdmu19tlbPTzCSmrAwEsciAEMGDDKkccgHS2qs10a5+hUUdQtdUMGWF4iruW5BC4+c6cCmeitpeZa/3vc9ptU1ktcUdbVR07SI8hKhmAJAJ76NYX4d001J4n7dp6qN4p4rnCjxuMMrBwCCD2OjQxQ4r1t/7X79Ldq2SjgiuEzxyRx9f7z1fbkHjHyc/Ax3Ouzarqu8PF22+nUJRtVVccUNSynoTAwp6M9uMYz3PfVY8QWxv3cvOM18//Z0pdBR0tDWUtZEahyzdEfUJIGVsAk4xk4yME6qKVGba8LnvW+U0W8LlLMqXCWK5mRpI8qrqntABPuA9vYEjtznVnuVwpj4j7cuK3JqipqfQiacp0QRrIo6GwBnHS56lySGVucEYy6ktklxtlTV0bLNLSxvNVRu2GVAVHWM/xAl+wyeCTxqBSHoUkacK8bKqx9R6u7cj4wMff51XMTdSLpbaaek8crfHU1C1M4vKepKgwGb1fdgfbOjSzY1SKnxI2zJ1O8rXCAyM5yS3WOc/OjXOS3CkbRubyz7ivG47ncor3a4o6upknVGWQlQzE4OBpd9K25OM7gtHH8kn40aNNkHI8q+5QvSNw2kA/ZJPxoHlW3Jx+obT/hJ+NGjWsw02p5aNwWTc9quk18tcsdHUxzsiI4LBWBwMjRo0aGKZ/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">沙龍</div>
+                                    <div class="name">天梯</div>
+                                    <div class="artist">C AllStar</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcFBgECAwj/xAAtEAABAwIFAwMDBQEAAAAAAAABAgMEBREABhIhMQcTQSJhcRYyURQzQoGh0f/EABkBAAIDAQAAAAAAAAAAAAAAAAQFAAEDBv/EACURAAIBAwQBBAMAAAAAAAAAAAECAwAREgQhMUEiBRNhgTNRsf/aAAwDAQACEQMRAD8A9KVuqs0iKHn0qUVK0oQkbqOFRm3qD2au4ZEhVPjR4weFnbXVqsR7njnFuzLmanfW0HLk9LC46mVPPKc/gs/YL+Nrn+xhHZxiUTOFVp0mXKTApzkt5laQrSClG7Qv4JBJ+cATaOV3yl/Fbrm/RprpcEXK3l88VmT18kPwnoLry0vKkJWmSlOkFkcoI5BPt4w7Ml5vpaKVEhP1EyJ36USVOG5CwrcBJJ3+Odt7YRfUTp3lj6HXWMroccVGsVraUpadH8lHVufkbDHPofUI1GphqkZsyptPbdbVHB5WtR0KN+BY22/GCMofb22PFz++qr2y5KEfO1eg8r5gnTaoUTWVdp+6NSloQllaRfQlP3K1A6r/ACOBgxw6e11uu05uo1hcVuolwoQ2opSUjxpHNje2DEEcigK/IoOcDM4il7NoU+oTqsitoaYrD6zJK9WoRyD6fWOEFNk/HjEdm2iPZOzBS5sqHHmxC4jWCbIKwbBdgDY8eD/uJLqpONSenzIZUmMlTTaFhX7igrm3gfj842zjMSinB2StExQZjoUgqJKfSkEG3BBub/nzfAT6yWRA8bZBnxsONwP5TlYuFbbxuayifS5MByhx4rMUy3FJXHA0l0E3sfIFv84xpRYdPodLlQ64qmwJlRmqUBFQUJZitp0oSL7kmyj5uVYVmTKrJazpLqnYDrfcUE93VfQk8DkjYW+cWerVONXpjCnm5cirO6Qe+nSkX3PgC1uPA2wU2iZcVkBxY72rFWBOXFqncjUtlGbaY7KlKVTFL7jLq0W1qTwlQ8b+f+4MWWh5FmtUpD7CSntlRbi94Oa9wCbg2B9sGF+r9T1kcmKIWHR7+7Vp7Gnn8jJjV6fyHRJNNXClNuutqt6u4UkEG4ItwcQlR6V056lOxIMyRHdWpFnXCXLISb6Sm4v8nBgwxhRdOAsQsAb/AHShtRK3kWJNU2ndOXJmalxRSpFNgMa0yJKt0SgVbqRc+gqBJFr2/rDNqGSaSYHbgQ0NyG0JS0pS1EC3F7nc+5vgwYLnld9ieqppWuKxRZc6mtlqdDecbCiEqZZAF777C23uRgwYMc6dRKptlRJRX3Ir/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Shall We Talk</div>
                                     <div class="artist">Eason Chan</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcFBgEDCAT/xAAqEAACAQQBAwQBBAMAAAAAAAABAgMABAURIQYSMQciQVFhEyNScYHR8f/EABkBAAIDAQAAAAAAAAAAAAAAAAMEAQUGB//EACERAAEEAgIDAQEAAAAAAAAAAAEAAgMEESEFMSJBURIU/9oADAMBAAIRAxEAPwCuHe/JrMMbySKqAkk64Fei1tJ7y5it7WMyyyMFVQaa/T3Qa2VvubbyfJqkAc7pdWtXIqo8ztLCHHXZ1uAj3a5/j90GJ0ZwUI7W7dn7ps32FSMFVC9y/G6pucx4J32lip2B+agtc3tBr8gJTpVhS3HJoraI3U6kUK30OaKIHaVlhrtqW9O7mxs+rbKfJe2IdyrIW0qMRoE8+PIp932Qx2Pxz317eW8FmgBaZ3AUb8c1zBjLe4yt0lpYRPPO2yEQ86Hn/FQXqXj87YR29lc272dv+qv6sskihFYglQeeOAT8bpisSPEjSy3PQQyZsCTBA6+pyp1J0tLnEyq3cdjaRtPCtyx7Fvix2dgjZCnwx+eBwajeo+prKZyuPQyD+ZGh/uucZeocv1Ji8ZgGmRbexE0kAkcKOR3MNk62e3j802ejsTmcv09aTjHTI3ug7ZAIyWQAkAHR8EH/AJRLEBwPykOCtQvlImOPm9LaZ3lkdmHaSaKj3uUt3aOQlHQlWVjyD9HdFAEJx0td/bC3WQr76I2i9M4mS/zCs2QuF75CwP7UY5C/38n8/wBVEeq3T2b6ttLSKC3tFvMlM9wChKOqhCQkja0QB2Lz9cUUUxG4vdgrGWomxN1vI9pR2vpX1FFHfXqm0YYuZlmjEpDMyAMez26PB8/ddUjIQxdIW+Px1q1tMiLNHMXMzJL5DltDuO/P2OPFFFGncW9JSlVjcfLaRPqbjbjM2z5uwt5Ib6MlL23UeWXyR9kefyNGiiioikdhHt1WOcHZIyPS/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">風再起時</div>
+                                    <div class="artist">Leslie Cheung</div>
                                 </div>
                             </div>
                         </div>
@@ -359,69 +359,30 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">qlenlen/android_kernel_samsung_sm8550</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">StandardL/StandardL</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#097b0c0</div>
-                                        <div class="message">Updated with Dev Metrics</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 4 commits in
+                                        Pushed 3 commits in
                                         <span class="repo">StandardL/BenyuanSpring</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev-customer</span></div>
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#cb3ecc0</div>
+                                        <div class="message">Merge pull request #35 from StandardL/dev-customer
+
+Dev customer</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a3e2516</div>
+                                        <div class="message">Modified implementation of Nav Graph.</div>
+                                    </div>
                                     <div class="commit">
                                         <div class="sha">#ab2eab3</div>
                                         <div class="message">Merge pull request #34 from StandardL/master
 
 Merge latest codes.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b69e4b6</div>
-                                        <div class="message">Merge pull request #33 from echoChalo/master
-
-Rename variables</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d1885fa</div>
-                                        <div class="message">Modify the name of variables.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8e3e2ed</div>
-                                        <div class="message">Merge pull request #32 from StandardL/dev-customer
-
-Dev customer</div>
                                     </div>
                                 </div>
                             </section>
@@ -434,12 +395,12 @@ Dev customer</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#34 Merge latest codes.</span>
+                                        <span class="issue">#35 Dev customer</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">StandardL/BenyuanSpring</span></div>
-                                    <div>5 files changed <span class="code">++9 --9</span></div>
+                                    <div>11 files changed <span class="code">++718 --654</span></div>
                                 </div>
                             </section>
                         </div>
@@ -451,12 +412,45 @@ Dev customer</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#34 Merge latest codes.</span>
+                                        <span class="issue">#35 Dev customer</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">StandardL/BenyuanSpring</span></div>
-                                    <div>5 files changed <span class="code">++9 --9</span></div>
+                                    <div>11 files changed <span class="code">++718 --654</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">StandardL/BenyuanSpring</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev-customer</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a3e2516</div>
+                                        <div class="message">Modified implementation of Nav Graph.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">qlenlen/android_kernel_samsung_sm8550</span>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -465,7 +459,7 @@ Dev customer</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Feb 2025, 02:48:11 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Feb 2025, 03:07:30 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
