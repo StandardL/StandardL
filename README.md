@@ -20,7 +20,7 @@
 
 <!-- Wakatime 数据统计 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-144%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-147%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -51,16 +51,15 @@ Sunday                   41 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Kotlin                   1 hr 13 mins        ██████████████░░░░░░░░░░░   56.19 % 
-Python                   53 mins             ██████████░░░░░░░░░░░░░░░   40.72 % 
-XML                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Python                   3 hrs 6 mins        ██████████████████████░░░   86.07 % 
+Other                    30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
 
 🔥 Editors: 
-Android Studio           1 hr 17 mins        ███████████████░░░░░░░░░░   59.28 % 
-PyCharm                  53 mins             ██████████░░░░░░░░░░░░░░░   40.72 % 
+PyCharm                  3 hrs 6 mins        ██████████████████████░░░   86.07 % 
+Excel                    30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
 
 💻 Operating System: 
-Windows                  2 hrs 10 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -80,7 +79,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/StandardL/StandardL/main/assets/bar_graph.png)
 
 
- Last Updated on 2025/03/17 18:47:09 UTC
+ Last Updated on 2025/03/18 18:49:10 UTC
 <!--END_SECTION:waka-->
 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="65%" />
