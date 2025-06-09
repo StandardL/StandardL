@@ -314,30 +314,9 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHQAAAQQCAwAAAAAAAAAAAAAAAAMFBgcBAgQICf/EAC4QAAIBAwMCBQMDBQAAAAAAAAECAwAEEQUGEiExBxNBUWEikcEUgdEVNaGx8P/EABcBAQEBAQAAAAAAAAAAAAAAAAACAwH/xAAZEQEBAQEBAQAAAAAAAAAAAAAAAQIxESH/2gAMAwEAAhEDEQA/AOq6pyGeQH3/AIrcRL0zKo/Y/wAU5aHai48zkoIBGScYH3+afvD/AGTrG9NVuLDRIbd2iUPI80nAKOvHB7kk/BoIYVIOB1+cVgo3sftU23hsTXtuSNJfaRd28MSr5zmMlI2JwMsBjBpij0+4t7tIry1kjZ15KsgKZHv1p7Dy0ykEdxRXM1KMRTlAAuPQdv8ANFA47V/uEBaThGsqlumf+6Zqy/C+4kg8TbhdN1H+iC+Vmt/pHF+DhhEyt6sAQOuQT61Uum3CwEllzlh19qWa/lKKObc0YFJPVcHIwe4PyKSD0P3Lp8O4tqCCSVRJcKrCUAMAwIIJHY4IqjPEO2fQLSA3Mdvf206vGJGh4hJc9MqTnB/GKhux/F7dVzHBZy38Q/TQ4iJgBDEKclj3LHvnt7io9u7dGqahIDrF08ttAyZgjc8QTnDftn196z3jOu9XjWs/YrfcCMLrzGwA5JwBjj26YPX1opTcdwk8yhCHwzfXjqR0H4orScTTNkjsTRk+9FFHCsVzNDnyppEyOvFiKWjv50Vwzs/MYPJ2/B/3RRQIzTeaB9Crj1BJz9zRRRQf/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAkACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAMEBQYHAf/EACsQAAIBAwIFAwMFAAAAAAAAAAECAwAEEQUhBhITQVExYXEHIiQUFTKRwf/EABgBAAMBAQAAAAAAAAAAAAAAAAABAgME/8QAHhEBAQACAQUBAAAAAAAAAAAAAQACERIDBBMhMUH/2gAMAwEAAhEDEQA/AOtvkSkCNjv4pFyjMSpjKj3qruuLNOsnga+ldS/3LyIW2xjtSdQ450QRg9WclvTERNc7pKjHKdqKpGkjuVRVB3Y4Fct07UrqTiC9tJ5xPZRxh0YxhMHbGPI9d6b9WOIk1fTIIdKWZrRXMlw7IVwfRR8ZNJ+q9i2njhy+jQxfjKucYyQFOP6NGPb7FtOWvT+ztQgSTrFcbt2+BRWSteIVN2y5dVdu428UVPiSqkWXGl3EkJkuSZIwQPxAwGflt6uNH4uvtS1BLXnM3ODhP0yx52z/AC5jWLTR5mb7eUjtuc06LTbuF+ZJijYIypOcV0ZdMTUDbTi2Z7di+pWi8oiLxxtIGV3zgZA7Dwayep3N+1tafu/WuGLmZGecupUgYAU7CkjTr24mWMytMOVmPUkwFAGe5qpVJZHRA7OQcBRk4rTA4gFD9WfqUsIui8EIRMAlQdgcb4oqJcRSRyFZFKk749qKMg3PH5becYcAbAUKx5Me3+0UVEUZpZI3kVJHVXQqwDEcw8HHbavYYIixHTUBRtgUUVbIl6yzXMUPXdmEQKovZRRRRTgv/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Monica</div>
-                                    <div class="artist">Leslie Cheung</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACUDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAUHBggDBP/EADQQAAEDAwIDBAYLAAAAAAAAAAECAwQABREGIQcSMRNBUXEUFSIkQmEIFhhigYKRkqHB0v/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oADAMBAAIRAxEAPwCU8VNG2zSciIzbp1wkyZSQtKHSk+fQDvxiqFb+Deh4LFrgar1jOj6klNpLsWKUqQ0tQyEH2Dg925GT0pbxCeYkx4Et9vtFwpDLufuBQ5h89qu3qhtp2ReTc5dyQzzyo9qiJS2h13GQVHqs9wyQB4UpHPNw4YWJ3Ub0CzXa6+hR5IiOyZvIjnd+JLaccysd5xgVRU/R20qqKh1N/viieuFtEZ/bSK66+Zuz2oWdSWS3wJoClxfeG3nEuEYKcp3znfwqvcNkRYugbdDZUcstICiVZJUdyd/mTRU7+zvpbuvl9P5mv80VWnlJSvGdqKUc3XtpxSFtqSvs1ZSrCik4xvgjcV973Ee1W4GxKXN9AUy2gyEqKXOQgcyCoDOfhyPMV5X+4sKbKFEheMdKR2zTX1ms12fYSELhKQ424oHlUcHmRnyx5HFEKNVuWGUpB001cZK0nZbjTbLLQ8EISAT4ZO9Vvh3fpLkJhlwFBAHOny6VJLKh700NiElYQccvahOTW7RPcR2KYK1MSXFJGGlgAeyoAZIx1/negtUh8EIz4UVnbNckzLTFWl7tVpQG3VK3JWAArfv376KkVHYd302mWtd8s+qpikqOWmogQ2d/HmyR+la9zipYW7R6vgaW1BGYSkpQlEIADPyCqKK1ER9yW6Jb7jNtvAbcVke6HOKcW29x44V21o1CrnxzcrJ3/sUUUGkt/EFq2xuxjWO/KSVFZLsbJzgDr+FFFFB//9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">春夏秋冬</div>
-                                    <div class="artist">Leslie Cheung</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoABwDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAABgcAAwUCBP/EAC4QAAEDAgUCBgAHAQAAAAAAAAECAwQFEQAGEiExFFEHEyIyQWEVQlJxgZGxwf/EABYBAQEBAAAAAAAAAAAAAAAAAAIDAf/EABsRAAIDAQEBAAAAAAAAAAAAAAABAhEhAxIx/9oADAMBAAIRAxEAPwBMVCruTJjgRpitIGmO1YFY3vvuTzfj6xdlrPtXpFUjwpMtP4d5p1t6AUgqG6uLg33txgul5DoNNqUmfIMxcaLHLyWVL1hRG57KPe18VZY8OHK0310idGQX0l1t2PHAAB9puoXH9AjBclRZQleBPlepUauOTNUsee0FOaEK92kEn7BuLb7b4snJVDdSlbJJcSHfd+rf5GE/Vqc9kHMU+M4lUlT0chiSpRRY3BJsOb2Kefm+HYHTVo0SSEJAMdoDR6h7Aeb/AHguMWisJStpnujtNVafMYcZOhtXTKvwsFAJt9WXbApkClQF08wXqvI6+C+k9PrCvKsLKGkg2F+97EG2DnLxSZwZKPLUsh1WpXtNgB/nxhX5yzHTMq+J9ZLUmWpp5KXZEeNqCBI02I3UARwb2PJGClmC9JNWEXiXTKfMPWyIkqYiFFcQww2AVOLULXUR+UfW/bDHy5k6jwqJCjOx5KlNMoRqStNz6Rzf5vcfwMK/K+Y1v0k1iqFpzqVFLLF7pbFjYHudrm37Y24Oe6sw0ttMzUkLNipIP/OMLmrxg6yrYmzHmJanU6GjX1UuQlDISL7hJO47cb/GBLxE8LJeY5zcpkMx5y20spUqRZsaTc3ToJJsTuSN8TExkPhnTXRzM8OWKcrL0eRmKnxKbA1JeRIfspW+pagAOT6tu1t8EErJnSvqRDlsPRz6kFt5ogD4F1LBxMTFLpgrD//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">猜情尋</div>
-                                    <div class="artist">Eason Chan</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBQQD/8QALRAAAgEDAgUBBwUAAAAAAAAAAQIDAAQRBSEGEhMxkUEUIiNhcYGhJCVRweH/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQID/8QAGREBAQEBAQEAAAAAAAAAAAAAAQACAxEx/9oADAMBAAIRAxEAPwCZ8nypb1DV5n1NbGw5FJkWPqMM7kgeKbilJpaHReMo7q4jDwCQTYADYB75H1qaUPSuAdAzZqmj3mi3gtL6WG4YxrJHPCdpFORnHociuJlpk4m1S01h7WexaJ4OmSrRqRsTsu4HbFYTLU5K5HVvtnOdpn5cbLvRXsy0Vu5WreyC2tJ52G0SM/gZqW801wXuZ5MyO3M1VbVoRNpl3Ht78Lj8GpPakNbYI3FSE98N3C3OkxrgBofhsB+D4rbk0u9W2a5a0mECrzGQoQuNhnP3HmlLg2QdeePYBow3g/7VLOvNJpbW36RIWhWEpIx5wVC5YEDbmI7Z9PKSnc28sBUTRPGXUOocEZU9jv6UVv8AF2ujWPZYgiAWsax9QY98hQCdh2yNvlRSXPPZ8sTlyeQKSfpio1aOGYoCcHtRRSFvcIN+9pGSfiIy/fGf6p5e0P8AFFFK3g9qd9qKKKS//9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">四季</div>
+                                    <div class="name">好久不見</div>
                                     <div class="artist">Eason Chan</div>
                                 </div>
                             </div>
@@ -346,6 +325,27 @@
                                 <div class="infos">
                                     <div class="name">幸福摩天輪</div>
                                     <div class="artist">Eason Chan</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcDBQQGCAL/xAArEAABAwMCBQMFAQEAAAAAAAABAgMEAAURITEGEhNBUQdhsRQiMoGRFSP/xAAYAQEBAQEBAAAAAAAAAAAAAAACAQADBP/EABoRAAIDAQEAAAAAAAAAAAAAAAABAhEhAzH/2gAMAwEAAhEDEQA/ANC9NLauVeFy8NhuLyrUtxwISDnbJ0zvTqjcLRWA7c4K0RpCjkg6oI3II8d8jatG9A/p1uXRDvKT9pwoA6a9jTbi46XKhCvy1BICcbaYNcZvT1RWCx47tMiQE3S2LjS0KwHm2tcjude/zSeuiW0zl9MYTk6eNa6q4oeZbtnO2sKIScaVyvdHEvzpLqMfe4rTHvT5u8JNEKUe+P1RXpOT2P8AKKRC54I4iPDV+bkKSXIzg5HkjfHkU9LPao11YVJjTHf8t09VAbcxnO+u4/tIaHHbbhuEYyNFK+ad9g4fZbhNN8z6WSnJbbdUhKtO4B10odFWigyg9TOJkQbc9CteXF8vT6gOeQbZJ80lEK2TnJzlRz3pzeoYh2qL9FHaSh+QNgPwR3P72pXyGWFgBKAhR2UKXNYGXpgoJ9qKjCiM7UVaNZcw3Ai3EKyeYn5pp271FiQODo3/ADDl0aT0emfxwBosnxjt5oopSSZk6Ffc7xIus5cma8px1w5Uo/A8D2qsmPYV4ooq+ILMJJz3oooomR//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">落花流水</div>
+                                    <div class="artist">Eason Chan</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcDBQQGCAL/xAArEAABAwMCBQMFAQEAAAAAAAABAgMEAAURITEGEhNBUQdhsRQiMoGRFSP/xAAYAQEBAQEBAAAAAAAAAAAAAAACAQADBP/EABoRAAIDAQEAAAAAAAAAAAAAAAABAhEhAzH/2gAMAwEAAhEDEQA/ANC9NLauVeFy8NhuLyrUtxwISDnbJ0zvTqjcLRWA7c4K0RpCjkg6oI3II8d8jatG9A/p1uXRDvKT9pwoA6a9jTbi46XKhCvy1BICcbaYNcZvT1RWCx47tMiQE3S2LjS0KwHm2tcjude/zSeuiW0zl9MYTk6eNa6q4oeZbtnO2sKIScaVyvdHEvzpLqMfe4rTHvT5u8JNEKUe+P1RXpOT2P8AKKRC54I4iPDV+bkKSXIzg5HkjfHkU9LPao11YVJjTHf8t09VAbcxnO+u4/tIaHHbbhuEYyNFK+ad9g4fZbhNN8z6WSnJbbdUhKtO4B10odFWigyg9TOJkQbc9CteXF8vT6gOeQbZJ80lEK2TnJzlRz3pzeoYh2qL9FHaSh+QNgPwR3P72pXyGWFgBKAhR2UKXNYGXpgoJ9qKjCiM7UVaNZcw3Ai3EKyeYn5pp271FiQODo3/ADDl0aT0emfxwBosnxjt5oopSSZk6Ffc7xIus5cma8px1w5Uo/A8D2qsmPYV4ooq+ILMJJz3oooomR//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">最佳損友</div>
+                                    <div class="artist">Eason Chan</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgMAAwEAAAAAAAAAAAAAAAcFBggBAgME/8QALRAAAQMDAwIGAQQDAAAAAAAAAQIDBAAFEQYSITFBBxMiUWFxkQgUMoFCwfH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAMAwEAAhEDEQA/AM8sKffdSw2R61D/ABGfz1pjC2x9K6Uk3uYoKnqT5MVPXLihwfoDmqdp+AVzEuuKCUg5FX5N9jL0fcripoSWoclMRtt0ZQokDcVYPAIJHzTjBONec9ICU7lurVgdyommTK8IL2LGxOiPIekqRvcjEFJT3wD3P3Vg8JdJIgwnL1OZacc4UneMhpP99/mnZp68RXJSY0otNSHUeY0NwKXk+6D0P11FUNYveamW2atiU26xIQcKbWCDRWhP1D2WBJtMabHYBunnpab2J9Swe3z70UQkC5OkhIaS8UIz1TwfzUqqG9FmwratS0Nv7XXU7jtWe2R0OP8AdQUhPBVx1wBX2v3eS63AQ/6nYXDa+5R12mqhqzwzaZFnTHdSFJKCOemKjdRptGj7PcLnCSlSISMtRkcIS4VHbj5yfxxUdpS6vsaLjXe3+WtO0KWHM7QO4JGcfeKU3iJq92+P/sLcl2Na3nEKfjnBCXhnO1Q6g5zxxnmtLFmYumpNSWRWoLyIqIyHNlubDR3Ld90gcnvz25opxaftrL0ZgQWkoYgRUMw0KHCNyQVLx744ooNZKgOMNv5kMpWU/wAQo8f9rrIgl+FJmML3Flwec3t5SlXRX1nj4496KKGce1j1Xe7FFfi22atuM8PU0RuT9gHoa5W4I9wti5hUuOVokLCRk7Sc/nrRRU02Pph+I/p+NPiSG3mXWgtLiCMfX9dKKKKQ/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">有心人</div>
+                                    <div class="artist">Leslie Cheung</div>
                                 </div>
                             </div>
                         </div>
@@ -466,7 +466,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Jun 2025, 15:11:58 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Jun 2025, 16:15:01 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
