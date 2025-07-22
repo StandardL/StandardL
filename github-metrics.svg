@@ -314,10 +314,10 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAAxEAACAQIEAgcHBQAAAAAAAAABAgMABAUGERIhMQcTIkFRYZEVFzJWcbHRVIGCorL/xAAZAQACAwEAAAAAAAAAAAAAAAACAwEEBQD/xAAfEQACAgICAwEAAAAAAAAAAAABAgARAyEEEhMiMQX/2gAMAwEAAhEDEQA/AEKdKOaBCobGsTMve3XKAT9NlUGXMzZ2zFEy2eM4hbn9RLOu39l2an10rMsHtRd3yIwJjHFvPyrZMsva2MYRmVHdQBx9BV9cQIuplZOSUYLcZ+yOkKWEva51ncqu596KvDy4cahsxZl6R8Aldb3HL8xqdOsXbt+1aVFmi2gn6ncWlVeQHfUnmPEZLqKRbkiQSkggjhQ+Ig7Eg8kVoyF95mdPmO+/r+KKlr9Y47+4ii+FH0H3oqOqywCxF3GWWp44bmUSadoDQ1VW0pM6qTqutQVs6pOpk1CHgSO7zp5dXVzhdqs8pV4GICSA6g+FNTkLi9XmfyeG+Vu2PcprC5tbu5mexnMjxMUIGvPlwJ5j6Vz4zcNZ4a8tyxQLrzqEwTETaYgBak6yEqoJ4AsavRhqSRifHZVkVO11RPYXTvbxpLc4FCCNxzfmHHlHU+szqNJjJJcTRsiztuTcNNw8aKaY7fjEcReVBpEvYjGmnZFFdisLuWnonUoPdjnT5dvfVPzRN0Y52mthbyYBfGINuC7l0B8R2qKKAtf2NC1sTlt+iXOkE6SJgN/uRgw+DmP5U4xDImf7/hPgN7s5hFKgf6oooBX2oZthRM4vdjnT5dvfVPzRRRR+QxfjE//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcDBAIGCAX/xAA0EAABAwMCBAIFDQAAAAAAAAABAgMEAAURBiEHEhMxQVEiMmGRsggUNkJEcXJzgbGzwdH/xAAZAQADAQEBAAAAAAAAAAAAAAACAwQFAAH/xAAiEQACAgEDBAMAAAAAAAAAAAABAgADBBIhURETMUEiMmH/2gAMAwEAAhEDEQA/AHRx4nSbdwyukmDJejPpWzyuMuFChl1IOCN6WWibhKetqBKvNyU8lHMvqSXSc+O5P7UyPlAo5+F1yTjYusfyppaRGmuiDFQrnUgKUAew/wA70jIfSgEsw01Ema5rPUFzgyUyLfdrqWt0kGU8gZ+qdz7Kls+r7ldLcmQi5Tkr7KHzhfon31W4kpZXaQ3ECUhxQcUsnbOfOtd0QgtW6SPAugg+ewqd/lTq9ia2AqnKFbDYzqvhZLemaOivSHXHXC44OZxRUrAWcbmiq/Bz6CRPzHfjNFV1fQTGzVC5DgcmUePzfV4WXZPKpW7Rwnvs4k0heH+qFPWxyLMaLrrCQlJzglB866E4zuoRoWQh3nCXXWk5SMkHmB8furn1htoym1MuLQUpVsWwArbO+D7KC8hhpIleHQTX3F5lqdCXfuoJeUMY5fRPYeQrwIWlp1uuLi4j5MDfCc5J/T+62ONIbfcBaKmXPVwD6+PEg+Htq8X+RI3we3enV0r2tPMzLM6yvI1qPEdPBsKToSIFgg9R3v8AjNFWOFK+pouKrPdxz4zRXippAXiFZd3mNhHneYcWYjsvRUpEeMuS8lxtSG22+orZQyQnx2zSNYs99LanV2Ka1nPKEwjzAdvLvRRXOAQB+wqrGUN0PqQI01qBCy+bRPK1HYCOr0R5dqgk6e1I4WlGzXE8gP2Zff3UUU0yIb7x/cIYkiFoSGzMjux3wtwlt1JSoZWcZB3ooooI9fE//9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">每一個明天</div>
-                                    <div class="artist">Eason Chan</div>
+                                    <div class="name">一生中最愛</div>
+                                    <div class="artist">Alan Tam</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -328,24 +328,24 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAkACgDASIAAhEBAxEB/8QAGQABAQEBAQEAAAAAAAAAAAAAAAECBQQH/8QAIRAAAgICAgIDAQAAAAAAAAAAAAECAxExEnEFIQYyUWH/xAAYAQEAAwEAAAAAAAAAAAAAAAAAAQIEBv/EABcRAQEBAQAAAAAAAAAAAAAAAAABETH/2gAMAwEAAhEDEQA/APgQBqqudkuNcXKRvdKyDqx+P+SbeKFlS4fdbxnetHMtg65uEsZi8en6Gqyy8SO12BHa7AWQ1VZOqXKuTi/1MyAOhX5a+EWnCqbw1ykny1jOc/08EpSk8ybfZAMRJIsdrsCO12AlAAAAAFjtdgAD/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBQgE/8QAKxAAAQMDAwEIAgMAAAAAAAAAAQIDBAAFEQYSITEHEyIyQVFhgRRCcZGh/8QAGQEAAgMBAAAAAAAAAAAAAAAABAUAAgMB/8QAIREAAQQDAAEFAAAAAAAAAAAAAQACAxEEITETEhQyUXH/2gAMAwEAAhEDEQA/ALFOj2W1xVPyY8RlCRnhlOT/AAMc0k9q16Ystojs2mNHTMmZUlxLCdyUJAJxkdTkD4rbU5bvznJrjiXHnDuT3i9wTgYO0VjXVUPUM+Gnew8uM4paeQRkoIxxz6/5SUy+gFxTUwMdTW9+1zomJNfkuylRHcglanFJ9ffNWHs7ei3PTSHLhEiPPIcU33imUlRAxjPHzXs1JEJYat6GmIzzzKnPccHBGT8c0taebNpgyGWXNrS3itHH61HTmVljq09oI3jek+qXZ4riEJhQw4o8bWE5z9DiikOTN2KJQ4c+/rRWI8hV3mBppotR9wqUQQtWEZAyelN3YzbWrpru2GZNTDhxsyXnFPBvdt8qck8knHHtmk6TuSyvA5UcU/8AZPpdu8T1mZlEOJHVIdVj6HPTgHNNZiA0oWNpce0qZdCb5J/HgNly4xXVtFg8KSeR1x5T5t3qKn2uL1ctFX2NaVJhSS3FQ48hxkHxKJPm69MfVaupLnJkaWkTmSmInwRUrZUUuylEbUqUfQYGcCo1c3npU11alvSFpO3etRWohPGcnmg8aEVviJypHkBVK2a1s90UG37ewy9+ycY/ojqKKjSlqS8hQylQP+0VscNpNglBecjqZe6L0lloJJKldPmugYNib052VTXlKJXc4qQoo9Dv4H8EUUVzJcbARMGgP1TTWanY+kLGkBQ71997pgHYNqT/AGTWnpq36YHZnHcddZRelyF954yHMA4wcemMGiiqHUYpXkJMySO0i12+BOtiradxdjBx7xhXOeDxx8fVFFFFYxJjFpdN8yv/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">玻璃之情</div>
+                                    <div class="name">愛情陷阱</div>
+                                    <div class="artist">Alan Tam</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEAAwAAAAAAAAAAAAAAAAUGBwMECP/EADAQAAIBAgUDAgQFBQAAAAAAAAECAwQRAAUGEiExQVETYQciMoEUcZGhwSMkM0LR/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMFAAT/xAAfEQACAgEEAwAAAAAAAAAAAAAAAQIDIQQREjEkQVH/2gAMAwEAAhEDEQA/AI00cLybhAh6m+wHnx04wg1W9JTCnjjhpjLIQRI0YG0KQfHnFJHfbYkrc8IOOcLM3ytMzVFlLB0FldfqHH/MP2FoMmzKgqisE7UUVQp2gLazduO+Na03kWXVOjq2SWgoy61S2dogeLD28++MQ0lpGnbVb02Yxmpgb5UUy7OSLi5H5H749F6co1y3Qk1OzMypUoiyOR8wCgBj+gN8A5LlxQcqmkp+mZ4+U0QzirVYCI/Uh2/hYgbXBNunH6j8u5MM80QDN6spLU06tLCpNOAxN1J6348gX79O5MNAInZtcskZG7ll3WueecUGk8qhzXcZWdGVlULxYg/xfFrrLQuVppGHUWkZZZacqs0m594aIj6hxxbuPF/GJvStNWiKBqCleRppg1ox/ovJbz2GAUk8mkmsFVpbQlBDmK5g/wDkjbadp9uD++L7U1BC+lHqqFY1sElsQArdB9uuFNBenoDuLKZGd1X2vbp9sc2mM3gzb4d10J376R3pJAOvDCxH2IxKqsk9VNb4wUrK/GizOc0q46HNZ2q56uNpJ4E/oLdmO08fzb9u5MdxpN+YVkjVLo7VEJ/tk3K/yk+en69+MGK+SYJvhL8TaTTtPmeQ6ninbL95emZIi4Xf9cZA7Hr9zil0Fq7Jcrz/ADGOmnmOWRRH0PUhKsQWXaAPPa564MGFNYY34N8zr5TV75khk9UnYadtxVTyAfHB8EHzhboeQ0VNqygZ9kjRtLGm2wIAueSOtr34wYMTaKoxsc12zuuvk6lB9IRzZkmX19f61VLTPvj+WNd24BCOb829+/vgwYMWNiYf/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">倩女幽魂(電影"倩女幽魂"主題曲)</div>
                                     <div class="artist">Leslie Cheung</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcFBgECAwj/xAAtEAABAwIFAwQBBAMAAAAAAAABAgMEBREABhIhMQcTQSJRYXFCFBaBoSMy0f/EABkBAQADAQEAAAAAAAAAAAAAAAQAAwUCBv/EACQRAAIBAwQCAgMAAAAAAAAAAAECAwAREgQhMUETYSKBBSOx/9oADAMBAAIRAxEAPwD0pW6qzSIoefSpRUrShKRuo4VGbuoPZqzhkPqgRo8YPD/La6tViPk/eLdmXM1O/e8HLk9LC46mVPPKc/Bf4C/ja5/kYRucIlEzjVqdJlykwKcuW8ytIVpBSjdsX8Egk/eATaOZ3ylP6rdc36NamkwRcrfL3xW0nr5IegvQXXlpeVIStMlKdI7I5QRyCfjxh2ZMzfSkUmHCfqJkTv0okqWbkLCtwEk8/XO29sIvqJ07yx+x11jK6HHFRrFa2lKUnR+Sjq3P2Nhjn0PqEajU01SM2ZU2ntutqjg8rWToUSeBY229sIyh8e2x4v76qeMuShHvavQeV8wTptUKJrKu0/dGpS0ISytAvoSn/ZWoHVf7HAwY4dPa63Xac3UayuK3US4UIbUUpKR40jmxvbBiCOQAK/Ioc4GZxFL2bQp9QnVdFbQ0xWJCzJLmq4jkH0+scIKbJv7eMR2bKG7k7MFMmyocebDLiNYUbIKwbBdgDY8eD/eJLqrONSdnzIZUmMlTTaFhW7igrm3ge3vjOcZiUU4OyVomKDMdCkEklPpSCCRwQbm/v5vgT6yWRA8bZBnxsONwP5WysWwVhb43NbJn0uTAcoceKzFMtxSVxwNBdBN7EcgW/rjGlGh0+h0qVDriqbAl1GYpQEVBQlqK2nShIvuSbKPm+rCsyZVpLWdJdU/Th1vuKCe6VXKEngckbC33iz1apxq9MYU81Lk1Z3Sk99OlIvufAFrceBthTaJlxWQHFjvaqVYE5cWqdyNS2kZtpjsqUpVLUvuMurRbWpPCVDxv5/7gxZaHkWa1SkPsJUnt6i3F7wc17gE3BsD8YMA1f5PWRyYohYdHv7tVnh08/wAjJj6q9P5DokmmrhS2nXW1W9XcKSCDcEW4OISpdK6c9SnYkGZIjurUmzrhLlkJN9JTcX38nBgxoQounAWIWAN/usltRKTkWN6ptO6crm5qXFFKkU2AxrRIkq3RKBVupFz6CoEkWvb+MM2fkmkmBogQ0NyG0BLSlLUbW4vcm5+TfBgwueVnFieq5aVrisUWZOprZanQ3nEBRCVMsgC999hbb5tgwYMedOolU2ypJRX3Ir//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Shall We Talk</div>
+                                    <div class="name">1874</div>
                                     <div class="artist">Eason Chan</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcGCAIEBQP/xAAzEAABAwMCBAMGBQUAAAAAAAABAgMEAAURBiEHEjFRE0FxCBQiMoGzFiM0UnJzkZKywf/EABcBAQEBAQAAAAAAAAAAAAAAAAMEAQL/xAAhEQACAgICAQUAAAAAAAAAAAAAAQIDETEhIgQSEzJBYf/aAAwDAQACEQMRAD8AeHGyOJXC+/NK3/KQr/FxJ/5VNLy+5b4yDH5QSSCVDNXb4mteNoS7tHotrl/uQKpoYbV6km1ow5MdbcDASrcPJHMB9eUp+tBZKSmsaLqK65USb+S0QZtxXMSVqGdvhO9dS7WSbaY8V2XFfZ945lI8UYJSMb48qb/CvTbMEwZElFtdVLQoMlxvLgISSrIPTHQ1va6gTtY6eiNxJMCdNdeWBIZJS22lOAUA43JIA7eZrn3ecfQSp6/o4vZzPNwhsp7qf+8uisPZvCk8HrIlxJStKn0qSeoIeWCDRVJMSbiScaLuB/h/umqiWm3sWvilp59TrbanHfFdSM/Pvv23JxjyOdu9t+KBxoe4n+n9xNU41y5MY13FuDzRQwFNJZcHQhIB698k0U85Fg+pJPxDMb11d7NFZX72Jb4gBCEqAKs4JJ+UY3yPKp/oFFu0foq9K8cTG7Y8tTrhAOXA2kqCe2+1LzVUd+Bq1d5gOMouD9tDiOZWC0vCQpRGP2HvsetMvRVjYh6HiWp1CHHZaUyJ6XMfOoBSubzJ6YoJLCyPGTbwMjgWqW7w0t0i4tFmVJdkSFo5cY53lqG3oaK9eC7zkjQEVT2eZMmUjdzxNkvrA+Lz2HWiq46RJLbNni2rk0BdFdMeH9xNVviXy2Trm/ary1HfjlDbaG3CokOYykjI5U+oyc+pooofIWa2xqdozN4tLk4xZrDK34q22FS1p+JQSU8wIJ2CgMZHX0ro3DVlptkxuOklMVxGAUk7kEgJOD0wB50UUVL9UeTbOr4HhwQbYa4cwBD/AE5ekKbHZJeWQPpnFFFFVrQDP//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">感激遇到你 (電視劇《野蠻奶奶大戰戈師奶》插曲)</div>
-                                    <div class="artist">Myolie Wu &amp; Bosco Wong</div>
                                 </div>
                             </div>
                         </div>
@@ -466,7 +466,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jul 2025, 23:11:28 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Jul 2025, 00:13:01 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
