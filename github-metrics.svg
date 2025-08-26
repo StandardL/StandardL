@@ -314,6 +314,13 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQgDB//EAC8QAAEDAgQEBQIHAAAAAAAAAAECAwQAEQUSIUEGEzFhBxQiUXGB0SNCUmJykaH/xAAYAQEAAwEAAAAAAAAAAAAAAAACAQMEBf/EACARAAIBBAIDAQAAAAAAAAAAAAABAgMREiEEMRQy0fH/2gAMAwEAAhEDEQA/AFxpTVkjyzJAOvp6j2ParCO4ylKbRmgr9Vhc9qX2ZGRKVBwOX2ItapQxLKLZBp+29bk6aeSWweRXccHJ2/Pg2wpbQIBaTb4FWrJirTfkskfwH2pLiySsX1APTQ61Mjx3cSZdLcmQyGklQDdgVKsbA31A0o1OTGKuw06MpyUUNLqYabERo+b35Y+1FJjU9bERLc+QPMJJCtbnr20opx5EGiqUXF2FBM1p5KQw0UDXe9SzKdy5Mqfe4qmiOJS6QLZdvmp3MNjqLHvtXOxSZqlyKklZvQw8GtrncQwY74S5H5gU4i/5E6qv9K0o7wjgEuGypmEzEISFXjp5eYaGxt1rLvDU5+LjMZUMlLqjywbAn1ab/NaMhYq4nD1MvKDclDQSRfqQNvfpSwz0TTeKyXYj+L/CeCYZCViGHIVFkZ052kKzIVm3sdU/Q2oqh8TeIm5HmoS2yZLjiFXv0SNvmikrLorqex4+EgOXCT/Vd0qULelVu9FFQRYu+F0E4qw8U+ln8S97ajp/tPkXj+Q9i761tgsoAQbG1wN+5oopKTS0IQ8fxEYpjMiWE5easqy0UUVXcD7P/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">愛在深秋</div>
+                                    <div class="artist">Alan Tam</div>
+                                </div>
+                            </div>
+                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcEBgEFCAP/xAAsEAABAwMDAwIHAAMAAAAAAAABAgMEAAURBhIhBzFBEyIIFEJRYXGBMjOR/8QAGAEBAAMBAAAAAAAAAAAAAAAAAwABAgT/xAAeEQACAgICAwAAAAAAAAAAAAAAAQIRAzEhQQQSE//aAAwDAQACEQMRAD8AfDrExUoKblbI/HsAGe35H3/NYlzGLPAel3WeluK17lvyClCUDtyQAO9Tf7VfvU6zXVcrTkySrfJQWHEt5Hf6QrGAa4abF0aWL1GtqtQ3CPNfZjWhlpCmJzgUlK1c7sqI247YIP7q8IcS42lbawpCwFJI7EHtSyidOn5N2mQbvKeXp6PtVDSj00KUVcq9wG4Yxg5JzUTqn1Bu+k9WWyLDZbFuLYW76rRJf5wQlXgAY5Hms89jRxqcvXG7GwT+TRXjFkNS4rMiO4lxl5CXELSeFJIyDRUsJokDgd6U8iFCmdRvWjuH5aPITIU9lW1C/qBwexVxk8c00Lg+iJbpUl7/AFssrcVxnhKSTx57UlumeqY0yXd1W1tUtwxdy/VBb2gqA8j3ckcU2NbYc+kPP71zv8Rctidf7Y1HlMvJjxVbg2sK2KUvscdjgeael9tvzmm5tuQtbZdjKZQoLwQduBz+/wDtcjakYYtaLZ8o76xehNvyElwEtPFSgpOB2/xzg880bTfCO7xXGD+knofXw+XKTM0W/FlEqEGSWmlE/QQFY/hJorbdFYkWP04tbsVGFSgp585yS5uIPP8AMUVmqAzTUpuUdFh1jb7hdtNzbdaX2I0mUj0S88CQhCuFEAecZpYdNOmd+0/eBLmSIrcZ0OR320H37AUlDiTgjJKex7CiikUmkE1Y4p0CLcIaok9hEmOrG5DoyDjz+/zS01T0dtl8leo3IXBYZDbcePHACEo37nN2QSSrJwc8ceOKKKynXJdvXRb9D6Yb0lZza40t6REDinGkujlvJ5GfI8/g5+/BRRVNkP/Z" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">任我行</div>
@@ -321,17 +328,10 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcEBgEFCAP/xAAsEAABAwMDAwIHAAMAAAAAAAABAgMEAAURBhIhBzFBEyIIFEJRYXGBMjOR/8QAGAEBAAMBAAAAAAAAAAAAAAAAAwABAgT/xAAeEQACAgICAwAAAAAAAAAAAAAAAQIRAzEhQQQSE//aAAwDAQACEQMRAD8AfDrExUoKblbI/HsAGe35H3/NYlzGLPAel3WeluK17lvyClCUDtyQAO9Tf7VfvU6zXVcrTkySrfJQWHEt5Hf6QrGAa4abF0aWL1GtqtQ3CPNfZjWhlpCmJzgUlK1c7sqI247YIP7q8IcS42lbawpCwFJI7EHtSyidOn5N2mQbvKeXp6PtVDSj00KUVcq9wG4Yxg5JzUTqn1Bu+k9WWyLDZbFuLYW76rRJf5wQlXgAY5Hms89jRxqcvXG7GwT+TRXjFkNS4rMiO4lxl5CXELSeFJIyDRUsJokDgd6U8iFCmdRvWjuH5aPITIU9lW1C/qBwexVxk8c00Lg+iJbpUl7/AFssrcVxnhKSTx57UlumeqY0yXd1W1tUtwxdy/VBb2gqA8j3ckcU2NbYc+kPP71zv8Rctidf7Y1HlMvJjxVbg2sK2KUvscdjgeael9tvzmm5tuQtbZdjKZQoLwQduBz+/wDtcjakYYtaLZ8o76xehNvyElwEtPFSgpOB2/xzg880bTfCO7xXGD+knofXw+XKTM0W/FlEqEGSWmlE/QQFY/hJorbdFYkWP04tbsVGFSgp585yS5uIPP8AMUVmqAzTUpuUdFh1jb7hdtNzbdaX2I0mUj0S88CQhCuFEAecZpYdNOmd+0/eBLmSIrcZ0OR320H37AUlDiTgjJKex7CiikUmkE1Y4p0CLcIaok9hEmOrG5DoyDjz+/zS01T0dtl8leo3IXBYZDbcePHACEo37nN2QSSrJwc8ceOKKKynXJdvXRb9D6Yb0lZza40t6REDinGkujlvJ5GfI8/g5+/BRRVNkP/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACcDASIAAhEBAxEB/8QAHAAAAgEFAQAAAAAAAAAAAAAAAAcBAgQFBggD/8QAMRAAAQMEAQIDBgUFAAAAAAAAAQIDBAAFBhESITFBUWEHEyIyQnEUJTOBsWKRkqHR/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAIDBAH/xAAcEQACAwADAQAAAAAAAAAAAAAAAQIDERIhMWH/2gAMAwEAAhEDEQA/AHfcsimRblMZDhDTT3BPFCToaB8RvxrDT8vu/v3G4DpXpG+XukkA/wBt165JbzIuVwU24ULLx9R8qa0y5QpcIOPKCVhA3ybXxV/utFcY52gZeZH7TrlaURhIuTbLzn0ojpXvWtnWtititmS359Md12c0uOsJVttpOyk9enTyrmvLMmYv+RW9cpxaokZJSXEp4qOz135inniV5t0izwW0J/DH3Q4tlW9D9+/7U7jHOkEV9N8tl9mv3COw68VhzlyBQkb0CR4UVjbQ3+cx1FTi0nkRo9B8JorNJJMphc31YanzlHf6xPf+kUr8zvyW40hHIDSD/FMHKMeuz8+a5DacdbW4VJ04kE70fE9t0sMlwPMJjD4j2IuqPRO5DQ/lVPXbi8OumDW8jnJMnivlxP8AlTbwTI0vxUxXUpUWdJ4ny77q0k+xXNpExToxyQhte1KSiUx0Pp8Xaszi3sfziA6tcizFPLQ0ZDXh27KrRCyJHjj9Glgc8LvMZtl1xCTz22TyHynz6iiqMJwzJrZfIr82Bwjo5clF5BI2ggdj5mioWyi5dMqh1kKJPRevsmpShRV9QHqE0UVmSEKw2R2WR9gP+VKUqHzLKh6gUUUNYBC6KKKQ6f/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">失憶蝴蝶</div>
-                                    <div class="artist">Eason Chan</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAgFBgEDBwT/xAAzEAABAwMCAgYIBwAAAAAAAAABAgMEAAUREiEGEyIxM0FhcQcIFFFSgZGhJEJisdHh8P/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAAB/8QAHREAAgMAAwEBAAAAAAAAAAAAAQIAAxESITFBBP/aAAwDAQACEQMRAD8AWZjsxVmsdjMptr8I9MlyciMw3ncgjrAGTt5VW43ZjzpjPVykB3iV2SWiqLDilpCkp1FKjjURigsfiBHVV8zKfd+HWp9piQZnDi7Hd4yeWXAyUpe92VdRJ8T865fNhrhSVsuYPelXxD/d3cdqfTjG6QV8LyHV63W3GlLSUo7h3nOwGcbmkWv0gSbpMWD0ectSRjq1HJ+9BUSHI9EZcgCA/ZEyuxNFYk9kaKoJksxH7Kmn9V24Wh2NcYsNtTUoNtKfacwdSsEFSD16SRnfqNKxH7IVdvRdxC5wtxNFuetYjKJZkcvdSUH8wHfg7+OMUuxSw0fI2p+Jw+GOXepcaLcrewn2VLKQ42tnmJHR0ZA0eYHypIuJUuXPiG6z4rA5D0pxSQ31bqJwB/Fdm9KfpeiyrWYlldivvPNkCXHUrKQRg9EjY4+lcTtjLibe6+9ORHjnThoqJU7lWnZI22wTk0FClmJjf1OFQKJCzGnG2SXG1pz7wRRUpxEhDaH2mHlPMtlGF4IG4ydj47UVS64ZGraJ5rXD50MkkhTmQ3+oju8/3rfbZT9vbTLYQzlKtOHW9QKvAHYkfaiiiAwAwd3qRuN9xvU7aoyZNs9pZUBJgudJHxIUdiPJWfqKKK1fs1pxZHXnmNSLizIwHUr0keIV/dFFFBYe51fJ/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">水中花</div>
-                                    <div class="artist">Alan Tam</div>
+                                    <div class="name">暗湧</div>
+                                    <div class="artist">Faye Wong</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -342,10 +342,10 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACcDASIAAhEBAxEB/8QAHAAAAgEFAQAAAAAAAAAAAAAAAAcBAgQFBggD/8QAMRAAAQMEAQIDBgUFAAAAAAAAAQIDBAAFBhESITFBUWEHEyIyQnEUJTOBsWKRkqHR/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAIDBAH/xAAcEQACAwADAQAAAAAAAAAAAAAAAQIDERIhMWH/2gAMAwEAAhEDEQA/AHfcsimRblMZDhDTT3BPFCToaB8RvxrDT8vu/v3G4DpXpG+XukkA/wBt165JbzIuVwU24ULLx9R8qa0y5QpcIOPKCVhA3ybXxV/utFcY52gZeZH7TrlaURhIuTbLzn0ojpXvWtnWtititmS359Md12c0uOsJVttpOyk9enTyrmvLMmYv+RW9cpxaokZJSXEp4qOz135inniV5t0izwW0J/DH3Q4tlW9D9+/7U7jHOkEV9N8tl9mv3COw68VhzlyBQkb0CR4UVjbQ3+cx1FTi0nkRo9B8JorNJJMphc31YanzlHf6xPf+kUr8zvyW40hHIDSD/FMHKMeuz8+a5DacdbW4VJ04kE70fE9t0sMlwPMJjD4j2IuqPRO5DQ/lVPXbi8OumDW8jnJMnivlxP8AlTbwTI0vxUxXUpUWdJ4ny77q0k+xXNpExToxyQhte1KSiUx0Pp8Xaszi3sfziA6tcizFPLQ0ZDXh27KrRCyJHjj9Glgc8LvMZtl1xCTz22TyHynz6iiqMJwzJrZfIr82Bwjo5clF5BI2ggdj5mioWyi5dMqh1kKJPRevsmpShRV9QHqE0UVmSEKw2R2WR9gP+VKUqHzLKh6gUUUNYBC6KKKQ6f/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACQDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAYIBQcBAv/EADIQAAEDAwIDBQcEAwAAAAAAAAECAwQABREGIQcSMRMiQVGBCBQVMmFxkRZCUrF0odH/xAAZAQEAAwEBAAAAAAAAAAAAAAAEAQIFAAb/xAAiEQACAwEAAQMFAAAAAAAAAAABAgADEQQhEhMxBSJBgcH/2gAMAwEAAhEDEQA/AOQcS7dFgXp2FDLbqGiApbaeqsbj06UjLCUr+UVQ/G6xx4GrlliOhppbCFgAAbnOSfqTXF5lqblSyIzjefEA5xWn11+5loPzJXmZFAEw23CU8gSnHlyjrTHb1xB2PvKEpGAk9wc3TII/3WG/BfiyksqSe0Ue7jor7UwO2tTFkcfkqxMZUkgDccpVjffbc0DfbOnxGciOS2DclW8EbfFh6KLUVYeb96cPMpsA52orR4OtsfoG3rjKQoryp3B6ObA/1RXN3Vk7KWUelyJ7xyssefoSTPWEJfg8rgWUglSScFGfLfP3qXmGXucqZW3yK/ZyDb7EVZWtYMG4aRuLF2Q45C7EuLS2cK7u4x6io+cjLt055rulpR5klAAGPA0znbayD+Ir6eQxAY+Nn1Cs8SdcovxNa0NtqK8t9c46fmmS16Wtke7GLqyQI8ZxkS3kBfeSkYIQryOwOKWXbozAcQ6XR2jakqA9ds/il3Ul7+KCQ+/K7V55RUog9T/yjdlT3eAcXP3s1rbOfmDBfJMqXgDLYmaQuUiAgohuXWSplH8Ud3A/FFZ3srDPC4/5739JoowAUYP7PNMzMSxPzG/WeskWy1RX460lLquVTZTkuDG4wflH1677eYmu9vNzro88lltlKyVBtsEJR9Bk9PWiit7nrVKyRG8ajRNaRpa2s2kuz71HjSXmwtLPuxWoK8ApQ6CsSdYdLrC1NSYynR0yh9AXsMnIBwc79KKKlqg6/dK2j1sdlA+z7FjQ9EyW4CkuRlT3Vo5AoBIKUbDm3OD40UUVkNSumHatdn//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">暗湧</div>
-                                    <div class="artist">Faye Wong</div>
+                                    <div class="name">心跳呼吸正常</div>
+                                    <div class="artist">Leslie Cheung</div>
                                 </div>
                             </div>
                         </div>
@@ -466,7 +466,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Aug 2025, 14:15:14 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Aug 2025, 15:10:53 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
