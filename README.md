@@ -51,13 +51,13 @@ Sunday                   43 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    28 mins             █████████████████████████   100.00 % 
+Other                    24 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Excel                    28 mins             █████████████████████████   100.00 % 
+Excel                    24 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  28 mins             █████████████████████████   100.00 % 
+Windows                  24 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -77,7 +77,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/StandardL/StandardL/main/assets/bar_graph.png)
 
 
- Last Updated on 2025/10/21 18:51:18 UTC
+ Last Updated on 2025/10/22 18:52:07 UTC
 <!--END_SECTION:waka-->
 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="65%" />
