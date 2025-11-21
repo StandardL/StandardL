@@ -314,10 +314,31 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcFBgIDBAj/xAAvEAABAwIEBAMIAwAAAAAAAAABAgMEABEFBhIhBxMxQRQycRUiUWFigaHRF3KD/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMEAQX/xAAeEQEAAgICAwEAAAAAAAAAAAABAAIDEQQhEhNRMv/aAAwDAQACEQMRAD8A840VM5cwhvFVPh1xaA3by/erKxkmEpGpyRJtbtb9U+/IpR0yKuK1jZKBWbXL5iecFaO+jr+aaOBcNoGITww7LlIRpKrpCb7fapuXwcw5tF2Z80n6tP6rDk0YZx7xNTDDVp8EiQgb6ucsK9LWAoqfz3lprLUiK20645zkqJ122sR8KKdVLGyKsNXTMcmzGYfii+opCikA2v2J7UwcJlomRnFNNurQ0NazpPuo394/AbUr8BMhCXnIvNCkqTctnoN6aORsHkycIxWThbyEGPEUy5rBSXQtCtSR2VYnvf5dq52eha6y7DrwNySy9mWHCxVtwKbcZKShVrlRv0CbbX9ascniJg6FvtOIWlbT4ZKD5iCDuNrdRbrb50sY+GYnEnxHvZkrlBQUvlxz7ov6dbWrfIiSmlJcDOKu61pWsyYvkSlSh1It5dPoTQ+FTrcaL86nNxtkR5cjBpMRQWy60tST9x+aKh+Ir7L0XCBHadabQl3ZzrcqBO9t9z8KKvwfg1IM37dzhyXm57Kvi+RDZk+I035qiNOm/S3rVtY4yzWUFKMEgAH61UUUxx1XcAyWDRNn82YltpwiED/dVZK434soWOGRD/oqiis9dfkL22+ylZ2zdIzY/FdkxWo5YSpIDZJvex7+lFFFEAdEWqu2f//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAYFCAQHAQID/8QALhAAAQMCBQIEBQUAAAAAAAAAAQIDBAARBQYSITETQRQiYXEHMlGB0RVSkaGx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAIDAQT/xAAbEQEBAAIDAQAAAAAAAAAAAAAAAQIRAxITUf/aAAwDAQACEQMRAD8A1TljFssRcFjoxTD2XpqdQcKm3CpfmNiFAgDYjt2qYezRlaMtKYOWo0lsKSdannUDVffY3PHrWrUE35r3Q7ZKt+4Nd8kqO22Wc3YOzg7aH8tsP6HFAqVJWL8E0pTczYO4xMDWV4bbrxPTc8Q4el5bbC9ib2Vv3uODS+5KV4JKL7FRP9AVGrVem6yM2Z8XzDgkuBIYh5WjQ31pCUSESnFFsg3KgDsb8WO33opVoqZnKTbt/NdjZQ8tx6Xq5S8hZMgQ+krBoakJ/cgqVzxfmhHw5yQ4Oq5gMUNqHnGhQ29Bf/KScsg0q9juVfAZZiYrHnNSkFDan9IKQhTlyhKbi6iAN/p7b0pE+oq7Q+H2Au4V+jpSF4D1EO+DcSVbp+Wy/m7DvxcGpJrIeVZLR62XMMvYt3EdN9Pval9vreqidFXfn/DDJcqG5HOCxGUFCUktjQoaeDcb/mij1g0UG5WKuKbWt90IPCQd7+9STUzGXVgdRSWk7FSSSfxRRVKlMWay7NUpJdekLCuNKiB9/WhyRjMcK0OydP0LlvL96KKlclOkYE2XiqtK+rIR3sVki3uKKKKeZJ3F/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">漸漸</div>
-                                    <div class="artist">Eason Chan &amp; eason and the duo band</div>
+                                    <div class="name">Bitter Gourd</div>
+                                    <div class="artist">Eason Chan</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBQcECP/EAC0QAAEDAwIEBQMFAAAAAAAAAAECAwQAESEFEgYiMWETFEFRkRVxoSMkMrHR/8QAGAEBAQEBAQAAAAAAAAAAAAAAAwIEAQX/xAAfEQACAgICAwEAAAAAAAAAAAAAAQIRAyEEEiIxYYH/2gAMAwEAAhEDEQA/AGzUIqFRX30n+CiLW7UvN6F5x59aCj9QpyQeUDNhTFJQVwJTgWoBKiNg6HHU0lSp0yLqT/knFJU0kG46JO0XrHibvR6PKaStkXEHDrifFUohAQLklJsAM0pfX9EjvsQ3nFuJK9rkhLfIgeh63Iufb5p9jcTSnJLBkLa8NSbuK23yM3rF+JoyWNTlDdvR4qrOjO7PW4xTr3TMd2uyGrXNP07YtyBOYmNEhO5lVwKKUdHQS4C2ORIO5Vrds0UUrT9jQqS9HoyRtMN9e5QUCrG7HT2pG1B0+fmKAIB5TY9hTRvZXBccUo+MlSgkbvQ29PXrSRqD376RzKA35zUYVsvmPx/S1iQUfQEuzZKGYr7ylOpwHFIbHRJPupVvuO1KPFshmfElPuBLbYSEx2gLBAGEgD7fPU1cvpkaxCSyl1lLEElW43FkrI7ZyCfmkafqLZOEB1xOEqI5QO1Kty0BajBJnLpUdxt5lagdjitvX+6K6uHGXdRmuBSjZsbzf4oqck0nsTDjbjaNNkTmQtm7QJSlQJ3HODn8j4quXCbegPT5E+MwVqPhx1bi65bFwALAdyaKK5DT0XlXZbItSZkafoJZaLRkTOfkXdJRYAG47XPas1csRa/4ooq8Du39B5UUuq+IvuGXlR0PNNXW67tt/lFFFHlinIbBNqCSP//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">盲婚啞嫁</div>
+                                    <div class="artist">Eason Chan</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUEBgEDBwj/xAAtEAACAQMDAgQEBwAAAAAAAAABAgMABBEFEiEGQSIxUWFScYGhEzJykbHB0f/EABgBAAMBAQAAAAAAAAAAAAAAAAMEBQEC/8QAHhEAAgMBAQADAQAAAAAAAAAAAQIAAxESIQQTIjH/2gAMAwEAAhEDEQA/AObyWwzxnFVnqqz2NBPk85U1digYsFwdpwcetJOpbZnNomwGMyKc985wR+xpVHxpSsTUMS6dZx/gpvQEsMnNOItJt5Y2VYlEhGAceXvUB7g28/EYZP1AH71aun7qG6CxBGWUDyasudlHQm/HRGPJk6w0GFNLjMMKtcxvuU7efzf5RU/S9eaW6a0gtogVHikeTyHyFFT2ssU+x/lD/Izuui9VsTcE2crgSHe0WJArYHB2+XGPOk1zo094Rbxwu1wDuVdpzx5/au1WmuC1uL1po3UyzbwEbJAwB5Hnt2zWdS1a21Kynh58aFSV8LgH3HNd/fnsni0nwieXViR3IdQXU96sPRuJeoWLAMWjfcT64pZ1DZPpes3MLjADkr6EdsVu6UnEWolw8q9vCueOc/Wm7P1WSJ1TnYEvmlWEWn3txJGRJFNgkEc8cge4BoqRo0Tarcx21gjtNI20bwR8yc9qKksGc6ZS7rr8mu51QXHhuXZHHxg/zRHc3AwYpi3oc/3RRVCxFyREJ2J+pNNm1gKZYwJ14WRRz9aX9P8AR2rTXeyO1SYqRnEuzHvzRRQDaypghh4dE7p0XoTaHaM8kSteyLh5C3CD4V9vfvRRRSmkwbuWOmf/2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">風繼續吹</div>
+                                    <div class="artist">Leslie Cheung</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUHBgID/8QAMBAAAQMCBAQEBQUBAAAAAAAAAQIDBAARBRIhMQYTQVEHFCJxQmGBkbEVIzJy4fD/xAAZAQACAwEAAAAAAAAAAAAAAAADBQACBAb/xAAiEQACAgEDBAMAAAAAAAAAAAABAgADEQQTIRIVMTJRYXH/2gAMAwEAAhEDEQA/APDF/EriHBZcNoY5Nl85tKlBNiQSBrt3PStNB8QMe5YaMicqY5lUhtaQVZL6q29ulTOSUSMcZmmGtcVt88tYANzskEdB7U8ccdS75nFXUttKHqRutfYi2oF+5FczZZZhQSQf2OhXWSxGDLfhHEc99openIcdR/LljcbX+Wo+9NlYhMKbqkvoJ1At0+1SPhPFGWW2JMeWEtuyhzGwbOkq0AUnsRroao8ycHENoZUSoC3a9FW2wDDnmLXVVPE5l4xibboyYkrKPh0v+KKTTImVWd1QHuNaKgvf5MzsOZH+e6lfmWEhClPektJuAkAkgW/4VwnEGphfDDTbj9iAtJ9QPXe/41p3wvhsqJOhFiI8UZnHuaR6VXGRNvrf2qiQEPOoClNrWWnL+xtWB7q1OSY8fU7Y2/b7k/4WbkOTor02FK8vcJY5hBVJINiL26X30va1bXE8bcwh5tPl0pj8zK65a5SjqQepvb/KdKksraU0FlbTiVkZjpm3rKYhNX5tmL5Vt1JcuoqIBAAvcg7kabbjerG0HxF7v1NkxonEEv5HUtvoQ6nOlTmW1umgN760V4YPieHzGy66ypTaVFFgkoNwbaA9KKHuEQRXMxEvgfjNhpyVEwScqc3q2j02J6fFtr8q5wyP4qNKCJvCD6kLV6nGykFI/rn1+9FFdGuipZT1DMG7FuTG01PiChD8WJwXPUUPjkyc7YBQd7pJ7dfrbpWefw3xNdkwZDvAbzkuIkpQ+XhdV02N7Kse9FFXTQ0AesrHkKDx0rDAmfwliX6ion9xtDZQnXTTOOlFFFB7fRnxJmf/2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">幸福摩天輪</div>
+                                    <div class="artist">Eason Chan</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -325,27 +346,6 @@
                                 <div class="infos">
                                     <div class="name">歲月如歌</div>
                                     <div class="artist">Eason Chan</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBAUHAv/EACsQAAIBAwIFAwMFAAAAAAAAAAECAwAEEQUSITFBUWEGExQicZEjMkJSgf/EABcBAQEBAQAAAAAAAAAAAAAAAAIAAwT/xAAYEQEBAQEBAAAAAAAAAAAAAAAAARECEv/aAAwDAQACEQMRAD8A4FnzU3x5zF7vtv7X9ulRo+zOAC3Qnp9q8sSzFmJLHqaSMyadYS+hpLtYJxqkU2Wk+oq0eccuQHnvSzn704WnqGSH0Tc2MaxBXX2jnJPMAkDyD+RnrSfUmveQ2y6VEY7XZcgDdJ8gMG7/AE9/94UVmNPMyFWmlZTwwWJFFSaGm+n9R1C0S5toUMTEhcyKCcHHImoU05y7KzYI4csjNT6RPHGjRyQo24cDjr0zx4imTRI7V3jFwytx3bSxXl3PbhSwNqsmga7Hosix24NgyljJ7IyQcHI/l0HGl99LlRWLEgL469q7o2olbJypUQMgAUL+0Hr2rlesTRyTybc53HcD38UObp9zzmFGZDG2MZoqzcqDuP4yKKWBtSWaPJIqRgl2OABTdY6DMIf1gqMRuUjiaKKHVsPjmVYOrapDa/Gt7MvGh5OhIXxmsvVNMuI0+QQHRxvJUfngaKKMtPrmYwJI85ooorZz6//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">陰天快樂</div>
-                                    <div class="artist">Eason Chan</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcFBgECAwj/xAAtEAABAwIFAwQBBAMAAAAAAAABAgMEBREABhIhMQcTQSJRYXFCFBaBoSMy0f/EABkBAQADAQEAAAAAAAAAAAAAAAQAAwUCBv/EACQRAAIBAwQCAgMAAAAAAAAAAAECAwAREgQhMUETYSKBBSOx/9oADAMBAAIRAxEAPwD0pW6qzSIoefSpRUrShKRuo4VGbuoPZqzhkPqgRo8YPD/La6tViPk/eLdmXM1O/e8HLk9LC46mVPPKc/Bf4C/ja5/kYRucIlEzjVqdJlykwKcuW8ytIVpBSjdsX8Egk/eATaOZ3ylP6rdc36NamkwRcrfL3xW0nr5IegvQXXlpeVIStMlKdI7I5QRyCfjxh2ZMzfSkUmHCfqJkTv0okqWbkLCtwEk8/XO29sIvqJ07yx+x11jK6HHFRrFa2lKUnR+Sjq3P2Nhjn0PqEajU01SM2ZU2ntutqjg8rWToUSeBY229sIyh8e2x4v76qeMuShHvavQeV8wTptUKJrKu0/dGpS0ISytAvoSn/ZWoHVf7HAwY4dPa63Xac3UayuK3US4UIbUUpKR40jmxvbBiCOQAK/Ioc4GZxFL2bQp9QnVdFbQ0xWJCzJLmq4jkH0+scIKbJv7eMR2bKG7k7MFMmyocebDLiNYUbIKwbBdgDY8eD/eJLqrONSdnzIZUmMlTTaFhW7igrm3ge3vjOcZiUU4OyVomKDMdCkEklPpSCCRwQbm/v5vgT6yWRA8bZBnxsONwP5WysWwVhb43NbJn0uTAcoceKzFMtxSVxwNBdBN7EcgW/rjGlGh0+h0qVDriqbAl1GYpQEVBQlqK2nShIvuSbKPm+rCsyZVpLWdJdU/Th1vuKCe6VXKEngckbC33iz1apxq9MYU81Lk1Z3Sk99OlIvufAFrceBthTaJlxWQHFjvaqVYE5cWqdyNS2kZtpjsqUpVLUvuMurRbWpPCVDxv5/7gxZaHkWa1SkPsJUnt6i3F7wc17gE3BsD8YMA1f5PWRyYohYdHv7tVnh08/wAjJj6q9P5DokmmrhS2nXW1W9XcKSCDcEW4OISpdK6c9SnYkGZIjurUmzrhLlkJN9JTcX38nBgxoQounAWIWAN/usltRKTkWN6ptO6crm5qXFFKkU2AxrRIkq3RKBVupFz6CoEkWvb+MM2fkmkmBogQ0NyG0BLSlLUbW4vcm5+TfBgwueVnFieq5aVrisUWZOprZanQ3nEBRCVMsgC999hbb5tgwYMedOolU2ypJRX3Ir//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">猜情尋</div>
-                                    <div class="artist">Eason Chan</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcCA//EACwQAAEDAwMDAwQCAwAAAAAAAAECAwQABRESITEGE0EiYYEHFCRRkcEVI9H/xAAXAQEBAQEAAAAAAAAAAAAAAAADAgQB/8QAHxEAAwACAgIDAAAAAAAAAAAAAAECESESMQNRBCIy/9oADAMBAAIRAxEAPwDD4duCgpSkhSR7VeRorUNWsM+sfqo/TkNb0QmG53XQFLW0o49IGfT5O4Iqwhv9yW2hWlbXDi0pIx778fNRbedGiFOBo+m1pYm9XwzNQ32FJLhcVurV424G9a/femodmWqcWUuJCstoA2V539qXuhY9tTJiyJgCUuo/HQ0M6kjOST4Hv5zTbfZC74Ptm1pZbRjSgjlPn5o85WWTWqwujGOslL6pmqb7SUJbBVuP1zRV71DbnLSH5LIB0JWhWc6R533525/7RUKrXQyUmcfS252y1XNpyS44JDmd3G0hAGcYC86skHjAHzTHOtEJmeY7syI27GdL0gx3Spst5J0uZ9s7/wAc1m7Vomy1PtoaJfYcPdSnAxnHx/FTX7POZhyH1pdRFDZ7igsZUB4Izk71ori32DHJLoZr19SEpkSY9jj9mCGwzH8FtI5+TXLPX19/wUWJFLLTjaj+QEYWrVt6lcEb0sN2Np61LfV94m4d4ENJbT2+zp3VnPOrbH63qyFmcbs8Xt5Wp4JVr7gSEAgHcZ/ZrtKYWyYzbIlwvV1mofiqkSXPufT2u5lvkZI+QP7oqQ5HRFhqQy9l9KSEKBykEnJO/tRXFXoRx7PJSZSblJeiyg0p9QVp3GdsGpjrcluzTWUrP+1tRUnWTk4ydiOaKKGn0Mlpiym4RkM6fsiTzqU6f6FaJL6eudls9oXO0/lw230DPCSMgH3xiiil8/5Rn+O/vgWpDKjq2TgnJI2NFFFSno0NH//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">一點光</div>
-                                    <div class="artist">Alan Tam</div>
                                 </div>
                             </div>
                         </div>
@@ -372,7 +372,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Nov 2025, 21:21:41 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Nov 2025, 22:10:09 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
