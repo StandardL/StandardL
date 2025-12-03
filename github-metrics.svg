@@ -314,38 +314,38 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUCBwMEBgH/xAAxEAACAQMDAwIDBgcAAAAAAAABAgMEBREAEiEGMUETFFFhcQcVFiIjgTIzQkOR4fH/xAAYAQADAQEAAAAAAAAAAAAAAAABAgMEAP/EAB0RAQEAAgIDAQAAAAAAAAAAAAEAAhEhMQMEEkH/2gAMAwEAAhEDEQA/AK2tn3pS3GvSGs2SCRofcMPCABSM852t9fnpj0RPcKWZqhYDcJYZWX0pH2QozAAjPcNjyPh30ijpp0utbDJNIEhmXIJ/MxIGQSOM4H76aQ1TUEVw2qTH7pyUHGfOc6z5L+T/AFicPdPrSuxMKt2SQVG9JaSkciOJlOOD5GMYPfXJ01bVNUGRzIA42EM3j5f617Z6K5327yrQsDPuMjbmCqP2PGpzxPFOFqAHf1GjbYP6gcZU6qGoI92VbpUUskir7qGJf4vTOMbhjPOjWa1xLUTbrmUhplzud85Y8gKeewIPHy0aCh3CXzXCR7hUSS7XklZWkkxjBwR2Bx/zW3G1RXFqKjSWeSZuOfLYAAAJ51BLOwuLRtA0Mc0QkgEnPBPB4JOPrzq4fsp6Tt9Ja57jXsZbizD2+0lVgGAdy9juI8+Bx3zoujgnxwcni4HpqRLVR1FHc6FFudO5/TnXa4HnuRnSutu8EDbfbp6e9j6Wc4BH+e/ONXLebPaeoeoLcl+o6mWqUNGtZG+zuDsD47gn4YIPbvqlesbT921tUsVO6JBUNH6jEknjI857ecDXB9c1PKOOiXTVk0lVuZfUYheQP5mOASNGtWB6cRbZi5LNn8pyfro02qG5xW1VweTclW80aRqm+MFQqKfIA+J899WTc+pK+0UNoqKWCSWlnEMb+mudzlRwfOdvb6aNGgc1PGobt6019wklaouE1NIFb9ERHBVQcjPzyB8dI/tiVPxFGIjIYmV5+cYGRuOOBk4btnRo0Tq0+yHwXBRUEVXjYsS4/uRsA2e/IHY48aNGjUld2IL/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">阿牛</div>
-                                    <div class="artist">Eason Chan</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAUDBgcBBAj/xAAzEAACAQMDAgQEAgsAAAAAAAABAgMEBREABiESMQcIE0EYImLRFhcjJjIzUVZxgZKhsf/EABcBAQEBAQAAAAAAAAAAAAAAAAABAgP/xAAaEQADAQEBAQAAAAAAAAAAAAAAARECIRIx/9oADAMBAAIRAxEAPwCHdPmW3DZdy3S2Q2W1yx0dTJAru0gLBWIBIB76WL5qNzFgF2/aSTwAGkz/AN1j3iFFJUeJG4YokLyPcplVR3JLnA0vFpudtvEcDQSRXKGRSsXT1N18FePc9uPfWVCx3hu3xRbr/lq28d/3v9NRnzU7kUkNt+0hhwQXk++sdlu19tlbPTzCSmrAwEsciAEMGDDKkccgaW1NmujXMQVFHULXVDBlheIq7luQQuPfOrwRnoraXmWv983PabVNZLXFHW1MdO0iPISoZgCQM99GsL8O6aak8Ttu09TG8U8VzhR43GGVg4BBB7HRqMqHFetv/N+/y3atko4YrhM8ckcfX+k9X5cg8Y9zn2GO512bVdF3h4u230qhKM1VXHFDUsp6EwMKejPY4Axnue+qx4hMRv3cvPevn9/rOlLoKOloK2lrIjUOWb04+oSQMrYBJxjJxkYJ/trWUoHpr4XPet8pot4XKWZUuEsVzMjSR5VXVPlABPzAfL2yR25zqz3K4Ux8R9uXFLm1RU1PoRNP09EEaSKOhsAZx0uepckhlbnBGMupLZJcbZU1dGyyy0sbzVUbsAyoCo6xn9oEv2GTwSeNQKwehSRpwrRsqrH1Hq7tyPbAx/vWvOQtaLpbaaek8crelTULUzC8p6kqDAZ/V5wP4Z0aWbHqRU+JG2ZOp3ka4QGRnOSW6xzn30a564+FRtG5vLPuG8bjudyivlrijq6mSdUZZCVDMTg4HfS74VtycfrBaOPok+2jRq0ycr5V9yhSo3BacH6JPto+Fbcnb8QWj/CT7aNGlA02r5aNwWTc9qukt8tcsdHUxztGiOCwVgcDI0aNGjQsP//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">時日如飛</div>
-                                    <div class="artist">C AllStar</div>
-                                </div>
-                            </div>
-                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcFBgECAwj/xAAtEAABAwIFAwQBBAMAAAAAAAABAgMEBREABhIhMQcTQSJRYXFCFBaBoSMy0f/EABkBAQADAQEAAAAAAAAAAAAAAAQAAwUCBv/EACQRAAIBAwQCAgMAAAAAAAAAAAECAwAREgQhMUETYSKBBSOx/9oADAMBAAIRAxEAPwD0pW6qzSIoefSpRUrShKRuo4VGbuoPZqzhkPqgRo8YPD/La6tViPk/eLdmXM1O/e8HLk9LC46mVPPKc/Bf4C/ja5/kYRucIlEzjVqdJlykwKcuW8ytIVpBSjdsX8Egk/eATaOZ3ylP6rdc36NamkwRcrfL3xW0nr5IegvQXXlpeVIStMlKdI7I5QRyCfjxh2ZMzfSkUmHCfqJkTv0okqWbkLCtwEk8/XO29sIvqJ07yx+x11jK6HHFRrFa2lKUnR+Sjq3P2Nhjn0PqEajU01SM2ZU2ntutqjg8rWToUSeBY229sIyh8e2x4v76qeMuShHvavQeV8wTptUKJrKu0/dGpS0ISytAvoSn/ZWoHVf7HAwY4dPa63Xac3UayuK3US4UIbUUpKR40jmxvbBiCOQAK/Ioc4GZxFL2bQp9QnVdFbQ0xWJCzJLmq4jkH0+scIKbJv7eMR2bKG7k7MFMmyocebDLiNYUbIKwbBdgDY8eD/eJLqrONSdnzIZUmMlTTaFhW7igrm3ge3vjOcZiUU4OyVomKDMdCkEklPpSCCRwQbm/v5vgT6yWRA8bZBnxsONwP5WysWwVhb43NbJn0uTAcoceKzFMtxSVxwNBdBN7EcgW/rjGlGh0+h0qVDriqbAl1GYpQEVBQlqK2nShIvuSbKPm+rCsyZVpLWdJdU/Th1vuKCe6VXKEngckbC33iz1apxq9MYU81Lk1Z3Sk99OlIvufAFrceBthTaJlxWQHFjvaqVYE5cWqdyNS2kZtpjsqUpVLUvuMurRbWpPCVDxv5/7gxZaHkWa1SkPsJUnt6i3F7wc17gE3BsD8YMA1f5PWRyYohYdHv7tVnh08/wAjJj6q9P5DokmmrhS2nXW1W9XcKSCDcEW4OISpdK6c9SnYkGZIjurUmzrhLlkJN9JTcX38nBgxoQounAWIWAN/usltRKTkWN6ptO6crm5qXFFKkU2AxrRIkq3RKBVupFz6CoEkWvb+MM2fkmkmBogQ0NyG0BLSlLUbW4vcm5+TfBgwueVnFieq5aVrisUWZOprZanQ3nEBRCVMsgC999hbb5tgwYMedOolU2ypJRX3Ir//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Shall We Talk</div>
-                                    <div class="artist">Eason Chan</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAlACgDASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAAAAYEBQIDBwEI/8QALhAAAQMDAwMCBQQDAAAAAAAAAQIDBAAFERIhMQYTQQciFDJhcYFDUWKRscHR/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAIDBAH/xAAcEQACAwEBAQEAAAAAAAAAAAAAAQIRIRIDMUH/2gAMAwEAAhEDEQA/AOGuiA7dUzFXOG2gOBegpcyBzsME/Tmnid6j2iUlKTAaJxjub/t9qSrleWnn0JjpZZCyNXcUSANzn7Co6r9ObjyY0f4VxkoOp0M6gRx7SRlPPO1ZOXKsNdxpuy0vfU1snJyISEg7Y8/4pelvrlyURrTE9zign2IJyo8AbVHkOKcjsjtoW4tCsj+Xgj64po6GuTsBt27uFPwqH2mnG0JyUEDGvfceNvNM1wrQqSnLl4UPU8G8w5LMS9gpkMNaWxgEaBuACOeaKY/UO6wb9emkW1OVgErdQpRC84OoDgedh/VFP5zuO4cn5Lp1oniJc5bCZEe1ynG87PNsqUnbncDFZuw7wnDrNsnx0Oe1J7KsK2zjJG/Ga7f6XvXlHp/BRa12wxu84433g6pYV3MBJwMYJC/xzU67ruaZlikJTEj5kNNutNvvJQtLrawCdicDnHORxVUlXwl+0fOcW4SIi1KZIQ6du4PmT9j4pr6dVCfvFqtshbsZm9ONtyy3+mla8BQzscfNjAx9a9vnpzdbf1NbLU6/FceumXGnGypSEJ1Ee7bI4O3NUMhxyLKt7zkkLfhPfD4TkgdteQUnjG/+6HFMVNrUT7nHi2qVdoaUuKcgSFxku4BxpUoBStvJGxG4P4oq99XoDdp9S+pWGUhqNKSl9CB8p16F5P5JOd6KVxVjxk6FK29SS7dAEVguBA1YxIdQBk5OyVAb4HjwKwkdR3NxxtTUyTHCHEvJS3Icwlac6VbqO43wfFFFUJmtXUF4c2duk5xJ5SqQog/cZ3rStQRAktBKSA+nSTynY8f0KKKGB0719GOrba6MapNmaK8jPGr/AIKKKKVAj//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">富士山下</div>
+                                    <div class="name">1874</div>
                                     <div class="artist">Eason Chan</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBwIE/8QALxAAAQMCBQEFCAMAAAAAAAAAAQIDBAARBQYSITEHExQiQWEVI1FxgZGhsSRi4f/EABYBAAMAAAAAAAAAAAAAAAAAAAABAv/EABgRAQEBAQEAAAAAAAAAAAAAAAABEUEh/9oADAMBAAIRAxEAPwCWyrMHsZoE7i459amM7pKpSHATvtzXqytKSmIUqJuFmjNikPxSdrjiqBY3hcJSUobfdfkKb1aGRfRYXJUePLgb1NOq8XJt86ucuIb9lpW2EpBUE6wbFJ871PZwiCNjDnZNBDKrFNuDtc/mnhUqcuEJ5oruQn3KDaigHuFwMQLCHWWHC26SUqtsfj+qrYGWHTFjSsWQsLc8aG1mw0+Rt51oPTOe43k3AP42LBAQ5pchpT7wXKVbkjgni1yBcUyz3AxDEjhnc4MgqjNqbcS4Qkp0nflRv9PtRMHqLnZeQhTUmO8mM2E+8HZ60WG4Om4tb9VFZvwh5LjAkyAvvL6ezIRaybHf/K2ebhr0eM7ElBDTxbKFIWrgkVm/UQobm4Mla0K0OoB0n4CxNVhSoPNGCyMF7FqRZaHE6m3E8KHn9fSitE6pJh4jlhhyKADGtY/2Gx+9FKyQJrLefsUwjDImHNRWFNx0qQ2tbSypOpRUTsoDk/CnUjq3mOZOR2hZ0BSxcRyCdQsTcG9FFI2x5Ocl4/HVLmvR0B4hQbU0F72AJTqVcfn5VF9YzgKcawaOpSn3WpSRJ7slJ0p328I2PoTeiir4npZ1cwKHHy+3My85LeiL2dZkRnW1oPkoFQ3HPB2PpRRRUqf/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">天下無雙</div>
+                                    <div class="name">反高潮</div>
                                     <div class="artist">Eason Chan</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoAB4DASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABwAGCAIF/8QALhAAAgEDAgQDBwUAAAAAAAAAAQIDBAURACEGEhMxByJBFTJCYXGBkRQjUaHR/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAECBAX/xAAdEQEAAgIDAQEAAAAAAAAAAAABAAIDERIhMRMi/9oADAMBAAIRAxEAPwBK4kqFjoq7IIPRkI2z8GiVaszSNMdwm4y3xZwPptpN4lpOrS3KZqiZUiiYsgGQCV0URmNnCMvURsryxrjJO2PlvjWTIG508CldTw6DiSa63h6S20ssiMSA/ck/yBj8afPBuSIVLQIMOtKWIJ395e+hrwzst+4a4xqIY7eRUJHIY46gFBKmM+U43OMdtM3hLR10XENTV1tM9PHU0jSIDnuZBsfUEYxg76AOXUVl+a29nXGkI9i3ZVzzPG7N6D3cf7ojtCiKammlmXpB0Clj28wLN89tLHGDJ7PuxZv2ooZDJk7EcucD7aALfcorpPC/NLGAOcqpHIoBIwQBp3NsnHYNTUvDFfSXa3xFZ4ZJYc9hvt649Dqy2yNI51C4yYyzfXI1lfge/Narw0yGUlWIZuYqrDtjfbWiOFbrT3K9NLDKWaWl5lXO3KrLk/lsfbRV7iy1UU8lJ4zXqU10hiI6n6Wbl3HmYxEDQRYLDUUlzo6d1YQynlZgCfTJO3pkj+9TU1dnTJqCbl+rOE7jQ3qhqbOJX5vMML6AZKkdsZ0keFM1fUcQTzXSiakkWkZFzGUGOopwNsd8n76mppa/QymzwSf/2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">我的驕傲</div>
+                                    <div class="artist">Joey Yung</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBQgE/8QAKxAAAQMDAwEIAgMAAAAAAAAAAQIDBAAFEQYSITEHEyIyQVFhgRRCcZGh/8QAGQEAAgMBAAAAAAAAAAAAAAAABAUAAgMB/8QAIREAAQQDAAEFAAAAAAAAAAAAAQACAxEEITETEhQyUXH/2gAMAwEAAhEDEQA/ALFOj2W1xVPyY8RlCRnhlOT/AAMc0k9q16Ystojs2mNHTMmZUlxLCdyUJAJxkdTkD4rbU5bvznJrjiXHnDuT3i9wTgYO0VjXVUPUM+Gnew8uM4paeQRkoIxxz6/5SUy+gFxTUwMdTW9+1zomJNfkuylRHcglanFJ9ffNWHs7ei3PTSHLhEiPPIcU33imUlRAxjPHzXs1JEJYat6GmIzzzKnPccHBGT8c0taebNpgyGWXNrS3itHH61HTmVljq09oI3jek+qXZ4riEJhQw4o8bWE5z9DiikOTN2KJQ4c+/rRWI8hV3mBppotR9wqUQQtWEZAyelN3YzbWrpru2GZNTDhxsyXnFPBvdt8qck8knHHtmk6TuSyvA5UcU/8AZPpdu8T1mZlEOJHVIdVj6HPTgHNNZiA0oWNpce0qZdCb5J/HgNly4xXVtFg8KSeR1x5T5t3qKn2uL1ctFX2NaVJhSS3FQ48hxkHxKJPm69MfVaupLnJkaWkTmSmInwRUrZUUuylEbUqUfQYGcCo1c3npU11alvSFpO3etRWohPGcnmg8aEVviJypHkBVK2a1s90UG37ewy9+ycY/ojqKKjSlqS8hQylQP+0VscNpNglBecjqZe6L0lloJJKldPmugYNib052VTXlKJXc4qQoo9Dv4H8EUUVzJcbARMGgP1TTWanY+kLGkBQ71997pgHYNqT/AGTWnpq36YHZnHcddZRelyF954yHMA4wcemMGiiqHUYpXkJMySO0i12+BOtiradxdjBx7xhXOeDxx8fVFFFFYxJjFpdN8yv/2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">愛情陷阱</div>
+                                    <div class="artist">Alan Tam</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAMEBQYIB//EAC8QAAEDAwMCBAQHAQAAAAAAAAECAwQABRESITEGUQcIE0EiYZGhFRYyYnGBsdH/xAAXAQEBAQEAAAAAAAAAAAAAAAABAAMC/8QAGhEAAwEBAQEAAAAAAAAAAAAAAAECESExE//aAAwDAQACEQMRAD8AtSfM1YlFKRYbkCru43t966Z0H19A6wbdMZhyItsai2+oasHgjHIO+47VgZp5CnNPAAONs1eOiOp3o0+KwqVJKWsaUBwBOOwzsnnn2rOqc9Bs271JfolhgCTLcRlatLSCsJ9RXYE7cb71zOZ482VhToTbJi9BwDqSAfnnO1RHizdo8jomwB11DQcSXktMLC/hxzqxz7fI5rOd4ktSZbyIbz62c7BatOU/uPFZu6dYvA00G75n7E2tSfy/dFFO2zjeD96KyjMTl5xCT+o8q9qK3TOhgtxSTnJxk4qUsoRKfRHecLTZyVLSN0jGT/nenjXQ97k6VJYCQv4k6nEjb296m+nOlbrYriJUuMXUBKkKbACioYycYz9aSom2XYE2Ezb411WEMJKW1CMoo/g4Ud8k71Ur+h20SEJS6w6lYI1NZxtsQcjmr3Dmv3e7xbZCYi2p3d31peG22kgZIUSBnOdOOd6i7/0PcL27KesKmZ7rGDIYhr9QqVuNSR77Dgc896Pmk+Au+nN35XrEkgDBopCXGcYWpopKVJUQpKtiD7g0UibcY8CoDSEp/HrioJGBltv/AJThXgtH06U9RXFKSAFD02/iA37bf1RRTpCUjwPhPABV/uGnjT6bZH0IqKPl1tyZCn4vU13ivq5XHShskdthxRRVoYIteWuyoQsLv1ycWs5Limm9X1xRRRUqZOUf/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">愛得太遲</div>
+                                    <div class="artist">Leo Ku</div>
                                 </div>
                             </div>
                         </div>
@@ -372,7 +372,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Dec 2025, 23:12:17 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Dec 2025, 00:14:50 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
