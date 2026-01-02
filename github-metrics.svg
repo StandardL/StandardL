@@ -314,38 +314,38 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAIEBQYHAwH/xAAtEAABAwMCAwYHAQAAAAAAAAABAAIDBAUREhMGIUEHIjEyYXEjQlFSgZGS4f/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABYRAQEBAAAAAAAAAAAAAAAAAAAhEf/aAAwDAQACEQMRAD8Aw4ibef8AEk8x+YrppnGDuyf2VNSW9287unzHonbbU9zQdBP4WmDC2yVHIbsn9FaBwi2olqIxuP8AH7iq7bLY/WBoK1PgKxvdUxuLDj2VGr8IU7o6IbmTy6oUtEwUlEG+BwhRWON7OpJJM7fI+inqPs4bs4cGg+oytAluEcTBpwOSjKm8vz3SUSK1T8A7VQ0Cnh0A+fWc++P9VztNogtzBgNGFDOvE3RxXF9zmdnLj+1Viw3KoBbhpCFVnVT3EZKETTmcPP1TZ0RJQhB5slJdC4dChCBGhwI5FCEIP//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">重口味</div>
-                                    <div class="artist">Eason Chan</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgEFAQAAAAAAAAAAAAAAAAcIAQMEBQYC/8QAKhAAAQMDAgUDBQEAAAAAAAAAAQIDBAAFEQYhBxITMWEiQXEIFBUyUSP/xAAXAQEBAQEAAAAAAAAAAAAAAAABAAMC/8QAHREBAAICAgMAAAAAAAAAAAAAAAECAxESITFBYf/aAAwDAQACEQMRAD8AlRSp41cS3NGmPa7akC5ymut1lBJDSM49KTspRIPfYAe9Nc0h/qnYs0Sz2u8ToSJVzbUphlCyeVSDuebBBwCQR5pgS1PA/izqC960bsN9kJuUWShZRI6SUKZUlJUMlIAIIGNxnOKkYNwCMYqB8nW0Zy0tOWq1woVwSOVJ6QPKOyinbHb+9875rv8AhDxwn2pabTdoL1xh5w30QlK2fAyQCPBOfNM/BCWVFWob6ZUVmQ2FBDqAtIUMHBGdxRXJ0umk99RmmkXqwMzlE9SAhZb/ANCnlKincAd9wkb7YOacNcTxYt8ibppbluYakTYwU4ltQ9a0Y9SUecY28UW3rp3TXLsi7/wajvQ7Wzpi3MSRJSkPynJKgpKvcqGcAfArO4BcInfy8i+X9DjEeI+5HZiKO7q0kArP8AOR75+O/mx6puE+1t22yQ3nZMl5LI5HltOMrJ/YFO4x3JwQB32qR9jgfjLY1HUsuO/s44o5K1ncnPvWeObe2uaKx4bADA27UUUVqwUBFYNximQ2Q24G1nvlHOD8jIooqTiNPfdaW1Gu3SIbkhme9zJltI5W0DHYgk7580xs70UUyhRRRQn/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Youth Anthem</div>
-                                    <div class="artist">Alfred Hui</div>
-                                </div>
-                            </div>
-                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEAAwAAAAAAAAAAAAAAAAUGBwMECP/EADAQAAIBAgUDAgQFBQAAAAAAAAECAwQRAAUGEiExQVETYQciMoEUcZGhwSMkM0LR/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMFAAT/xAAfEQACAgEEAwAAAAAAAAAAAAAAAQIDIQQREjEkQVH/2gAMAwEAAhEDEQA/AI00cLybhAh6m+wHnx04wg1W9JTCnjjhpjLIQRI0YG0KQfHnFJHfbYkrc8IOOcLM3ytMzVFlLB0FldfqHH/MP2FoMmzKgqisE7UUVQp2gLazduO+Na03kWXVOjq2SWgoy61S2dogeLD28++MQ0lpGnbVb02Yxmpgb5UUy7OSLi5H5H749F6co1y3Qk1OzMypUoiyOR8wCgBj+gN8A5LlxQcqmkp+mZ4+U0QzirVYCI/Uh2/hYgbXBNunH6j8u5MM80QDN6spLU06tLCpNOAxN1J6348gX79O5MNAInZtcskZG7ll3WueecUGk8qhzXcZWdGVlULxYg/xfFrrLQuVppGHUWkZZZacqs0m594aIj6hxxbuPF/GJvStNWiKBqCleRppg1ox/ovJbz2GAUk8mkmsFVpbQlBDmK5g/wDkjbadp9uD++L7U1BC+lHqqFY1sElsQArdB9uuFNBenoDuLKZGd1X2vbp9sc2mM3gzb4d10J376R3pJAOvDCxH2IxKqsk9VNb4wUrK/GizOc0q46HNZ2q56uNpJ4E/oLdmO08fzb9u5MdxpN+YVkjVLo7VEJ/tk3K/yk+en69+MGK+SYJvhL8TaTTtPmeQ6ninbL95emZIi4Xf9cZA7Hr9zil0Fq7Jcrz/ADGOmnmOWRRH0PUhKsQWXaAPPa564MGFNYY34N8zr5TV75khk9UnYadtxVTyAfHB8EHzhboeQ0VNqygZ9kjRtLGm2wIAueSOtr34wYMTaKoxsc12zuuvk6lB9IRzZkmX19f61VLTPvj+WNd24BCOb829+/vgwYMWNiYf/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">倩女幽魂(電影"倩女幽魂"主題曲)</div>
+                                    <div class="name">共同渡過</div>
                                     <div class="artist">Leslie Cheung</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACQDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAMEBQcIBgH/xAAyEAABAwMDAwIEAwkAAAAAAAABAgMEAAURBhIhBzFBE3EIFiJRFCNCJTJTVGGBkaHB/8QAGAEBAQEBAQAAAAAAAAAAAAAAAgADBAH/xAAfEQACAwACAgMAAAAAAAAAAAAAAQIREjFBEyEiMmH/2gAMAwEAAhEDEQA/ANU0VVNz6rxbPqO7252BNkKjPFGd6AkYH6fOPenKercJQH7Lk8j+Img5xXYlBvo6O5XibHmS0RbfLeDfqBKln00KwlChgk5PJI4B4HFPm5ctq2uSZjaG3RJDIQHCU7S6EA5IHODn7VVmqdc6fdRJu90jz4zYYLLhDjeAk8ccd6ZwurtgetsdQtM+XBaaw0064jb5+ojAyfft4q8kebPfHIvlCdqQMk/1J5orlunOoWtS6cE6O3IbZDy2kokKC1pAxxuHce/P3zRS0g0zPuvWAeoGpFdsyV8/2TUaFg7EhxafZXtTnqde2LdrjUy1JLy25Cvy0Ebjnb964L5vbUfXMCahCc5O0YH+645e36OuKdFkrtEWfpmeqbMJ2uNBtlwJUhw7iTuBxxhPfPFTWvNMWCDo2JPsbYjyG3Ex5LbZOwkpJPB7HI7jg1TErUb18YdNvYdQtASlP0b1pGSSrAPb93/FJabv11koni4vS561PpVnbuWrAIOE54HA9q2ysV2Z6+X4aw+H5JToDB/nHf8AlFJfDvIMnp8pZZeZxNeG15O1X6fGaKUeEZz+zK26jdNrhdtZXudEs0xwSJHqB4JKgocZwBx4xSLfT2QmOpv5PUUnuFtKUDRRU4LktyqrI6yaAu8DUs24L0tKEdxkMtRGopDaAMfVknucdsea8e0LfF6pt0636SdiR2t6ZDf4YpS6FeTjyO/Y0UUsoOmaC6Y2963aaLEiAIK/XWr0tu3g45xRRRVlFZ//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">罪人</div>
-                                    <div class="artist">Hacken Lee</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcEBgEFCAP/xAAsEAABAwMDAwIHAAMAAAAAAAABAgMEAAURBhIhBzFBEyIIFEJRYXGBMjOR/8QAGAEBAAMBAAAAAAAAAAAAAAAAAwABAgT/xAAeEQACAgICAwAAAAAAAAAAAAAAAQIRAzEhQQQSE//aAAwDAQACEQMRAD8AfDrExUoKblbI/HsAGe35H3/NYlzGLPAel3WeluK17lvyClCUDtyQAO9Tf7VfvU6zXVcrTkySrfJQWHEt5Hf6QrGAa4abF0aWL1GtqtQ3CPNfZjWhlpCmJzgUlK1c7sqI247YIP7q8IcS42lbawpCwFJI7EHtSyidOn5N2mQbvKeXp6PtVDSj00KUVcq9wG4Yxg5JzUTqn1Bu+k9WWyLDZbFuLYW76rRJf5wQlXgAY5Hms89jRxqcvXG7GwT+TRXjFkNS4rMiO4lxl5CXELSeFJIyDRUsJokDgd6U8iFCmdRvWjuH5aPITIU9lW1C/qBwexVxk8c00Lg+iJbpUl7/AFssrcVxnhKSTx57UlumeqY0yXd1W1tUtwxdy/VBb2gqA8j3ckcU2NbYc+kPP71zv8Rctidf7Y1HlMvJjxVbg2sK2KUvscdjgeael9tvzmm5tuQtbZdjKZQoLwQduBz+/wDtcjakYYtaLZ8o76xehNvyElwEtPFSgpOB2/xzg880bTfCO7xXGD+knofXw+XKTM0W/FlEqEGSWmlE/QQFY/hJorbdFYkWP04tbsVGFSgp585yS5uIPP8AMUVmqAzTUpuUdFh1jb7hdtNzbdaX2I0mUj0S88CQhCuFEAecZpYdNOmd+0/eBLmSIrcZ0OR320H37AUlDiTgjJKex7CiikUmkE1Y4p0CLcIaok9hEmOrG5DoyDjz+/zS01T0dtl8leo3IXBYZDbcePHACEo37nN2QSSrJwc8ceOKKKynXJdvXRb9D6Yb0lZza40t6REDinGkujlvJ5GfI8/g5+/BRRVNkP/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">任我行</div>
+                                    <div class="name">失憶蝴蝶</div>
                                     <div class="artist">Eason Chan</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYFBwIDBAj/xAAuEAACAQMDAgQFBAMAAAAAAAABAgMABBEFBiESMRNBUXEUImGBkQcVFjJyscH/xAAYAQEBAQEBAAAAAAAAAAAAAAAEAwUBBv/EACURAAEEAQIHAAMAAAAAAAAAAAEAAgMRBCFREhMiMUFhcYGRof/aAAwDAQACEQMRAD8AtC23C/8AJPjJJnlsmkZFuCpEccQ79Ke+AXP4p0n1eCK+itir/OzKZGwqLherOT3+319KX7qFNc1WaGeHw9D0kEuoXpE0gGSP8QPT/tQFyYxfabd9TW1gjtwQMInS7gg9j8pzyPMd6uWgrzUeRPjWAeKzp+6P4Tpe7n061tbe4imil8dgoQyBcDJyxz2AwfvWG19QvLwy/EOk9tjrS4UMASScrkgAgeWK87Ju/dG5YNRu9GudOs9L0lSvhzQoZHXqycMQWyeTwQBwBVn7N1kbm2JYtJcQzRSXKoY4lcyxsDlwyj+3fPPGDnvU2uY7pHdaEoy4i2aQdNeN/atGTUYItRjsndRK6F1+Yc4I49+Qfaik60QWWvQapeGKygleSABAZQ7FsEMwAC8jA9qK6WbK2NmhwPNoa6fE5v0OrKxBVhgg+YpN3bYWt1c6bopjaO2e2uUCx89IKBAe/wBfWm6Z1jRiyF1x2AzmoHWLhPjrJxEqFIZcEjkDA4okmS2N3BepTXYwmr6P4bVJbJ2XuDbdvrGlX9pCLe4LrDdFlZSThQWGCenGDxyOeKtD9KdjjZW3Tp/7i095czGeaa34TsAo58sfn7U2i0hvIVZ85wO1aY1FvddAZ1QAKCgye/tUHPMPX7TpqkbwlSC2QAAeaV0Vurw36Sue/bHrzRXY2MDvmin2Vn8pmy1rh1K/ilrdFq6vZTyMCC7xMVGAOpTjj7UUVKRgcLPhIiNOC6tKl6rRAGJ6coefQ4/1WTkswAbokccHGRn0oooOWLgNpb9CpiBjJDGWPPnRRRTYTcbSdkI91//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">鍾無艷</div>
+                                    <div class="artist">Kay Tse</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcFBgECAwj/xAAtEAABAwIFAwQBBAMAAAAAAAABAgMEBREABhIhMQcTQSJRYXFCFBaBoSMy0f/EABkBAQADAQEAAAAAAAAAAAAAAAQAAwUCBv/EACQRAAIBAwQCAgMAAAAAAAAAAAECAwAREgQhMUETYSKBBSOx/9oADAMBAAIRAxEAPwD0pW6qzSIoefSpRUrShKRuo4VGbuoPZqzhkPqgRo8YPD/La6tViPk/eLdmXM1O/e8HLk9LC46mVPPKc/Bf4C/ja5/kYRucIlEzjVqdJlykwKcuW8ytIVpBSjdsX8Egk/eATaOZ3ylP6rdc36NamkwRcrfL3xW0nr5IegvQXXlpeVIStMlKdI7I5QRyCfjxh2ZMzfSkUmHCfqJkTv0okqWbkLCtwEk8/XO29sIvqJ07yx+x11jK6HHFRrFa2lKUnR+Sjq3P2Nhjn0PqEajU01SM2ZU2ntutqjg8rWToUSeBY229sIyh8e2x4v76qeMuShHvavQeV8wTptUKJrKu0/dGpS0ISytAvoSn/ZWoHVf7HAwY4dPa63Xac3UayuK3US4UIbUUpKR40jmxvbBiCOQAK/Ioc4GZxFL2bQp9QnVdFbQ0xWJCzJLmq4jkH0+scIKbJv7eMR2bKG7k7MFMmyocebDLiNYUbIKwbBdgDY8eD/eJLqrONSdnzIZUmMlTTaFhW7igrm3ge3vjOcZiUU4OyVomKDMdCkEklPpSCCRwQbm/v5vgT6yWRA8bZBnxsONwP5WysWwVhb43NbJn0uTAcoceKzFMtxSVxwNBdBN7EcgW/rjGlGh0+h0qVDriqbAl1GYpQEVBQlqK2nShIvuSbKPm+rCsyZVpLWdJdU/Th1vuKCe6VXKEngckbC33iz1apxq9MYU81Lk1Z3Sk99OlIvufAFrceBthTaJlxWQHFjvaqVYE5cWqdyNS2kZtpjsqUpVLUvuMurRbWpPCVDxv5/7gxZaHkWa1SkPsJUnt6i3F7wc17gE3BsD8YMA1f5PWRyYohYdHv7tVnh08/wAjJj6q9P5DokmmrhS2nXW1W9XcKSCDcEW4OISpdK6c9SnYkGZIjurUmzrhLlkJN9JTcX38nBgxoQounAWIWAN/usltRKTkWN6ptO6crm5qXFFKkU2AxrRIkq3RKBVupFz6CoEkWvb+MM2fkmkmBogQ0NyG0BLSlLUbW4vcm5+TfBgwueVnFieq5aVrisUWZOprZanQ3nEBRCVMsgC999hbb5tgwYMedOolU2ypJRX3Ir//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">最後今晚</div>
+                                    <div class="artist">Eason Chan</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcDBAIGCAX/xAA0EAABAwMCBAIFDQAAAAAAAAABAgMEAAURBiEHEhMxQVEiMmGRsggUNkJEcXJzgbGzwdH/xAAZAQADAQEBAAAAAAAAAAAAAAACAwQFAAH/xAAiEQACAgEDBAMAAAAAAAAAAAABAgADBBIhURETMUEiMmH/2gAMAwEAAhEDEQA/AHRx4nSbdwyukmDJejPpWzyuMuFChl1IOCN6WWibhKetqBKvNyU8lHMvqSXSc+O5P7UyPlAo5+F1yTjYusfyppaRGmuiDFQrnUgKUAew/wA70jIfSgEsw01Ema5rPUFzgyUyLfdrqWt0kGU8gZ+qdz7Kls+r7ldLcmQi5Tkr7KHzhfon31W4kpZXaQ3ECUhxQcUsnbOfOtd0QgtW6SPAugg+ewqd/lTq9ia2AqnKFbDYzqvhZLemaOivSHXHXC44OZxRUrAWcbmiq/Bz6CRPzHfjNFV1fQTGzVC5DgcmUePzfV4WXZPKpW7Rwnvs4k0heH+qFPWxyLMaLrrCQlJzglB866E4zuoRoWQh3nCXXWk5SMkHmB8furn1htoym1MuLQUpVsWwArbO+D7KC8hhpIleHQTX3F5lqdCXfuoJeUMY5fRPYeQrwIWlp1uuLi4j5MDfCc5J/T+62ONIbfcBaKmXPVwD6+PEg+Htq8X+RI3we3enV0r2tPMzLM6yvI1qPEdPBsKToSIFgg9R3v8AjNFWOFK+pouKrPdxz4zRXippAXiFZd3mNhHneYcWYjsvRUpEeMuS8lxtSG22+orZQyQnx2zSNYs99LanV2Ka1nPKEwjzAdvLvRRXOAQB+wqrGUN0PqQI01qBCy+bRPK1HYCOr0R5dqgk6e1I4WlGzXE8gP2Zff3UUU0yIb7x/cIYkiFoSGzMjux3wtwlt1JSoZWcZB3ooooI9fE//9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">一生中最愛</div>
+                                    <div class="artist">Alan Tam</div>
                                 </div>
                             </div>
                         </div>
@@ -372,7 +372,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Jan 2026, 16:15:33 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Jan 2026, 17:14:54 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
