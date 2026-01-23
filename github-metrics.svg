@@ -314,24 +314,31 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUCBwMEBgH/xAAxEAACAQMDAwIDBgcAAAAAAAABAgMEBREAEiEGMUETFFFhcQcVFiIjgTIzQkOR4fH/xAAYAQADAQEAAAAAAAAAAAAAAAABAgMEAP/EAB0RAQEAAgIDAQAAAAAAAAAAAAEAAhEhMQMEEkH/2gAMAwEAAhEDEQA/AK2tn3pS3GvSGs2SCRofcMPCABSM852t9fnpj0RPcKWZqhYDcJYZWX0pH2QozAAjPcNjyPh30ijpp0utbDJNIEhmXIJ/MxIGQSOM4H76aQ1TUEVw2qTH7pyUHGfOc6z5L+T/AFicPdPrSuxMKt2SQVG9JaSkciOJlOOD5GMYPfXJ01bVNUGRzIA42EM3j5f617Z6K5327yrQsDPuMjbmCqP2PGpzxPFOFqAHf1GjbYP6gcZU6qGoI92VbpUUskir7qGJf4vTOMbhjPOjWa1xLUTbrmUhplzud85Y8gKeewIPHy0aCh3CXzXCR7hUSS7XklZWkkxjBwR2Bx/zW3G1RXFqKjSWeSZuOfLYAAAJ51BLOwuLRtA0Mc0QkgEnPBPB4JOPrzq4fsp6Tt9Ja57jXsZbizD2+0lVgGAdy9juI8+Bx3zoujgnxwcni4HpqRLVR1FHc6FFudO5/TnXa4HnuRnSutu8EDbfbp6e9j6Wc4BH+e/ONXLebPaeoeoLcl+o6mWqUNGtZG+zuDsD47gn4YIPbvqlesbT921tUsVO6JBUNH6jEknjI857ecDXB9c1PKOOiXTVk0lVuZfUYheQP5mOASNGtWB6cRbZi5LNn8pyfro02qG5xW1VweTclW80aRqm+MFQqKfIA+J899WTc+pK+0UNoqKWCSWlnEMb+mudzlRwfOdvb6aNGgc1PGobt6019wklaouE1NIFb9ERHBVQcjPzyB8dI/tiVPxFGIjIYmV5+cYGRuOOBk4btnRo0Tq0+yHwXBRUEVXjYsS4/uRsA2e/IHY48aNGjUld2IL/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAlACgDASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAAAAYEBQIDBwEI/8QALhAAAQMDAwMCBQQDAAAAAAAAAQIDBAAFERIhMQYTQQciFDJhcYFDUWKRscHR/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAIDBAH/xAAcEQACAwEBAQEAAAAAAAAAAAAAAQIRIRIDMUH/2gAMAwEAAhEDEQA/AOGuiA7dUzFXOG2gOBegpcyBzsME/Tmnid6j2iUlKTAaJxjub/t9qSrleWnn0JjpZZCyNXcUSANzn7Co6r9ObjyY0f4VxkoOp0M6gRx7SRlPPO1ZOXKsNdxpuy0vfU1snJyISEg7Y8/4pelvrlyURrTE9zign2IJyo8AbVHkOKcjsjtoW4tCsj+Xgj64po6GuTsBt27uFPwqH2mnG0JyUEDGvfceNvNM1wrQqSnLl4UPU8G8w5LMS9gpkMNaWxgEaBuACOeaKY/UO6wb9emkW1OVgErdQpRC84OoDgedh/VFP5zuO4cn5Lp1oniJc5bCZEe1ynG87PNsqUnbncDFZuw7wnDrNsnx0Oe1J7KsK2zjJG/Ga7f6XvXlHp/BRa12wxu84433g6pYV3MBJwMYJC/xzU67ruaZlikJTEj5kNNutNvvJQtLrawCdicDnHORxVUlXwl+0fOcW4SIi1KZIQ6du4PmT9j4pr6dVCfvFqtshbsZm9ONtyy3+mla8BQzscfNjAx9a9vnpzdbf1NbLU6/FceumXGnGypSEJ1Ee7bI4O3NUMhxyLKt7zkkLfhPfD4TkgdteQUnjG/+6HFMVNrUT7nHi2qVdoaUuKcgSFxku4BxpUoBStvJGxG4P4oq99XoDdp9S+pWGUhqNKSl9CB8p16F5P5JOd6KVxVjxk6FK29SS7dAEVguBA1YxIdQBk5OyVAb4HjwKwkdR3NxxtTUyTHCHEvJS3Icwlac6VbqO43wfFFFUJmtXUF4c2duk5xJ5SqQog/cZ3rStQRAktBKSA+nSTynY8f0KKKGB0719GOrba6MapNmaK8jPGr/AIKKKKVAj//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">葡萄成熟時</div>
+                                    <div class="name">白玫瑰</div>
                                     <div class="artist">Eason Chan</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQgG/8QAMxAAAQMDAgMECAcBAAAAAAAAAQIDBAAFEQYhBxJBEyIxUTY3YXFyc7KzFRcjMkOBkaH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQFAf/EACIRAAICAgEDBQAAAAAAAAAAAAECAAMEESExQZETFCMyYf/aAAwDAQACEQMRAD8Ad/Gr1ez/AJjX3BWbE58zWk+NXq+nfMa+tNZuSKoplFXSDktiKpsSHkt8/wC3Jqc0oLQlbawtB8CNxXJ6i0vMnpEszCG3Vns2wkbADB38auNIWyXbtOsJlocAKlKSog8uM+APh0o6soWWFB2jCjjTMODNPcIfQKD8Tn1mijhD6BQPic+tVFTWfcyVupkfjVn8vZwGSS4z9xNKPhhpo3m8GXPirctUIFbwIwFrA2R7d9yPKnXxLDCtMlMqSiKyZDOXljIT3xj/AE4H90iLfqibAtjtuclKXDWtSlJyck9O95YxSLcr245HBmhg4b5astZ5EY2ttJo1TY471vQhmQjIhrbSA3yZz3kjpyHp1GOtU7NvYsDkGD+IqbYJ7IIWMlY5gkFaTtuVE4NVGlNYXKO24i3RpUiFFQUtobBXylW5Ayc426biuP1Jqx+5XQm5svomISG1Ap5SMKJxjO2M0eIa7fkXjfmKy6b8dvRs7eJqPSdrFnsrUIADkWtWB4bqJ29m9FV/DOdKuWirdInrLj5SpJUfHAUQM+3AFFG3UyI8GUfHxS08NJym+bnS+wQQNx+qmkVaIkrVU9iKhuE1Jd/kdQtAJ8zykD/lFFC6hl0w3NDAZkDMhIP5Grp7hld7XHdaf1K1HjL7zjVvY5VLx07RZJT7wAaWPGB5mZrN5+IjCUpQkkdSAN6KKKipQ2wIpr7HJLHe49OBqieG1t5uinQPcHFYooorrAAkCTNySTP/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAIEBQYHAwH/xAAtEAABAwMCAwYHAQAAAAAAAAABAAIDBAUREhMGIUEHIjEyYXEjQlFSgZGS4f/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABYRAQEBAAAAAAAAAAAAAAAAAAAhEf/aAAwDAQACEQMRAD8Aw4ibef8AEk8x+YrppnGDuyf2VNSW9287unzHonbbU9zQdBP4WmDC2yVHIbsn9FaBwi2olqIxuP8AH7iq7bLY/WBoK1PgKxvdUxuLDj2VGr8IU7o6IbmTy6oUtEwUlEG+BwhRWON7OpJJM7fI+inqPs4bs4cGg+oytAluEcTBpwOSjKm8vz3SUSK1T8A7VQ0Cnh0A+fWc++P9VztNogtzBgNGFDOvE3RxXF9zmdnLj+1Viw3KoBbhpCFVnVT3EZKETTmcPP1TZ0RJQhB5slJdC4dChCBGhwI5FCEIP//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">十七歲</div>
-                                    <div class="artist">Andy Lau</div>
+                                    <div class="name">重口味</div>
+                                    <div class="artist">Eason Chan</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAQCAwUGBwj/xAAtEAACAQMDAgQFBQEAAAAAAAABAgMABBEFEiEGMRNBUYEUIlKRwRVhcYKh0f/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDzXoK7jPjGcDv71uad8DcOIrmeWK43AbEjLnHOeAOeawNIcRw3b+IEdVBXkcnnjB71RbTnezMzbgC2c8+VB2ENBg+KEaSXT5XKk27LubnIwRkDt96yNRjsbe5a3t7qR50OHjkjKkfel5WvNP0Kw1F3eRJm4wHG30yxG09jwD5VxdpGmuTJM5LM2XYnk+tA/r+D4BU5B3cj2oqXUG3bbbAQuCAMY44ooIaMhkhu41i8VmCgDsB37mkJUMMkisBkZXj1rW6Y73Izg4X80xqtrElgQigbTuLHufXmgruNYurrpqy0yaRWtreRmiUDnJHOT/zFZ9hC1xcKBGHUYbvyP2rUttCnuNLh1COB4rGadbdZpM7UbHPzduTn/KW0hGtLuTx1KgZXP0nPnQHUu7FsXAB+bj3FFS6oIPwpGCMNyD/FFBV0821p/wCv5p7VXMdoskib42I+XOMjPPPl6UUUFVhr00dpNo8IP6RdTI7QTESGNgRyrYGD7dqYtlYXTRSEu6sxdj5jyz7UUUGb1BB4DwhWPhtuKr9PbNFFFB//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACQDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAMEBQcIBgH/xAAyEAABAwMDAwIEAwkAAAAAAAABAgMEAAURBhIhBzFBE3EIFiJRFCNCJTJTVGGBkaHB/8QAGAEBAQEBAQAAAAAAAAAAAAAAAgADBAH/xAAfEQACAwACAgMAAAAAAAAAAAAAAQIREjFBEyEiMmH/2gAMAwEAAhEDEQA/ANU0VVNz6rxbPqO7252BNkKjPFGd6AkYH6fOPenKercJQH7Lk8j+Img5xXYlBvo6O5XibHmS0RbfLeDfqBKln00KwlChgk5PJI4B4HFPm5ctq2uSZjaG3RJDIQHCU7S6EA5IHODn7VVmqdc6fdRJu90jz4zYYLLhDjeAk8ccd6ZwurtgetsdQtM+XBaaw0064jb5+ojAyfft4q8kebPfHIvlCdqQMk/1J5orlunOoWtS6cE6O3IbZDy2kokKC1pAxxuHce/P3zRS0g0zPuvWAeoGpFdsyV8/2TUaFg7EhxafZXtTnqde2LdrjUy1JLy25Cvy0Ebjnb964L5vbUfXMCahCc5O0YH+645e36OuKdFkrtEWfpmeqbMJ2uNBtlwJUhw7iTuBxxhPfPFTWvNMWCDo2JPsbYjyG3Ex5LbZOwkpJPB7HI7jg1TErUb18YdNvYdQtASlP0b1pGSSrAPb93/FJabv11koni4vS561PpVnbuWrAIOE54HA9q2ysV2Z6+X4aw+H5JToDB/nHf8AlFJfDvIMnp8pZZeZxNeG15O1X6fGaKUeEZz+zK26jdNrhdtZXudEs0xwSJHqB4JKgocZwBx4xSLfT2QmOpv5PUUnuFtKUDRRU4LktyqrI6yaAu8DUs24L0tKEdxkMtRGopDaAMfVknucdsea8e0LfF6pt0636SdiR2t6ZDf4YpS6FeTjyO/Y0UUsoOmaC6Y2963aaLEiAIK/XWr0tu3g45xRRRVlFZ//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">陀飛輪</div>
-                                    <div class="artist">Eason Chan</div>
+                                    <div class="name">罪人</div>
+                                    <div class="artist">Hacken Lee</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcFBgIDBAj/xAAvEAABAwIEBAMIAwAAAAAAAAABAgMEABEFBhIhBxMxQRQycRUiUWFigaHRF3KD/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMEAQX/xAAeEQEAAgICAwEAAAAAAAAAAAABAAIDEQQhEhNRMv/aAAwDAQACEQMRAD8A840VM5cwhvFVPh1xaA3by/erKxkmEpGpyRJtbtb9U+/IpR0yKuK1jZKBWbXL5iecFaO+jr+aaOBcNoGITww7LlIRpKrpCb7fapuXwcw5tF2Z80n6tP6rDk0YZx7xNTDDVp8EiQgb6ucsK9LWAoqfz3lprLUiK20645zkqJ122sR8KKdVLGyKsNXTMcmzGYfii+opCikA2v2J7UwcJlomRnFNNurQ0NazpPuo394/AbUr8BMhCXnIvNCkqTctnoN6aORsHkycIxWThbyEGPEUy5rBSXQtCtSR2VYnvf5dq52eha6y7DrwNySy9mWHCxVtwKbcZKShVrlRv0CbbX9ascniJg6FvtOIWlbT4ZKD5iCDuNrdRbrb50sY+GYnEnxHvZkrlBQUvlxz7ov6dbWrfIiSmlJcDOKu61pWsyYvkSlSh1It5dPoTQ+FTrcaL86nNxtkR5cjBpMRQWy60tST9x+aKh+Ir7L0XCBHadabQl3ZzrcqBO9t9z8KKvwfg1IM37dzhyXm57Kvi+RDZk+I035qiNOm/S3rVtY4yzWUFKMEgAH61UUUxx1XcAyWDRNn82YltpwiED/dVZK434soWOGRD/oqiis9dfkL22+ylZ2zdIzY/FdkxWo5YSpIDZJvex7+lFFFEAdEWqu2f//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">可一可再</div>
+                                    <div class="artist">Eason Chan &amp; eason and the duo band</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -339,13 +346,6 @@
                                 <div class="infos">
                                     <div class="name">愛情陷阱</div>
                                     <div class="artist">Alan Tam</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAUDBgcBBAj/xAAzEAACAQMDAgQEAgsAAAAAAAABAgMEBREABiESMQcIE0EYImLRFhcjJjIzUVZxgZKhsf/EABcBAQEBAQAAAAAAAAAAAAAAAAABAgP/xAAaEQADAQEBAQAAAAAAAAAAAAAAARECIRIx/9oADAMBAAIRAxEAPwCHdPmW3DZdy3S2Q2W1yx0dTJAru0gLBWIBIB76WL5qNzFgF2/aSTwAGkz/AN1j3iFFJUeJG4YokLyPcplVR3JLnA0vFpudtvEcDQSRXKGRSsXT1N18FePc9uPfWVCx3hu3xRbr/lq28d/3v9NRnzU7kUkNt+0hhwQXk++sdlu19tlbPTzCSmrAwEsciAEMGDDKkccgaW1NmujXMQVFHULXVDBlheIq7luQQuPfOrwRnoraXmWv983PabVNZLXFHW1MdO0iPISoZgCQM99GsL8O6aak8Ttu09TG8U8VzhR43GGVg4BBB7HRqMqHFetv/N+/y3atko4YrhM8ckcfX+k9X5cg8Y9zn2GO512bVdF3h4u230qhKM1VXHFDUsp6EwMKejPY4Axnue+qx4hMRv3cvPevn9/rOlLoKOloK2lrIjUOWb04+oSQMrYBJxjJxkYJ/trWUoHpr4XPet8pot4XKWZUuEsVzMjSR5VXVPlABPzAfL2yR25zqz3K4Ux8R9uXFLm1RU1PoRNP09EEaSKOhsAZx0uepckhlbnBGMupLZJcbZU1dGyyy0sbzVUbsAyoCo6xn9oEv2GTwSeNQKwehSRpwrRsqrH1Hq7tyPbAx/vWvOQtaLpbaaek8crelTULUzC8p6kqDAZ/V5wP4Z0aWbHqRU+JG2ZOp3ka4QGRnOSW6xzn30a564+FRtG5vLPuG8bjudyivlrijq6mSdUZZCVDMTg4HfS74VtycfrBaOPok+2jRq0ycr5V9yhSo3BacH6JPto+Fbcnb8QWj/CT7aNGlA02r5aNwWTc9qukt8tcsdHUxztGiOCwVgcDI0aNGjQsP//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">天梯</div>
-                                    <div class="artist">C AllStar</div>
                                 </div>
                             </div>
                         </div>
@@ -372,7 +372,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jan 2026, 00:16:02 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Jan 2026, 01:17:53 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
