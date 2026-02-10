@@ -321,20 +321,6 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAUDBgcBBAj/xAAzEAACAQMDAgQEAgsAAAAAAAABAgMEBREABiESMQcIE0EYImLRFhcjJjIzUVZxgZKhsf/EABcBAQEBAQAAAAAAAAAAAAAAAAABAgP/xAAaEQADAQEBAQAAAAAAAAAAAAAAARECIRIx/9oADAMBAAIRAxEAPwCHdPmW3DZdy3S2Q2W1yx0dTJAru0gLBWIBIB76WL5qNzFgF2/aSTwAGkz/AN1j3iFFJUeJG4YokLyPcplVR3JLnA0vFpudtvEcDQSRXKGRSsXT1N18FePc9uPfWVCx3hu3xRbr/lq28d/3v9NRnzU7kUkNt+0hhwQXk++sdlu19tlbPTzCSmrAwEsciAEMGDDKkccgaW1NmujXMQVFHULXVDBlheIq7luQQuPfOrwRnoraXmWv983PabVNZLXFHW1MdO0iPISoZgCQM99GsL8O6aak8Ttu09TG8U8VzhR43GGVg4BBB7HRqMqHFetv/N+/y3atko4YrhM8ckcfX+k9X5cg8Y9zn2GO512bVdF3h4u230qhKM1VXHFDUsp6EwMKejPY4Axnue+qx4hMRv3cvPevn9/rOlLoKOloK2lrIjUOWb04+oSQMrYBJxjJxkYJ/trWUoHpr4XPet8pot4XKWZUuEsVzMjSR5VXVPlABPzAfL2yR25zqz3K4Ux8R9uXFLm1RU1PoRNP09EEaSKOhsAZx0uepckhlbnBGMupLZJcbZU1dGyyy0sbzVUbsAyoCo6xn9oEv2GTwSeNQKwehSRpwrRsqrH1Hq7tyPbAx/vWvOQtaLpbaaek8crelTULUzC8p6kqDAZ/V5wP4Z0aWbHqRU+JG2ZOp3ka4QGRnOSW6xzn30a564+FRtG5vLPuG8bjudyivlrijq6mSdUZZCVDMTg4HfS74VtycfrBaOPok+2jRq0ycr5V9yhSo3BacH6JPto+Fbcnb8QWj/CT7aNGlA02r5aNwWTc9qukt8tcsdHUxztGiOCwVgcDI0aNGjQsP//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">時日如飛</div>
-                                    <div class="artist">C AllStar</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYFBwEDBAL/xAAuEAABAwMDAwIFBAMAAAAAAAABAgMEAAUREiExBhNBB1EUIjJxgQgVI2FCkbH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAgH/xAAbEQEAAgIDAAAAAAAAAAAAAAAAARECISIxMv/aAAwDAQACEQMRAD8AtrqZmN0zbvi7m4w2jOBjdROPbH3qvY/qtYXZYa7S0o1hKnFAYwTvUy26z6o9VTYMiSYsO3lWtpI/kWoZyCeAkbD+6h+uegfT+12t1mE8FXB1Ku2sPqWdfvgZ2z+KhdrVjWRydFakQ1MPR3khaXEqBCh4pfvkeZG6xslrS4wzGUw/Ll6tOFNoCUpGSNvmVnb2rX+ml6U10DIh3N3DsOc4ylCyMoThJx9skmmK6QJUrr9b7VvLiVRWmUzXsGO21qUpwYBypZOkAeOTsMFMa0rCcb59NDtvjrmIij4FUpzJQ3qQTgcnFFT1tsEdi7plyXDLlNshPdcCcAk/4pAAHBOed6KmmZzEeSb0r07AavHUKnWVoM+IO4UcK3yrT/e3+gKhDb+m7DNtNuchp7ZK1qXIfSe4lXjRzjI84pwUCiSh5KglSCdKh496q71odR0/JjyorRWmUkkalb6wcFAxud/zVQw12hhL15u1wa0JalOIQltCQAChOP8AmKmXGRpCkpUk48cY964+hbRJgdN25qe3onup7spfI1K3x+Bt+KY1slsrSoJKNJOcb4xuK0LyiUrICgPuaK6XG0eAc8bc5oqRiRHnLuXcYkkskgqQ4MgDzgUkXa3m9+qcX9wcS/EiJSW46z9C8BWoDjHGSeeKKKqxabaiWlE/R43rxIc+QICtQx8xxzRRWCMfyHAFEYPOaKKKD//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">朋友</div>
-                                    <div class="artist">Alan Tam</div>
-                                </div>
-                            </div>
-                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUCBwMEBgH/xAAxEAACAQMDAwIDBgcAAAAAAAABAgMEBREAEiEGMUETFFFhcQcVFiIjgTIzQkOR4fH/xAAYAQADAQEAAAAAAAAAAAAAAAABAgMEAP/EAB0RAQEAAgIDAQAAAAAAAAAAAAEAAhEhMQMEEkH/2gAMAwEAAhEDEQA/AK2tn3pS3GvSGs2SCRofcMPCABSM852t9fnpj0RPcKWZqhYDcJYZWX0pH2QozAAjPcNjyPh30ijpp0utbDJNIEhmXIJ/MxIGQSOM4H76aQ1TUEVw2qTH7pyUHGfOc6z5L+T/AFicPdPrSuxMKt2SQVG9JaSkciOJlOOD5GMYPfXJ01bVNUGRzIA42EM3j5f617Z6K5327yrQsDPuMjbmCqP2PGpzxPFOFqAHf1GjbYP6gcZU6qGoI92VbpUUskir7qGJf4vTOMbhjPOjWa1xLUTbrmUhplzud85Y8gKeewIPHy0aCh3CXzXCR7hUSS7XklZWkkxjBwR2Bx/zW3G1RXFqKjSWeSZuOfLYAAAJ51BLOwuLRtA0Mc0QkgEnPBPB4JOPrzq4fsp6Tt9Ja57jXsZbizD2+0lVgGAdy9juI8+Bx3zoujgnxwcni4HpqRLVR1FHc6FFudO5/TnXa4HnuRnSutu8EDbfbp6e9j6Wc4BH+e/ONXLebPaeoeoLcl+o6mWqUNGtZG+zuDsD47gn4YIPbvqlesbT921tUsVO6JBUNH6jEknjI857ecDXB9c1PKOOiXTVk0lVuZfUYheQP5mOASNGtWB6cRbZi5LNn8pyfro02qG5xW1VweTclW80aRqm+MFQqKfIA+J899WTc+pK+0UNoqKWCSWlnEMb+mudzlRwfOdvb6aNGgc1PGobt6019wklaouE1NIFb9ERHBVQcjPzyB8dI/tiVPxFGIjIYmV5+cYGRuOOBk4btnRo0Tq0+yHwXBRUEVXjYsS4/uRsA2e/IHY48aNGjUld2IL/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">阿牛</div>
@@ -342,10 +328,24 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAQCAwUGBwj/xAAtEAACAQMDAgQFBQEAAAAAAAABAgMABBEFEiEGMRNBUYEUIlKRwRVhcYKh0f/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDzXoK7jPjGcDv71uad8DcOIrmeWK43AbEjLnHOeAOeawNIcRw3b+IEdVBXkcnnjB71RbTnezMzbgC2c8+VB2ENBg+KEaSXT5XKk27LubnIwRkDt96yNRjsbe5a3t7qR50OHjkjKkfel5WvNP0Kw1F3eRJm4wHG30yxG09jwD5VxdpGmuTJM5LM2XYnk+tA/r+D4BU5B3cj2oqXUG3bbbAQuCAMY44ooIaMhkhu41i8VmCgDsB37mkJUMMkisBkZXj1rW6Y73Izg4X80xqtrElgQigbTuLHufXmgruNYurrpqy0yaRWtreRmiUDnJHOT/zFZ9hC1xcKBGHUYbvyP2rUttCnuNLh1COB4rGadbdZpM7UbHPzduTn/KW0hGtLuTx1KgZXP0nPnQHUu7FsXAB+bj3FFS6oIPwpGCMNyD/FFBV0821p/wCv5p7VXMdoskib42I+XOMjPPPl6UUUFVhr00dpNo8IP6RdTI7QTESGNgRyrYGD7dqYtlYXTRSEu6sxdj5jyz7UUUGb1BB4DwhWPhtuKr9PbNFFFB//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgMAAwEAAAAAAAAAAAAAAAcFBggBAgME/8QALhAAAQMCBQIFAwUBAAAAAAAAAgEDBAAFBhESITETQQdRYXGRFCKBCBUjQsHx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAGBEBAQEBAQAAAAAAAAAAAAAAAAERQTH/2gAMAwEAAhEDEQA/AM8sE/IeFhskyMk/qmfzzTGS2x8LYTk3uYSFPJOjFHn+QuF9kTeqdh6Brlg64SCKLmlX4b7GPB9yuJNJJbhyRiNtujmBqqJqUsl2RUVU9aZ4x0nGus9IQR1G64WSd1JVpkyfCC9pY482I+D0kg1uRlRRUe+SL3X3qweEuEggwTvU9ho3NiHWmaND+e/rTsw9eIrkoY0pWmpDodRpNSKLw+YL39uUqxrWL3mpltmmxKbdYfBcibNFRaK0J+oaywJNpjTo7CLdOuLTegfuNF7evnRViIJydJQUaF5QDPtsvzUoUN6LMg20yMG39Lro6l0mvbNOFy/2oKQPJbc5JX2v3eS63BB9NTsLZtzuoc6Vogas8M22f2cY7qCQqCpkvGVRuIxtGELPcLnCESCEGbUYNgFxSXTl65r8bVHYVur8fBca72/pmmlCNHM9KeaKqce+VKbxFxe7fJH0FuF6Na3nAJ+OuSoLyZ56STlN89ts61aoszF0xJiSyFiC8/ShGBzRbm0aXUbvmKJuvfftvRTiw/bWXozH0LQgxAigzDAh2DUKKR5eeW1FRZKgOMNvKshkTUdxQuP+11kQVfhSZbBaui4nWb07gJcF7Z7em3nRRWR17WPFl6sUR+LbZhtxnk+5pU1D7oi8LXJuJHuFscmajjqYSDEUzXSu/wA80UUlsbDD8R/D8afEkNvMutIYm2SZe344oooqD//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">陀飛輪</div>
-                                    <div class="artist">Eason Chan</div>
+                                    <div class="name">怪你過份美麗</div>
+                                    <div class="artist">Leslie Cheung</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcFBgIDBAj/xAAvEAABAwIEBAMIAwAAAAAAAAABAgMEABEFBhIhBxMxQRQycRUiUWFigaHRF3KD/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMEAQX/xAAeEQEAAgICAwEAAAAAAAAAAAABAAIDEQQhEhNRMv/aAAwDAQACEQMRAD8A840VM5cwhvFVPh1xaA3by/erKxkmEpGpyRJtbtb9U+/IpR0yKuK1jZKBWbXL5iecFaO+jr+aaOBcNoGITww7LlIRpKrpCb7fapuXwcw5tF2Z80n6tP6rDk0YZx7xNTDDVp8EiQgb6ucsK9LWAoqfz3lprLUiK20645zkqJ122sR8KKdVLGyKsNXTMcmzGYfii+opCikA2v2J7UwcJlomRnFNNurQ0NazpPuo394/AbUr8BMhCXnIvNCkqTctnoN6aORsHkycIxWThbyEGPEUy5rBSXQtCtSR2VYnvf5dq52eha6y7DrwNySy9mWHCxVtwKbcZKShVrlRv0CbbX9ascniJg6FvtOIWlbT4ZKD5iCDuNrdRbrb50sY+GYnEnxHvZkrlBQUvlxz7ov6dbWrfIiSmlJcDOKu61pWsyYvkSlSh1It5dPoTQ+FTrcaL86nNxtkR5cjBpMRQWy60tST9x+aKh+Ir7L0XCBHadabQl3ZzrcqBO9t9z8KKvwfg1IM37dzhyXm57Kvi+RDZk+I035qiNOm/S3rVtY4yzWUFKMEgAH61UUUxx1XcAyWDRNn82YltpwiED/dVZK434soWOGRD/oqiis9dfkL22+ylZ2zdIzY/FdkxWo5YSpIDZJvex7+lFFFEAdEWqu2f//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">龍舌蘭</div>
+                                    <div class="artist">Eason Chan &amp; eason and the duo band</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBAUBAv/EAC4QAAEDAwMCBAUFAQAAAAAAAAECAwQABRESITETQQYiYXEUMlGBkTNCYqKxcv/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCxY4bE67x2ZalIjKUOoUDfH0HqePTmtXxNZ/D0Z6Uypx3T8OJZxyVY8jQ+g59ais8J5qEi4FIEdTq29Wd9SUbD+5/FYd0kGU5KfWr9ZWE57ITt/gFBgWyO2xB15HUKvMcfMTz771aNSsxvggp1Kg5I040qVlIyNvbmuFpxSFOJTlPORQQnaivS0KR86Sk+oooHuRL0+DbbBSPM9KdeUf4pQkf6aWLnBedtIVHGpTqtGAN0I/cr7jb71uOJPwsNSs9FCeO25BIrviGYzeJFnXb46obDba2sFWcjVnUSO522oFe3QmUXBlhLSCpCA488sZG/ypHb1PpTKq2wU3JTNxuy2yy+jSG2MoWnlWd9htj64/BilREJkw2WfKuVmUdXPSSNKM/9HJ9sHvVO7q6L8plrPnWU9XO5A229zn80GwJduviFBmGtqa5IKVqbbJa09iU9s88UUuKlvBnotqDbeMFLYxq9zyeO9FBqSZDibBJ1KHTbICBjfJB702WDw4Z9ntzL56UNlBkSXByEY339k/2oooFSYp64+KX57hDDTgBQ2Bs21gBCfTCdNW/Gci0zFRZVnhvRjIUtTnUVnVjCQQO3B+9FFAsEb0UUUH//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">孤雛</div>
+                                    <div class="artist">AGA</div>
                                 </div>
                             </div>
                         </div>
@@ -372,7 +372,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Feb 2026, 23:55:11 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Feb 2026, 00:51:59 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
