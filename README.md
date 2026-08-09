@@ -51,13 +51,14 @@ Sunday                   45 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    9 mins              █████████████████████████   100.00 % 
+Other                    28 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Excel                    9 mins              █████████████████████████   100.00 % 
+Word                     24 mins             ██████████████████████░░░   87.41 % 
+PowerPoint               3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
 
 💻 Operating System: 
-Windows                  9 mins              █████████████████████████   100.00 % 
+Windows                  28 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -83,7 +84,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/StandardL/StandardL/main/assets/bar_graph.png)
 
 
- Last Updated on 2026/08/08 19:08:49 UTC
+ Last Updated on 2026/08/09 19:12:17 UTC
 <!--END_SECTION:waka-->
 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="65%" />
