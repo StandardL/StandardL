@@ -314,13 +314,6 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcEBgIDBQj/xAAxEAABAwMCBAQFAwUAAAAAAAABAgMEAAUREiEGEzFRByJBgRQyYXGhI7HBJDNikdH/xAAYAQEBAQEBAAAAAAAAAAAAAAAEAgEDAP/EAB4RAAICAgIDAAAAAAAAAAAAAAABAhIRQQMhIzFh/9oADAMBAAIRAxEAPwBYoSdJyTnHSsZOhMZSnjlCPN139q2JUSdtsHvWuUjmtqQrJSoetQYFknpADL2EE5KVFWx+9OTw6Qp23XpvUfNFT5tW2NX/ACkMu1aJcfmEqZUrzb4OB1/FeiPD60t2eyXhCNZjmOFJClBekEjKc+teT7wdFHqxXbq883eXv61ccFtoBbaOYdlHA9jnv22zuVlfAtF0dXHfkslTbWpcVPMUrzHpg7fTPr0FFUjGLBI1DGkDSeoP5qXZ4qJl2ixpGpLbqwlRSd9/Xer94GQuG+IZM6wcQwUOzVpL0R/UUqKQPMgYPUfMPpntUA8KT7Fx3JtjiVOGHl1tzH91B+Qj7/vmsXs5tM78Hw8t01TB1KICQ51ydtqb0G1Q5nCk5qIAh1hKmiRucgBQB9iKqFngzbHamU31KW5SG0pOFbElWdv9etTfDm/g8S8UWVaCdTaZTX+R0lKh+E0Zyxz4+DFHwZF/d3nG5iVramSVllkFMMnVgqJ64yB7DfH3oqZKY+Lu0htKHnv0W9KUu8vACyMBRG4HTO/fI9SlpB2JWHcpdmnQ7lbnS1MivodaP1H8ehHamTxT4rp4lft0tVlEOZGc0KfQ9q1IyCpOMdxkb7e9FFQTouc3io8URF3WM682WVcpLWMoKT0Uo9cnB3xgbD61G4XQuBx3GuDjYWzLjqZWUKxoPQ9dzt3ooorir32LU3WmjkTi43cnE/CiWeS3qStzlgeY7kgj9/5ooopaYZn/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">倩女幽魂(電影"倩女幽魂"主題曲)</div>
-                                    <div class="artist">Leslie Cheung</div>
-                                </div>
-                            </div>
-                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcCCP/EAC8QAAIBAgUDAgUDBQAAAAAAAAECAwQRAAUGEiETMUEHFBUiUWFxMkKRM1KBobH/xAAZAQACAwEAAAAAAAAAAAAAAAADBQACBAH/xAAgEQACAgICAwEBAAAAAAAAAAABAgADBBEhMRIiQVEF/9oADAMBAAIRAxEAPwBm1b6rSAJS5QhiiCBb/uvbFLpvV6Qxye8kZpZWvzzz5xhuY6gieQBWY2Fj9cVgz2aM7odwY/fCh8V7BrqOEvqqPE2b1F1vUJQGOkcbD8zeb2tYH/NsY9S5RWy0nxKVSKMMWZlILd+SR+SO9sWOkKeTV+ooKDNMwempFR5pZUj6jKiDcbLfk8ff8HDnrLPq86aXJKSgeOKuZoqd1jVFnVWuWt4YgdsErqbGUIOz2ZwvXkku3zoSNoCoqVllnjlWSmlujQk/K6HwfP8ABGDFHoWqmysyRTRPukUbQeAL88k9sGMlwcOddTdT4lASJTpofUstYKc5RVRyNt/qrsADWsST2HN7/TDDD6U5gqFavMsviqeusXSVySo53E3AFxwO4B+uPR2ptR0VO3tt9MlRBGEkE8bEtb9JW3FrHz/zCxUVNNXqytn0UEaf2wqxkHNwwI7fnx98R/6Nx1oai1cWv7Mkyr07qKXPIlo83NPMkbzCWdERCo4txIxNzxawx1rWeKhzvLjCVmpqCsihm2OXtILMWF+PmVrdu6c4malnzbKtXGDT2dQNSS8e69nFdVVQW+QKXPe/YX8XsTi3nyLJ8wq+pPm/uJerBVVxkgK9UpcKwAVQL7wGABtbknvgwuYaa1tiVVRyEGoj6wzGbJNbr0wJcvWRauOnkWwO7kg257/6wYkeo1BlrJ8Spq4T1M0igrKjbjv3MNpvYBVCgi3c4MbKRXYgOoK26xHIBmqSzs1RNHVSqisqNvKqWUkWtcjmxHe/Y4yDW+pqo1GYZXSVJjpFkOwRqF3Ke4LfqsTzycGDC3BrWy0+X5GWb6U7X9hl2oMloKZq2GszN86NItMTJGsiHgD9w5AtbnxhiyfV9LWQ9NKmd8wqE6Cb4Ilj6pFySoW1r/zgwYY2YyHkxXXYd6iTqXMqzMqSjirlVqyFnV+mgAuvHG0WAsB2HjBgwYKnoullbR5NzP/Z" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">必殺技</div>
@@ -328,16 +321,16 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBAUHAv/EACsQAAIBAwIFAwMFAAAAAAAAAAECAwAEEQUSITFBUWEGExQicZEjMkJSgf/EABcBAQEBAQAAAAAAAAAAAAAAAAIAAwT/xAAYEQEBAQEBAAAAAAAAAAAAAAAAARECEv/aAAwDAQACEQMRAD8A4FnzU3x5zF7vtv7X9ulRo+zOAC3Qnp9q8sSzFmJLHqaSMyadYS+hpLtYJxqkU2Wk+oq0eccuQHnvSzn704WnqGSH0Tc2MaxBXX2jnJPMAkDyD+RnrSfUmveQ2y6VEY7XZcgDdJ8gMG7/AE9/94UVmNPMyFWmlZTwwWJFFSaGm+n9R1C0S5toUMTEhcyKCcHHImoU05y7KzYI4csjNT6RPHGjRyQo24cDjr0zx4imTRI7V3jFwytx3bSxXl3PbhSwNqsmga7Hosix24NgyljJ7IyQcHI/l0HGl99LlRWLEgL469q7o2olbJypUQMgAUL+0Hr2rlesTRyTybc53HcD38UObp9zzmFGZDG2MZoqzcqDuP4yKKWBtSWaPJIqRgl2OABTdY6DMIf1gqMRuUjiaKKHVsPjmVYOrapDa/Gt7MvGh5OhIXxmsvVNMuI0+QQHRxvJUfngaKKMtPrmYwJI85ooorZz6//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAlACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYEBQEHCAL/xAArEAACAQMCBQIGAwAAAAAAAAABAgMABBEFIQYSIjFBE3EHFFFhgaEWUsH/xAAXAQEBAQEAAAAAAAAAAAAAAAABAgAD/8QAGREBAQADAQAAAAAAAAAAAAAAAAERMUES/9oADAMBAAIRAxEAPwB8uLqSJR1nOO2ahi4nYFhzN7Dara60ovIpWVcAAeaytkkCrzzqoGCBnAqsxsKyC4d5QJgF85HfONqS/iXe2k2nvBBcwvPFMoeNJAWXv3Gc05XELPcN6Tcyk4BUbmtRa7wK+m8UNb2vzmpXt3G81uqFebwWLgnAAyd877YotwZMra7MMems00yxLt1O2B4opa4xim4gsglhbXcqQ3CxmVuREWTBBXBOc5GM9s7UVvQ8ui7+JpCnpTiPlznq3ztiq+5025nJZ7hQRGVX38GsXgKyFmHS1SoL6N1zMCuB70aKnnF9a3JCuijHYdXj2pQvdTe2+NWhKoZ1fT5IpRjGEYO3Mfp2Wni9mV5HmbCoB58KPJrSfF3FT6fruo3+ktFcz6lF8jE7IQ0EYwMoc46jsfO33NTbxUnUni7Wof49f/J7odaJkZDgqPUkf9nFFJlzHfcK3N3o9+sM9vqEK8zPkruQeYY3yGH6+hoo0Nup3VZF5WUEEea8RWUR/sPY0UV1uhFfxpYRT8JaxbrzRk27n1FO4IGR+OntXLsLm7vtMEgUCNvTPKMcxBPV+cUUVy6qmH4ryetPp8hGGj9SMH7AKf8AaKKKpL//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">陰天快樂</div>
-                                    <div class="artist">Eason Chan</div>
+                                    <div class="name">高山低谷</div>
+                                    <div class="artist">Phil Lam</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcFBgECAwj/xAAtEAABAwIFAwQBBAMAAAAAAAABAgMEBREABhIhMQcTQSJRYXFCFBaBoSMy0f/EABkBAQADAQEAAAAAAAAAAAAAAAQAAwUCBv/EACQRAAIBAwQCAgMAAAAAAAAAAAECAwAREgQhMUETYSKBBSOx/9oADAMBAAIRAxEAPwD0pW6qzSIoefSpRUrShKRuo4VGbuoPZqzhkPqgRo8YPD/La6tViPk/eLdmXM1O/e8HLk9LC46mVPPKc/Bf4C/ja5/kYRucIlEzjVqdJlykwKcuW8ytIVpBSjdsX8Egk/eATaOZ3ylP6rdc36NamkwRcrfL3xW0nr5IegvQXXlpeVIStMlKdI7I5QRyCfjxh2ZMzfSkUmHCfqJkTv0okqWbkLCtwEk8/XO29sIvqJ07yx+x11jK6HHFRrFa2lKUnR+Sjq3P2Nhjn0PqEajU01SM2ZU2ntutqjg8rWToUSeBY229sIyh8e2x4v76qeMuShHvavQeV8wTptUKJrKu0/dGpS0ISytAvoSn/ZWoHVf7HAwY4dPa63Xac3UayuK3US4UIbUUpKR40jmxvbBiCOQAK/Ioc4GZxFL2bQp9QnVdFbQ0xWJCzJLmq4jkH0+scIKbJv7eMR2bKG7k7MFMmyocebDLiNYUbIKwbBdgDY8eD/eJLqrONSdnzIZUmMlTTaFhW7igrm3ge3vjOcZiUU4OyVomKDMdCkEklPpSCCRwQbm/v5vgT6yWRA8bZBnxsONwP5WysWwVhb43NbJn0uTAcoceKzFMtxSVxwNBdBN7EcgW/rjGlGh0+h0qVDriqbAl1GYpQEVBQlqK2nShIvuSbKPm+rCsyZVpLWdJdU/Th1vuKCe6VXKEngckbC33iz1apxq9MYU81Lk1Z3Sk99OlIvufAFrceBthTaJlxWQHFjvaqVYE5cWqdyNS2kZtpjsqUpVLUvuMurRbWpPCVDxv5/7gxZaHkWa1SkPsJUnt6i3F7wc17gE3BsD8YMA1f5PWRyYohYdHv7tVnh08/wAjJj6q9P5DokmmrhS2nXW1W9XcKSCDcEW4OISpdK6c9SnYkGZIjurUmzrhLlkJN9JTcX38nBgxoQounAWIWAN/usltRKTkWN6ptO6crm5qXFFKkU2AxrRIkq3RKBVupFz6CoEkWvb+MM2fkmkmBogQ0NyG0BLSlLUbW4vcm5+TfBgwueVnFieq5aVrisUWZOprZanQ3nEBRCVMsgC999hbb5tgwYMedOolU2ypJRX3Ir//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAYFCAQHAQID/8QALhAAAQMCBQIEBQUAAAAAAAAAAQIDBAARBQYSITETQRQiYXEHMlGB0RVSkaGx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAIDAQT/xAAbEQEBAAIDAQAAAAAAAAAAAAAAAQIRAxITUf/aAAwDAQACEQMRAD8A1TljFssRcFjoxTD2XpqdQcKm3CpfmNiFAgDYjt2qYezRlaMtKYOWo0lsKSdannUDVffY3PHrWrUE35r3Q7ZKt+4Nd8kqO22Wc3YOzg7aH8tsP6HFAqVJWL8E0pTczYO4xMDWV4bbrxPTc8Q4el5bbC9ib2Vv3uODS+5KV4JKL7FRP9AVGrVem6yM2Z8XzDgkuBIYh5WjQ31pCUSESnFFsg3KgDsb8WO33opVoqZnKTbt/NdjZQ8tx6Xq5S8hZMgQ+krBoakJ/cgqVzxfmhHw5yQ4Oq5gMUNqHnGhQ29Bf/KScsg0q9juVfAZZiYrHnNSkFDan9IKQhTlyhKbi6iAN/p7b0pE+oq7Q+H2Au4V+jpSF4D1EO+DcSVbp+Wy/m7DvxcGpJrIeVZLR62XMMvYt3EdN9Pval9vreqidFXfn/DDJcqG5HOCxGUFCUktjQoaeDcb/mij1g0UG5WKuKbWt90IPCQd7+9STUzGXVgdRSWk7FSSSfxRRVKlMWay7NUpJdekLCuNKiB9/WhyRjMcK0OydP0LlvL96KKlclOkYE2XiqtK+rIR3sVki3uKKKKeZJ3F/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Shall We Talk</div>
+                                    <div class="name">Bitter Gourd</div>
                                     <div class="artist">Eason Chan</div>
                                 </div>
                             </div>
@@ -346,6 +339,13 @@
                                 <div class="infos">
                                     <div class="name">孤雛</div>
                                     <div class="artist">AGA</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcCCP/EACsQAAIBBAECBQMFAQAAAAAAAAECAwAEBREhEjEGE0FRYQciIxQWcYGhkf/EABkBAAIDAQAAAAAAAAAAAAAAAAQFAAIDBv/EAB4RAAICAQUBAAAAAAAAAAAAAAECAAMRBBIhMUET/9oADAMBAAIRAxEAPwDXpkaXR40Pjik76iif9tXXlFjISoHTGWABOufYc0+CMiL8uupvapkWCW9sXgulDwyL0lSPSuR09JawRw1oTkzxtnfC97New3FyjSwSIA4TgbAGjVpj/D1rZY+SSbHpI0anmQNttjtvWu/+1vfiv6ex4uBp7XJXVvb9LeYzsH8v12pYHppSu4MbfulrHl7Rp4gCsaPG5m77UjvvjfGjTB9Q6HYfIZTUtq71mL+MLYwxWWHs7OWOViJJE9FLaIHfRNFapgvp7nI8ibvKXFq9tM4l2VPmKPRT/X/KKY16n5rgcwGzBab7jkiJaZgXReTx2pihkRo4pIxoOAdH5qvsrD9Niij/AJHKknfqag+F4ZLTGW8ElzJcfcXDSElgD6bPPel9C/Nee4OwDqWz1GHIWcV9aSQXCK8bjpKsNgikjC+Bcfj8pNevYWaPGdRukSgke50K0BG2N1GnUlCAN/FF21owD+zOm96wUB4MoLmyFy+ojrX3dQH+UVZF0tUWORkV230rvk+p1RWKgY5lix8nebxy5TEXNi8jxrMnQXQ8j+KprPHNiLO1tbYmUQJ0dT92+T80UVLFErXa2zb53LSzvX8oicFXXv7Gp7T9MZJ1vVFFRHOJGURbyV6817avHE7R7brbXCjXFFFFCMxJmpUYE//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">究竟天有幾高</div>
+                                    <div class="artist">George Lam</div>
                                 </div>
                             </div>
                         </div>
@@ -372,7 +372,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Sept 2026, 06:47:31 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Sept 2026, 09:42:57 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
